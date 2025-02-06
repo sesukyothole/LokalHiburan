@@ -464,6 +464,20 @@ https://op-group1-swiftservehd-1.dens.tv/h/h26/index.m3u8
 https://op-group1-swiftservehd-1.dens.tv/h/h91/index.m3u8
 
 
+#EXTINF:-1  tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hbo_my.png" group-title="Shareext@MOVIES",[ID] HBO 8k
+http://iptv12k.com:35461/654321/123456/2121
+#EXTINF:-1  tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hbo_family_asia.png" group-title="Shareext@MOVIES",[ID] HBO Family 8k
+http://iptv12k.com:35461/654321/123456/2120
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="Shareext@MOVIES",[ID] HBO Signature 8k
+http://iptv12k.com:35461/654321/123456/2118
+#EXTINF:-1  tvg-logo="https://i.loli.net/2021/10/07/w8Seb17JIRvBfrP.png" group-title="Shareext@MOVIES",HBO Hits MOVIE
+http://iptv12k.com:35461/654321/123456/1888
+#EXTINF:-1  tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cinemax_asia.png" group-title="Shareext@MOVIES",[ID] Cinemax 8k
+http://iptv12k.com:35461/654321/123456/2114
+#EXTINF:-1  tvg-logo="https://almondmagazine.com/wp-content/uploads/2017/10/BOO-Logo.jpg" group-title="Shareext@MOVIES",[MY]  BOO
+http://iptv12k.com:35461/654321/123456/722
+
+
 
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rcti_id.png" group-title="SHAREEXT@ CHANNELS || INDONESIA2",[ID] RCTI

@@ -3604,21 +3604,104 @@ http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/301290
 #EXTINF:-1 tvg-id="" tvg-name="MY: Animax" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/e0ca9c22b972add893fdad34af4255bc.png" group-title="SHAREEXT@Television/MY/ASTRO",MY: Animax
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/157486
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTINF:-1 group-title="SHAREEXT@Television/MY/ASTRO" tvg-logo="https://i.postimg.cc/wBFj2rLb/download-2024-01-19-T210746-192.png",Travel&Taste_MPD~OttNavigator 
-https://068877e598224108a60fb9cd5db3717f.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_5_Ad/dash.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTINF:-1 group-title="SHAREEXT@Television/MY/ASTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Sooka_Drama_Hotpot.png",Drama Hotpot_MPD~OttNavigator
-https://770c1b3657e94bc4b76ecd3e12882bcc.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_4_Ad/dash.mpd?aws.sessionId=58442df2-7820-4010-9a73-56381a7afe27
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTINF:-1 group-title="SHAREEXT@Television/MY/ASTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Sooka_Filem_Mantap.png",Filem Mantap_MPD~OttNavigator
-https://78470390525b4b03b023113696878114.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_2_Ad/dash.mpd?aws.sessionId=e5afa272-3bef-427f-9c68-976c25e8d27b
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTINF:-1 group-title="SHAREEXT@Television/MY/ASTRO" tvg-logo="https://i.postimg.cc/QtgS6JVY/download-2024-01-19-T210328-208.png",Lawak Sentral_MPD~OttNavigator
-https://4940c5f69db24a558151436f708d5a69.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_3_Ad/dash.mpd?aws.sessionId=bd2627a3-77a3-4364-8072-da33bbff1c5e
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTINF:-1 group-title="SHAREEXT@Television/MY/ASTRO" tvg-logo="https://i.postimg.cc/8CyTM6g2/download-2024-01-19-T210600-559.png",Drama Hebat_MPD~OttNavigator
-https://ce2388031147403ca25a81e56607a193.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_1_Ad/dash.mpd?aws.sessionId=44e175e1-eb16-4e7c-8aaa-e04e865974e9
+#EXTINF:-1 group-title="SHAREEXT@Television/MY/ASTRO" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png", BOO
+http://ua-iptv.com:8080/j.p.lowry714@gmail.com/BZJFU5cunM/856856
+#EXTINF:-1 group-title="SHAREEXT@Television/MY/ASTRO" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png", Showcase Movies
+http://ua-iptv.com:8080/j.p.lowry714@gmail.com/BZJFU5cunM/856905
+#EXTINF:-1 group-title="SHAREEXT@Television/MY/ASTRO" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png", CCTV4
+http://ua-iptv.com:8080/j.p.lowry714@gmail.com/BZJFU5cunM/856857
+#EXTINF:-1 group-title="SHAREEXT@Television/MY/ASTRO" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png", Celestial
+http://ua-iptv.com:8080/j.p.lowry714@gmail.com/BZJFU5cunM/856858
+#EXTINF:-1 group-title="SHAREEXT@Television/MY/ASTRO" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png", Celestial Classic Movies
+http://ua-iptv.com:8080/j.p.lowry714@gmail.com/BZJFU5cunM/856859
+#EXTINF:-1 group-title="SHAREEXT@Television/MY/ASTRO" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png", HBO Family
+http://ua-iptv.com:8080/j.p.lowry714@gmail.com/BZJFU5cunM/856881
+#EXTINF:-1 group-title="SHAREEXT@Television/MY/ASTRO" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png", HBO Hits
+http://ua-iptv.com:8080/j.p.lowry714@gmail.com/BZJFU5cunM/856882
+#EXTINF:-1 group-title="SHAREEXT@Television/MY/ASTRO" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png", HBO Signature
+http://ua-iptv.com:8080/j.p.lowry714@gmail.com/BZJFU5cunM/856883
+#EXTINF:-1 group-title="SHAREEXT@Television/MY/ASTRO" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png", Eurosport
+http://ua-iptv.com:8080/j.p.lowry714@gmail.com/BZJFU5cunM/856875
+#EXTINF:-1 group-title="SHAREEXT@Television/MY/ASTRO" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png", Golf Channel
+http://ua-iptv.com:8080/j.p.lowry714@gmail.com/BZJFU5cunM/856879
+#EXTINF:-1 group-title="SHAREEXT@Television/MY/ASTRO" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png", beIN Sports
+http://ua-iptv.com:8080/j.p.lowry714@gmail.com/BZJFU5cunM/856845
+#EXTINF:-1 group-title="SHAREEXT@Television/MY/ASTRO" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png", beIN Sports 2
+http://ua-iptv.com:8080/j.p.lowry714@gmail.com/BZJFU5cunM/856846
+#EXTINF:-1 group-title="SHAREEXT@Television/MY/ASTRO" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png", beIN Sports 3
+http://ua-iptv.com:8080/j.p.lowry714@gmail.com/BZJFU5cunM/856848
+#EXTINF:-1 group-title="SHAREEXT@Television/MY/ASTRO" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png", Sports SPO TV
+http://ua-iptv.com:8080/j.p.lowry714@gmail.com/BZJFU5cunM/856907
+#EXTINF:-1 group-title="SHAREEXT@Television/MY/ASTRO" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png", SPOTV2
+http://ua-iptv.com:8080/j.p.lowry714@gmail.com/BZJFU5cunM/856908
+#EXTINF:-1 group-title="SHAREEXT@Television/MY/ASTRO" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png", Astro Premier 1
+http://ua-iptv.com:8080/j.p.lowry714@gmail.com/BZJFU5cunM/856818
+#EXTINF:-1 group-title="SHAREEXT@Television/MY/ASTRO" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png", Astro Badminton
+http://ua-iptv.com:8080/j.p.lowry714@gmail.com/BZJFU5cunM/856819
+#EXTINF:-1 group-title="SHAREEXT@Television/MY/ASTRO" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png", TV Okey
+http://ua-iptv.com:8080/j.p.lowry714@gmail.com/BZJFU5cunM/856916
+#EXTINF:-1 group-title="SHAREEXT@Television/MY/ASTRO" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png", Star Vijay
+http://ua-iptv.com:8080/j.p.lowry714@gmail.com/BZJFU5cunM/856909
+#EXTINF:-1 group-title="SHAREEXT@Television/MY/ASTRO" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png", Astro Vellithirai
+http://ua-iptv.com:8080/j.p.lowry714@gmail.com/BZJFU5cunM/856839
+#EXTINF:-1 group-title="SHAREEXT@Television/MY/ASTRO" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png", ZEE Tamil
+http://ua-iptv.com:8080/j.p.lowry714@gmail.com/BZJFU5cunM/856933
+#EXTINF:-1 group-title="SHAREEXT@Television/MY/ASTRO" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png", Rania
+http://ua-iptv.com:8080/j.p.lowry714@gmail.com/BZJFU5cunM/856820
+#EXTINF:-1 group-title="SHAREEXT@Television/MY/ASTRO" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png", AXN
+http://ua-iptv.com:8080/j.p.lowry714@gmail.com/BZJFU5cunM/856843
+#EXTINF:-1 group-title="SHAREEXT@Television/MY/ASTRO" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png", Bisnet Adventure
+http://ua-iptv.com:8080/j.p.lowry714@gmail.com/BZJFU5cunM/856854
+#EXTINF:-1 group-title="SHAREEXT@Television/MY/ASTRO" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png", Bloomberg TV
+http://ua-iptv.com:8080/j.p.lowry714@gmail.com/BZJFU5cunM/856855
+#EXTINF:-1 group-title="SHAREEXT@Television/MY/ASTRO" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png", CNA
+http://ua-iptv.com:8080/j.p.lowry714@gmail.com/BZJFU5cunM/856862
+#EXTINF:-1 group-title="SHAREEXT@Television/MY/ASTRO" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png", Crime Investigation
+http://ua-iptv.com:8080/j.p.lowry714@gmail.com/BZJFU5cunM/856865
+#EXTINF:-1 group-title="SHAREEXT@Television/MY/ASTRO" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png", CTI Asia
+http://ua-iptv.com:8080/j.p.lowry714@gmail.com/BZJFU5cunM/856866
+#EXTINF:-1 group-title="SHAREEXT@Television/MY/ASTRO" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png", DISCOVERY ASIA
+http://ua-iptv.com:8080/j.p.lowry714@gmail.com/BZJFU5cunM/856867
+#EXTINF:-1 group-title="SHAREEXT@Television/MY/ASTRO" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png", Discovery Asia
+http://ua-iptv.com:8080/j.p.lowry714@gmail.com/BZJFU5cunM/856868
+#EXTINF:-1 group-title="SHAREEXT@Television/MY/ASTRO" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png", Discovery Channel
+http://ua-iptv.com:8080/j.p.lowry714@gmail.com/BZJFU5cunM/856869
+#EXTINF:-1 group-title="SHAREEXT@Television/MY/ASTRO" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png", Discovery Science
+http://ua-iptv.com:8080/j.p.lowry714@gmail.com/BZJFU5cunM/856870
+#EXTINF:-1 group-title="SHAREEXT@Television/MY/ASTRO" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png", Disney Junior
+http://ua-iptv.com:8080/j.p.lowry714@gmail.com/BZJFU5cunM/856871
+#EXTINF:-1 group-title="SHAREEXT@Television/MY/ASTRO" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png", Dmax
+http://ua-iptv.com:8080/j.p.lowry714@gmail.com/BZJFU5cunM/856872
+#EXTINF:-1 group-title="SHAREEXT@Television/MY/ASTRO" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png", Dream Works
+http://ua-iptv.com:8080/j.p.lowry714@gmail.com/BZJFU5cunM/856873
+#EXTINF:-1 group-title="SHAREEXT@Television/MY/ASTRO" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png", DW
+http://ua-iptv.com:8080/j.p.lowry714@gmail.com/BZJFU5cunM/856874
+#EXTINF:-1 group-title="SHAREEXT@Television/MY/ASTRO" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png", Food Network
+http://ua-iptv.com:8080/j.p.lowry714@gmail.com/BZJFU5cunM/856877
+#EXTINF:-1 group-title="SHAREEXT@Television/MY/ASTRO" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png", Global Trekker
+http://ua-iptv.com:8080/j.p.lowry714@gmail.com/BZJFU5cunM/856878
+#EXTINF:-1 group-title="SHAREEXT@Television/MY/ASTRO" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png", TVB Classic
+http://ua-iptv.com:8080/j.p.lowry714@gmail.com/BZJFU5cunM/856920
+#EXTINF:-1 group-title="SHAREEXT@Television/MY/ASTRO" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png", TVB E News
+http://ua-iptv.com:8080/j.p.lowry714@gmail.com/BZJFU5cunM/856921
+#EXTINF:-1 group-title="SHAREEXT@Television/MY/ASTRO" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png", TVB Jade
+http://ua-iptv.com:8080/j.p.lowry714@gmail.com/BZJFU5cunM/856922
+#EXTINF:-1 group-title="SHAREEXT@Television/MY/ASTRO" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png", TVB News
+http://ua-iptv.com:8080/j.p.lowry714@gmail.com/BZJFU5cunM/856923
+#EXTINF:-1 group-title="SHAREEXT@Television/MY/ASTRO" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png", TVB Xing He
+http://ua-iptv.com:8080/j.p.lowry714@gmail.com/BZJFU5cunM/856924
+#EXTINF:-1 group-title="SHAREEXT@Television/MY/ASTRO" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png", TVBS Asia
+http://ua-iptv.com:8080/j.p.lowry714@gmail.com/BZJFU5cunM/856925
+#EXTINF:-1 group-title="SHAREEXT@Television/MY/ASTRO" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png", TVBS News
+http://ua-iptv.com:8080/j.p.lowry714@gmail.com/BZJFU5cunM/856926
+#EXTINF:-1 group-title="SHAREEXT@Television/MY/ASTRO" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png", tvN
+http://ua-iptv.com:8080/j.p.lowry714@gmail.com/BZJFU5cunM/856927
+#EXTINF:-1 group-title="SHAREEXT@Television/MY/ASTRO" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png", tvN Movies
+http://ua-iptv.com:8080/j.p.lowry714@gmail.com/BZJFU5cunM/856928
+#EXTINF:-1 group-title="SHAREEXT@Television/MY/ASTRO" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png", TVS
+http://ua-iptv.com:8080/j.p.lowry714@gmail.com/BZJFU5cunM/856929
+#EXTINF:-1 group-title="SHAREEXT@Television/MY/ASTRO" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png", Warner TV
+http://ua-iptv.com:8080/j.p.lowry714@gmail.com/BZJFU5cunM/856930
 
 #EXTINF:-1  group-title="SHAREEXT@Television/MY/ASTRO" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv1.png",TV1~~
 https://mifntechnology.github.io/siaranMy/channels/Tv1/index.m3u8

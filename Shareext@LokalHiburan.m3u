@@ -46,8 +46,6 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID", ANTV_HD
 https://raw.githubusercontent.com/warningfm/streams/master/live/m3u8/id/b630a001384603f.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID",INDONESIAna TV
-https://dgwubfppws111.cloudfront.net/out/v1/667a86e35ddd496c886fa11598dc184d/index_1.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jqNYjGu.png?v=1.0.0.1" group-title="Shareext@LOKAL_ID", NET..
@@ -63,16 +61,12 @@ http://khano.nng.cloudns.us/live/m3u8/id/270f72deeb5843f.m3u8
 http://khano.nng.cloudns.us/live/m3u8/id/378a642ff00fed9.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID",BANDUNG•TV••🇮🇩
 http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID",PUJA•TV••🇮🇩
-https://v6.siar.us:443/pujatv/live/chunks.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID",SURABAYA•TV••🇮🇩
 https://e.siar.us/live/surabayatv.m3u8
 #EXTINF:-1 group-title="Shareext@LOKAL_ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Logo_Jurnal_TV_%282012%29.svg/2560px-Logo_Jurnal_TV_%282012%29.svg.png",Jurnal•TV
 https://5bf7b725107e5.streamlock.net/jurnaltv/jurnaltv/chunklist_w619472049.m3u8
 #EXTINF:-1 group-title="Shareext@LOKAL_ID" tvg-logo="https://i.imgur.com/wkK7YNx.png",JITV Jogja
 https://mam.jogjaprov.go.id:1937/tv/jitv_720p/chunklist_w850229424.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1c/Kawanua_TV.png" group-title="Shareext@LOKAL_ID",Kawanua TV
-http://63b2dc7196c38.streamlock.net:1935/ch18/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tvtabalong.com/wp-content/uploads/2022/03/logo-tv-tabalong.png" group-title="Shareext@LOKAL_ID",TV Tabalong
 https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8
 
@@ -1018,28 +1012,7 @@ http://filex.tv:8080/aftab123/004090/302328
 
 
 
-#EXTINF:-1 tvg-logo="https://jpmtelevisi.com/img/pontianak.png" group-title="SHAREEXT@TEVE_DAERAH",PON TV Pontianak
-https://63b2dc7196c38.streamlock.net:1937/ch15/myStream/chunklist_w330464297.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Logo_JPM_TV.png/200px-Logo_JPM_TV.png" group-title="SHAREEXT@TEVE_DAERAH",JPM TV
-https://63b2dc7196c38.streamlock.net:1937/ch6/myStream/chunklist_w448347974.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Logo_JPM_TV.png/200px-Logo_JPM_TV.png" group-title="SHAREEXT@TEVE_DAERAH",JPM TV Jakarta
-https://63b2dc7196c38.streamlock.net:1937/ch6/myStream/chunklist_w57900395.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1c/Kawanua_TV.png" group-title="SHAREEXT@TEVE_DAERAH",Kawanua TV
-https://63b2dc7196c38.streamlock.net:1937/ch18/myStream/chunklist_w912292865.m3u8
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/132/406/png-clipart-logo-sumedang-regency-brand-design-blue-text.png" group-title="SHAREEXT@TEVE_DAERAH",SMTV Sumedang
-https://63b2dc7196c38.streamlock.net:1937/ch25/myStream/chunklist_w500135136.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/RCTV_2012.png" group-title="SHAREEXT@TEVE_DAERAH",RCTV Cirebon
-https://63b2dc7196c38.streamlock.net:1937/ch9/myStream/chunklist_w1718673554.m3u8
-#EXTINF:-1 tvg-logo="https://jpmtelevisi.com/img/atambua.png" group-title="SHAREEXT@TEVE_DAERAH",Atambua TV
-https://63b2dc7196c38.streamlock.net:1937/atambua/myStream/chunklist_w1110314352.m3u8
-#EXTINF:-1 tvg-logo="https://jpmtelevisi.com/img/sabanten.png" group-title="SHAREEXT@TEVE_DAERAH",Sabanten-Banten
-https://63b2dc7196c38.streamlock.net:1937/sabantentv/myStream/chunklist_w1424683093.m3u8
-#EXTINF:-1 tvg-logo="https://batamtv.com/wp-content/uploads/2021/06/logo-btv.png" group-title="SHAREEXT@TEVE_DAERAH",Batam TV
-https://63b2dc7196c38.streamlock.net:1937/ch5/myStream/chunklist_w1096211175.m3u8
-#EXTINF:-1 tvg-logo="https://jpmtelevisi.com/img/natuna.png" group-title="SHAREEXT@TEVE_DAERAH",Natuna TV
-https://63b2dc7196c38.streamlock.net:1937/natuna/myStream/chunklist_w1179708856.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ms/8/8a/-PadjadjaranTVLogo_Baru.jpg" group-title="SHAREEXT@TEVE_DAERAH",PJTV Bandung
-https://63b2dc7196c38.streamlock.net:1937/ch30/myStream/chunklist_w38627436.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/3c/Cakra-semarang-tv.png" group-title="SHAREEXT@TEVE_DAERAH",SEMARANG TV
 http://116.254.112.74/hls/cakralive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4rTNT8F.png" group-title="SHAREEXT@TEVE_DAERAH",SANGAJI TV
@@ -1050,10 +1023,6 @@ https://lingkartv.my.id/hls/lingkartv.m3u8
 https://re1.siar.us/madutv/hd720/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/f8TPqdQ/DHOHO-TV.png" group-title="SHAREEXT@TEVE_DAERAH",DHOHO TV
 https://dhohotv.siar.us/dhohotv/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Bwv2SJt/Padang-TV.png" group-title="SHAREEXT@TEVE_DAERAH",Padang TV
-http://63b2dc7196c38.streamlock.net:1935/ch16/myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6Wfgvj8/liputan-6.png" group-title="SHAREEXT@TEVE_DAERAH",Liputan 6
-https://livestream.zazerconer.workers.dev/channel/UC1QpnGo11epfexw1bIiTHTg.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xhX8S0D/jawa-pos.png" group-title="SHAREEXT@TEVE_DAERAH",Jawa Pos TV
 https://jawapostv.siar.us/jawapostv/live/playlist.m3u8
 #EXTINF:-1 group-title="SHAREEXT@TEVE_DAERAH" tvg-logo="https://i.ibb.co/17ny3dn/tvdesa.png",TV Desa
@@ -1064,18 +1033,6 @@ https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
 https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@TEVE_DAERAH",Magna Channel
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@TEVE_DAERAH",Puja TV Aceh
-https://v6.siar.us/pujatv/live/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@TEVE_DAERAH",Tegar TV Lampung
-http://wms.klikhost.com:1935/tegartv/tegartv/playlist.m3u8
-#EXTINF:-1 group-title="SHAREEXT@TEVE_DAERAH" tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg",JITV Jogja
-https://mam.jogjaprov.go.id:1937/tv/jitv_720p/chunklist_w850229424.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/3/3b/Logo_Jawapos_TV.png/300px-Logo_Jawapos_TV.png" group-title="SHAREEXT@TEVE_DAERAH",Jawapos TV
-https://v2.siar.us/jawapostv/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1c/Kawanua_TV.png" group-title="SHAREEXT@TEVE_DAERAH",Kawanua TV
-http://63b2dc7196c38.streamlock.net:1935/ch18/myStream/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@TEVE_DAERAH",PUJA•TV
-https://v6.siar.us:443/pujatv/live/chunks.m3u8
 #EXTINF:-1 tvg-id="Inspira.id" tvg-logo="https://i.ibb.co/FVjrdsg/Inspira-TV.png" group-title="SHAREEXT@TEVE_DAERAH",Inspira TV
 https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="JogjaIstimewaTV.id" tvg-logo="https://i.ibb.co/3sPBv79/Jogja-Istimewa-TV.png" group-title="SHAREEXT@TEVE_DAERAH",Jogja Istimewa TV 
@@ -1086,12 +1043,8 @@ https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/chunklist_w1395725734
 https://5bf7b725107e5.streamlock.net/bantentv/bantentv/playlist.m3u8
 #EXTINF:-1 group-title="SHAREEXT@TEVE_DAERAH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Surabaya_TV_%282017%29.png",Surabaya TV
 https://e.siar.us/live/surabayatv.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hZ1cpnF/Garuda-TV.png" group-title="SHAREEXT@TEVE_DAERAH",Garuda TV
-https://etv-cdn.kdb.co.id/GarudaTV-Stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="SHAREEXT@TEVE_DAERAH" tvg-logo="https://i.ibb.co/tQXPctp/Sakti-TV.png",Sakti TV
 https://saktitv.siar.us/saktitv/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/y5m9CzC/Logo-Timor-TV.png" group-title="SHAREEXT@TEVE_DAERAH",Timor TV
-https://63b2dc7196c38.streamlock.net:1937/timortv/myStream/chunklist_w689544014.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/g4GgKMs/Bungo-TV.png" group-title="SHAREEXT@TEVE_DAERAH",Bungo TV
 https://5bf7b725107e5.streamlock.net/bungotv/bungotv/playlist.m3u8
 
@@ -1100,12 +1053,6 @@ https://5bf7b725107e5.streamlock.net/bungotv/bungotv/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_118.jpg" group-title="SHAREEXT@TVRI Group",TVRI_SPORT_denstv
 http://rr3.dens.tv/s/s107/index.m3u8
-#EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_118.jpg" group-title="SHAREEXT@TVRI Group",TVRI_WORLD_ott
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI3)/index.m3u8
-#EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_118.jpg" group-title="SHAREEXT@TVRI Group",TVRI_SPORT_ott
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI4)/index.m3u8
-#EXTINF:-1 tvg-logo="https://klik.tvri.go.id/po-content/uploads/tvrinasional.jpg" group-title="SHAREEXT@TVRI Group",TVRI Nasional
-https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional-avc1_1500000=10003-mp4a_96000_eng=20001.m3u8
 #EXTINF:-1 tvg-logo="https://klik.tvri.go.id/po-content/uploads/tvrijtown.jpg" group-title="SHAREEXT@TVRI Group",TVRI Jakarta
 https://ott-balancer.tvri.go.id/live/eds/DKI/hls/DKI-avc1_1500000=10003-mp4a_96000=20001.m3u8
 #EXTINF:-1 tvg-logo="https://klik.tvri.go.id/po-content/uploads/tvrinasional.jpg" group-title="SHAREEXT@TVRI Group",TVRI World
@@ -3823,112 +3770,9 @@ http://epg.112114.xyz/douyu/315457
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/2SxKw9h/shareext-taipei-China.jpg" group-title="SHAREEXT@ 港台 (AKTV)",ViuTV 
-http://aktv.top/AKTV/live/aktv2/viutv99/AKTV.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/2SxKw9h/shareext-taipei-China.jpg" group-title="SHAREEXT@ 港台 (AKTV)",ViuTVsix
-http://aktv.top/AKTV/live/aktv2/viutv696/AKTV.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/2SxKw9h/shareext-taipei-China.jpg" group-title="SHAREEXT@ 港台 (AKTV)",C+台
-http://aktv.top/AKTV/live/aktv3/c/AKTV.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/2SxKw9h/shareext-taipei-China.jpg" group-title="SHAREEXT@ 港台 (AKTV)",美亞電影台
-http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/2SxKw9h/shareext-taipei-China.jpg" group-title="SHAREEXT@ 港台 (AKTV)",Now星影台
-http://aktv.top/AKTV/live/aktv2/now/AKTV.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/2SxKw9h/shareext-taipei-China.jpg" group-title="SHAREEXT@ 港台 (AKTV)",Now爆谷台
-http://aktv.top/AKTV/live/aktv2/now-1/AKTV.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/2SxKw9h/shareext-taipei-China.jpg" group-title="SHAREEXT@ 港台 (AKTV)",AXN
-http://aktv.top/AKTV/live/aktv2/axn/AKTV.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/2SxKw9h/shareext-taipei-China.jpg" group-title="SHAREEXT@ 港台 (AKTV)",ROCK Action
-http://aktv.top/AKTV/live/aktv/rockaction/AKTV.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/2SxKw9h/shareext-taipei-China.jpg" group-title="SHAREEXT@ 港台 (AKTV)",Love Nature HD
-http://aktv.top/AKTV/live/aktv3/lovenaturehd/AKTV.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/2SxKw9h/shareext-taipei-China.jpg" group-title="SHAREEXT@ 港台 (AKTV)",PopC
-http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/2SxKw9h/shareext-taipei-China.jpg" group-title="SHAREEXT@ 港台 (AKTV)",tvN
-http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/2SxKw9h/shareext-taipei-China.jpg" group-title="SHAREEXT@ 港台 (AKTV)",Animax
-http://aktv.top/AKTV/live/aktv3/animaxhk/AKTV.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/2SxKw9h/shareext-taipei-China.jpg" group-title="SHAREEXT@ 港台 (AKTV)",KIX
-http://aktv.top/AKTV/live/aktv3/kix/AKTV.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/2SxKw9h/shareext-taipei-China.jpg" group-title="SHAREEXT@ 港台 (AKTV)",Thrill
-http://aktv.top/AKTV/live/aktv3/thrill/AKTV.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/2SxKw9h/shareext-taipei-China.jpg" group-title="SHAREEXT@ 港台 (AKTV)",無線新聞台
-http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/2SxKw9h/shareext-taipei-China.jpg" group-title="SHAREEXT@ 港台 (AKTV)",翡翠台
-http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/2SxKw9h/shareext-taipei-China.jpg" group-title="SHAREEXT@ 港台 (AKTV)",翡翠台 (4K)
-http://aktv.top/AKTV/live/aktv3/4k/AKTV.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/2SxKw9h/shareext-taipei-China.jpg" group-title="SHAREEXT@ 港台 (AKTV)",明珠台
-http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/2SxKw9h/shareext-taipei-China.jpg" group-title="SHAREEXT@ 港台 (AKTV)",TVB Plus
-http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/2SxKw9h/shareext-taipei-China.jpg" group-title="SHAREEXT@ 港台 (AKTV)",娛樂新聞台
-http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/2SxKw9h/shareext-taipei-China.jpg" group-title="SHAREEXT@ 港台 (AKTV)",黃金翡翠台
-http://aktv.top/AKTV/live/aktv/null-21/AKTV.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/2SxKw9h/shareext-taipei-China.jpg" group-title="SHAREEXT@ 港台 (AKTV)",千禧經典台
-http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/2SxKw9h/shareext-taipei-China.jpg" group-title="SHAREEXT@ 港台 (AKTV)",亞洲劇台
-http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/2SxKw9h/shareext-taipei-China.jpg" group-title="SHAREEXT@ 港台 (AKTV)",翡翠剧集台(北美)
-http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/2SxKw9h/shareext-taipei-China.jpg" group-title="SHAREEXT@ 港台 (AKTV)",明珠剧集台(北美)
-http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/2SxKw9h/shareext-taipei-China.jpg" group-title="SHAREEXT@ 港台 (AKTV)",翡翠综合台(北美)
-http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/2SxKw9h/shareext-taipei-China.jpg" group-title="SHAREEXT@ 港台 (AKTV)",无线新闻台(北美) 
-http://aktv.top/AKTV/live/aktv2/null-1/AKTV.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/2SxKw9h/shareext-taipei-China.jpg" group-title="SHAREEXT@ 港台 (AKTV)",鳳凰中文
-http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/2SxKw9h/shareext-taipei-China.jpg" group-title="SHAREEXT@ 港台 (AKTV)",鳳凰資訊
-http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/2SxKw9h/shareext-taipei-China.jpg" group-title="SHAREEXT@ 港台 (AKTV)",鳳凰香港
-http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/2SxKw9h/shareext-taipei-China.jpg" group-title="SHAREEXT@ 港台 (AKTV)",TVBS
-http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/2SxKw9h/shareext-taipei-China.jpg" group-title="SHAREEXT@ 港台 (AKTV)",TVBS 新聞台
-http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/2SxKw9h/shareext-taipei-China.jpg" group-title="SHAREEXT@ 港台 (AKTV)",中天亞洲台
-http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/2SxKw9h/shareext-taipei-China.jpg" group-title="SHAREEXT@ 港台 (AKTV)",中天新聞台
-http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/2SxKw9h/shareext-taipei-China.jpg" group-title="SHAREEXT@ 港台 (AKTV)",东森新闻
-http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/2SxKw9h/shareext-taipei-China.jpg" group-title="SHAREEXT@ 港台 (AKTV)",寰宇新聞台
-http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/2SxKw9h/shareext-taipei-China.jpg" group-title="SHAREEXT@ 港台 (AKTV)",中視
-http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/2SxKw9h/shareext-taipei-China.jpg" group-title="SHAREEXT@ 港台 (AKTV)",華視
-http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/2SxKw9h/shareext-taipei-China.jpg" group-title="SHAREEXT@ 港台 (AKTV)",靖天電影台
-http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/2SxKw9h/shareext-taipei-China.jpg" group-title="SHAREEXT@ 港台 (AKTV)",龍華日韓台
-http://aktv.top/AKTV/live/aktv/null-22/AKTV.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/2SxKw9h/shareext-taipei-China.jpg" group-title="SHAREEXT@ 港台 (AKTV)",龍華電影台
-http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/2SxKw9h/shareext-taipei-China.jpg" group-title="SHAREEXT@ 港台 (AKTV)",Channel 5 HD
-http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/2SxKw9h/shareext-taipei-China.jpg" group-title="SHAREEXT@ 港台 (AKTV)",Channel 8 HD
-http://aktv.top/AKTV/live/aktv/channel8hd/AKTV.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/2SxKw9h/shareext-taipei-China.jpg" group-title="SHAREEXT@ 港台 (AKTV)",Channel U HD
-http://aktv.top/AKTV/live/aktv/channeluhd/AKTV.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/2SxKw9h/shareext-taipei-China.jpg" group-title="SHAREEXT@ 港台 (AKTV)",NHK World-Japan
-http://aktv.top/AKTV/live/aktv3/nhkworldjapan/AKTV.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/2SxKw9h/shareext-taipei-China.jpg" group-title="SHAREEXT@ 港台 (AKTV)",日テレNEWS24
-http://aktv.top/AKTV/live/aktv/null-13/AKTV.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/2SxKw9h/shareext-taipei-China.jpg" group-title="SHAREEXT@ 港台 (AKTV)",DW
-http://aktv.top/AKTV/live/aktv3/dw/AKTV.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/2SxKw9h/shareext-taipei-China.jpg" group-title="SHAREEXT@ 港台 (AKTV)",France 24
-http://aktv.top/AKTV/live/aktv3/france24/AKTV.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/2SxKw9h/shareext-taipei-China.jpg" group-title="SHAREEXT@ 港台 (AKTV)", 亞洲新聞台
-http://aktv.top/AKTV/live/aktv3/null-3/AKTV.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/2SxKw9h/shareext-taipei-China.jpg" group-title="SHAREEXT@ 港台 (AKTV)",東方衛視國際頻道
-http://aktv.top/AKTV/live/aktv3/null/AKTV.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/2SxKw9h/shareext-taipei-China.jpg" group-title="SHAREEXT@ 港台 (AKTV)", Nick Jr
-http://aktv.top/AKTV/live/aktv3/nickjr/AKTV.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/2SxKw9h/shareext-taipei-China.jpg" group-title="SHAREEXT@ 港台 (AKTV)",Nickelodeon
-http://aktv.top/AKTV/live/aktv3/nickelodeon/AKTV.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/2SxKw9h/shareext-taipei-China.jpg" group-title="SHAREEXT@ 港台 (AKTV)",ZooMoo
-http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8
+ 
+
+
 
 
 

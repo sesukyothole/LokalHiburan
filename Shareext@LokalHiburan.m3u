@@ -5,36 +5,44 @@ https://www.dropbox.com/s/4rwbpj055sws4nm/savagelove_avengershareext.mp4?dl=1
 #EXTINF:-1   tvg-logo="https://i.ibb.co/D8WHHTG/shareext-tvku-0nline.jpg" group-title="ShareExt@Relax",WELCOME@_SHAREEXT@!!!!
 https://www.dropbox.com/s/odrcf9c1jseu07a/ShareExt_adminGroup.mp4?dl=1
 
+#EXTINF:-1 tvg-id="" tvg-name="RCTI" tvg-logo="https://perfecttv.net/logo/rcti.png" group-title="Shareext@LOKAL_ID",RCTI (vip)
+https://83.142.30.171:443/live/vip_3klp0es8/wg3piwEs/2701.ts
+#EXTINF:-1 tvg-id="" tvg-name="MNCTV" tvg-logo="https://perfecttv.net/logo/mnctv.png" group-title="Shareext@LOKAL_ID",MNCTV (vip)
+https://83.142.30.171:443/live/vip_3klp0es8/wg3piwEs/2700.ts
+#EXTINF:-1 tvg-id="" tvg-name="SCTV" tvg-logo="https://perfecttv.net/logo/sctv.png" group-title="Shareext@LOKAL_ID",SCTV (vip)
+https://83.142.30.171:443/live/vip_3klp0es8/wg3piwEs/2699.ts
+#EXTINF:-1 tvg-id="Indosiar" tvg-name="Indosiar" tvg-logo="https://perfecttv.net/logo/indosiar.png" group-title="Shareext@LOKAL_ID",Indosiar (vip)
+https://83.142.30.171:443/live/vip_3klp0es8/wg3piwEs/2706.ts
+#EXTINF:-1 tvg-id="Trans7" tvg-name="Trans7" tvg-logo="https://perfecttv.net/logo/trans7.png" group-title="Shareext@LOKAL_ID",Trans7 (vip)
+https://83.142.30.171:443/live/vip_3klp0es8/wg3piwEs/2705.ts
+#EXTINF:-1 tvg-id="TransTV. MACAN" tvg-name="Trans Tv" tvg-logo="https://perfecttv.net/logo/transtv.png" group-title="Shareext@LOKAL_ID",TransTv (vip)
+https://83.142.30.171:443/live/vip_3klp0es8/wg3piwEs/2704.ts
+
 #EXTINF:-1 group-title="Shareext@LOKAL_ID" tvg-id="RCTI.id" tvg-logo="https://pictr.com/images/2025/01/23/xpuQuV.jpg",RCTI (github)
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
 https://aseanic.github.io/hls/284.m3u8
-
 #EXTINF:-1 group-title="Shareext@LOKAL_ID" tvg-id="GTV.id" tvg-logo="https://pictr.com/images/2025/01/23/xpuTy5.png",GTV (github)
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
 https://aseanic.github.io/hls/285.m3u8
-
 #EXTINF:-1 group-title="Shareext@LOKAL_ID" tvg-id="MNCTV.id" tvg-logo="https://pictr.com/images/2025/01/23/xpueHQ.jpg",MNC TV (github)
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
 https://aseanic.github.io/hls/286.m3u8
-
 #EXTINF:-1 group-title="Shareext@LOKAL_ID" tvg-id="NET TV.id" tvg-logo="https://pictr.com/images/2025/01/23/xpw2bx.jpg",NET (github)
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
 https://aseanic.github.io/hls/287.m3u8
-
 #EXTINF:-1 group-title="Shareext@LOKAL_ID" tvg-id="iNews.id" tvg-logo="https://pictr.com/images/2025/01/23/xpuX16.jpg",iNews (github)
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
 https://aseanic.github.io/hls/288.m3u8
-
 #EXTINF:-1 tvg-logo="https://pictr.com/images/2025/01/23/xpuDen.jpg" tvg-id="Local.Programming.Dummy.us" group-title="Shareext@LOKAL_ID",Garuda TV(1080)
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
@@ -464,6 +472,25 @@ https://op-group1-swiftservehd-1.dens.tv/h/h91/index.m3u8
 http://125.227.210.55:8153/VideoInput/play.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7Y5LPGd/HBOshare-Ext-Group.jpg" group-title="Shareext@MOVIES", CINEMAX_tw
 http://125.227.210.55:8151/VideoInput/play.ts
+#EXTINF:-1 tvg-id="" tvg-name="143 HBO Signature" tvg-logo="https://perfecttv.net/logo/hbosingnature.png" group-title="Shareext@MOVIES",HBO Signature (vip)
+https://83.142.30.171:443/live/vip_3klp0es8/wg3piwEs/2709.ts
+#EXTINF:-1 tvg-id="" tvg-name="138 Thrill" tvg-logo="https://perfecttv.net/logo/thrill.png" group-title="Shareext@MOVIES",Thrill (vip)
+https://83.142.30.171:443/live/vip_3klp0es8/wg3piwEs/2703.ts
+#EXTINF:-1 tvg-id="" tvg-name="149 Galaxy Premium" tvg-logo="https://perfecttv.net/logo/galaxypremium.png" group-title="Shareext@MOVIES",Galaxy Premium (vip)
+https://83.142.30.171:443/live/vip_3klp0es8/wg3piwEs/2695.ts
+#EXTINF:-1 tvg-id="" tvg-name="148 Galaxy" tvg-logo="https://perfecttv.net/logo/galaxy.png" group-title="Shareext@MOVIES",Galaxy (vip)
+https://83.142.30.171:443/live/vip_3klp0es8/wg3piwEs/2694.ts
+#EXTINF:-1 tvg-id="" tvg-name="169 KIX" tvg-logo="https://perfecttv.net/logo/kix.png" group-title="Shareext@MOVIES",KIX (vip)
+https://83.142.30.171:443/live/vip_3klp0es8/wg3piwEs/2693.ts
+#EXTINF:-1 tvg-id="" tvg-name="154 SonyPix" tvg-logo="https://perfecttv.net/logo/sonypix.png" group-title="Shareext@MOVIES",SonyPix (vip)
+https://83.142.30.171:443/live/vip_3klp0es8/wg3piwEs/2688.ts
+#EXTINF:-1 tvg-id="" tvg-name="152 Star Movies" tvg-logo="https://perfecttv.net/logo/starmovies.png" group-title="Shareext@MOVIES",Star Movies (vip)
+https://83.142.30.171:443/live/vip_3klp0es8/wg3piwEs/2687.ts
+#EXTINF:-1 tvg-id="" tvg-name="151 &Prive" tvg-logo="https://perfecttv.net/logo/privehd.png" group-title="Shareext@MOVIES",&Prive (vip)
+https://83.142.30.171:443/live/vip_3klp0es8/wg3piwEs/2686.ts
+#EXTINF:-1 tvg-id="" tvg-name="150 &flix" tvg-logo="https://perfecttv.net/logo/flixhd.png" group-title="Shareext@MOVIES",&flix (vip)
+https://83.142.30.171:443/live/vip_3klp0es8/wg3piwEs/2685.ts
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7Y5LPGd/HBOshare-Ext-Group.jpg" group-title="Shareext@MOVIES", HBO (3)
 http://iptvtree.net:8080/F25093/29838750/306484
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7Y5LPGd/HBOshare-Ext-Group.jpg" group-title="Shareext@MOVIES", HBO Family (3)
@@ -3428,6 +3455,12 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/daaitv/manifest.mpd
 
 
 
+
+
+
+
+
+
 #EXTINF:-1 group-title="SHAREEXT@Television/MY/ASTRO" tvg-id="101.astro" tvg-logo="https://pictr.com/images/2025/01/14/x1tW45.png",TV1
 #KODIPROP:contentlookup=False
 #KODIPROP:inputstream=inputstream.adaptive
@@ -3473,6 +3506,26 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live08.mpd
 #KODIPROP:inputstream.adaptive.license_key=1dfa8a645af41e83c520bddf913934ca:65f6af8750d24b230d91b984237ac1e4
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live09.mpd
 
+#EXTINF:-1 tvg-id="" tvg-name="109 Awesome" tvg-logo="https://perfecttv.net/logo/awesome.png" group-title="SHAREEXT@Television/MY/ASTRO",Awesome (vip)
+https://83.142.30.171:443/live/vip_3klp0es8/wg3piwEs/2708.ts
+#EXTINF:-1 tvg-id="" tvg-name="127 QJ" tvg-logo="https://perfecttv.net/logo/qj.png" group-title="SHAREEXT@Television/MY/ASTRO",QJ (vip)
+https://83.142.30.171:443/live/vip_3klp0es8/wg3piwEs/2684.ts
+#EXTINF:-1 tvg-id="" tvg-name="121 Citra(B)" tvg-logo="https://perfecttv.net/logo/citra.png" group-title="SHAREEXT@Television/MY/ASTRO",Citra (vip)
+https://83.142.30.171:443/live/vip_3klp0es8/wg3piwEs/2679.ts
+#EXTINF:-1 tvg-id="" tvg-name="119 Ria(B)" tvg-logo="https://perfecttv.net/logo/ria.png" group-title="SHAREEXT@Television/MY/ASTRO",Ria (vip)
+https://83.142.30.171:443/live/vip_3klp0es8/wg3piwEs/2678.ts
+#EXTINF:-1 tvg-id="" tvg-name="118 Prima (B)" tvg-logo="https://perfecttv.net/logo/prima.png" group-title="SHAREEXT@Television/MY/ASTRO",Prima (vip) 
+https://83.142.30.171:443/live/vip_3klp0es8/wg3piwEs/2677.ts
+#EXTINF:-1 tvg-id="" tvg-name="809 Astro Grandstand" tvg-logo="https://perfecttv.net/logo/grandstand.png" group-title="SHAREEXT@Television/MY/ASTRO",Astro Grandstand (vip)
+https://83.142.30.171:443/live/vip_3klp0es8/wg3piwEs/2698.ts
+#EXTINF:-1 tvg-id="" tvg-name="807 Premier League 2 (A)" tvg-logo="https://perfecttv.net/logo/premierleague2A.png" group-title="SHAREEXT@Television/MY/ASTRO",PremierLeague 2 (vip) 
+https://83.142.30.171:443/live/vip_3klp0es8/wg3piwEs/2683.ts
+#EXTINF:-1 tvg-id="" tvg-name="806 Premier League (A)" tvg-logo="https://perfecttv.net/logo/premierleagueA.png" group-title="SHAREEXT@Television/MY/ASTRO",PremierLeague (vip)
+https://83.142.30.171:443/live/vip_3klp0es8/wg3piwEs/2682.ts
+#EXTINF:-1 tvg-id="" tvg-name="804 Arena Bola 2" tvg-logo="https://perfecttv.net/logo/arenabola2A.png" group-title="SHAREEXT@Television/MY/ASTRO",ArenaBola 2 (vip)
+https://83.142.30.171:443/live/vip_3klp0es8/wg3piwEs/2681.ts
+#EXTINF:-1 tvg-id="" tvg-name="803 Arena Bola" tvg-logo="https://perfecttv.net/logo/arenabolaA.png" group-title="SHAREEXT@Television/MY/ASTRO",ArenaBola (vip)
+https://83.142.30.171:443/live/vip_3klp0es8/wg3piwEs/2680.ts
 #EXTINF:-1 group-title="SHAREEXT@Television/MY/ASTRO" tvg-id="146.astro" tvg-logo="https://pictr.com/images/2025/01/14/x1tIU8.png",OKEY
 #KODIPROP:contentlookup=False
 #KODIPROP:inputstream=inputstream.adaptive

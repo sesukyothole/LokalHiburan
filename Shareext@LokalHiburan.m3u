@@ -4595,8 +4595,7 @@ http://118.122.189.74:9901/tsfile/live/0004_1.m3u8
 http://219.159.91.10:9901/tsfile/live/0005_1.m3u8
 #http://36.105.100.208:35455/gaoma/cctv5.m3u8
 #EXTINF:-1 tvg-id="cctv5+" tvg-name="cctv5+" tvg-logo="https://epg.v1.mk/logo/cctv5+.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv5p-高码
-
-#http://36.105.100.208:35455/gaoma/cctv5p.m3u8
+http://36.105.100.208:35455/gaoma/cctv5p.m3u8
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://epg.v1.mk/logo/CCTV6.png" group-title="SHAREEXT@CHINA_STATION/央视频道",CCTV-6
 http://118.122.189.74:9901/tsfile/live/0006_2.m3u8
 #http://36.105.100.208:35455/gaoma/cctv6.m3u8

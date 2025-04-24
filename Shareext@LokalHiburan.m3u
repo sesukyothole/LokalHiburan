@@ -18,6 +18,83 @@ https://83.142.30.171:443/live/vip_3klp0es8/wg3piwEs/2705.ts
 #EXTINF:-1 tvg-id="TransTV. MACAN" tvg-name="Trans Tv" tvg-logo="https://perfecttv.net/logo/transtv.png" group-title="Shareext@LOKAL_ID",TransTv (vip)
 https://83.142.30.171:443/live/vip_3klp0es8/wg3piwEs/2704.ts
 
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/964/49964-SNAPSHOT-l.png" group-title="Shareext@LOKAL_ID",RTV
+https://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
+
+#EXTINF:-1 group-title="Shareext@LOKAL_ID" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://thumbor.prod.vidiocdn.com/A9PXp2pjYWnd8NZ0oQbwniC31So=/640x360/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8815/metro-globe-network-1ab3f1.jpg",Metro Globe Network
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://edge.medcom.id/live-edge/smil:mgnch.smil/chunklist_w139395680_b2692000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png" tvg-url="https://bit.ly/JejeVisionEPG" group-title="Shareext@LOKAL_ID",CNBC Indonesia
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1457300562_b384000_sleng.m3u8
+
+#EXTINF:-1 tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://cdn.cnnindonesia.com/cnnid/images/logo_cnn_fav.png?v=10.15.2" group-title="Shareext@LOKAL_ID",CNN Indonesia
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1238913108_b384000_sleng.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+#EXTINF:-1 group-title="Shareext@LOKAL_ID" tvg-logo="https://iptv.urfan.web.id/logo/bn.png",BN Channel
+http://cdn.nng.cloudns.us/live/m3u8/id/6183ec225226ccf.m3u8
+
+#EXTINF:-1 group-title="Shareext@LOKAL_ID" tvg-logo="https://iptv.urfan.web.id/logo/idtv.png",IDTV
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
+
+#EXTINF:-1 tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI4MneSVgEtCTr1bTcY2db9hW6VFIv8XOoZg&usqp=CAU" group-title="Shareext@LOKAL_ID",Indonesiana TV 
+https://tvstreamcast.com/indonesiana.m3u8
+
+#EXTINF:-1 tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Logo_GarudaTV_Merah_Putih_Silver_Merah.png/1200px-Logo_GarudaTV_Merah_Putih_Silver_Merah.png" group-title="Shareext@LOKAL_ID",Garuda TV
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://hgmtv.com:19360/garudatvlivestreaming/720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IGIX3o8.jpg" group-title="Shareext@LOKAL_ID",TV Kesehatan
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://5bf7b725107e5.streamlock.net/tvkesehatan/tvkesehatan/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTVLCOPT:http-referrer=https://www.dens.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://channeljowo.com/wp-content/uploads/2024/09/cropped-LOGO-CHANNEL-JOWO_04-1536x642.png" group-title="Shareext@LOKAL_ID", Channel Jowo
+http://khano.nng.cloudns.us/live/m3u8/id/1de333734b1b7e0.m3u8
+
+#EXTINF:-1 group-title="Shareext@LOKAL_ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/VTV_Indonesia_red.png",VTV_(ox)
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+https://why.biz.id/Iptv/oxygen.php?id=vtv|user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2  
+
+#EXTINF:-1 group-title="Shareext@LOKAL_ID" tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg",ANTV_(ox)
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+https://why.biz.id/Iptv/oxygen.php?id=antv|user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+
+#EXTINF:-1 group-title="Shareext@LOKAL_ID" tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg",TVONE_(ox)
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+https://why.biz.id/Iptv/oxygen.php?id=tvone|user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+
+#EXTINF:-1 group-title="Shareext@LOKAL_ID" tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg",RTV_(ox)
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+https://why.biz.id/Iptv/oxygen.php?id=rtv|user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+
+#EXTINF:-1 group-title="Shareext@LOKAL_ID" tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg",OXYGEN TV_(ox)
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+https://why.biz.id/Iptv/oxygen.php?id=oxygentv|user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+
+#EXTINF:-1 group-title="Shareext@LOKAL_ID" tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg",KOMPAS TV_(ox)
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+https://why.biz.id/Iptv/oxygen.php?id=kompastv|user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+
+#EXTINF:-1 group-title="Shareext@LOKAL_ID" tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg",METRO TV_(ox)
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+https://why.biz.id/Iptv/oxygen.php?id=metrotv|user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+
+#EXTINF:-1 group-title="Shareext@LOKAL_ID" tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg",TVRI_(ox)
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+https://why.biz.id/Iptv/oxygen.php?id=tvri|user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
+#EXTINF:-1 tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/942/49942-SNAPSHOT-l.png" group-title="Shareext@LOKAL_ID",LIFE
+https://dsgtq5sngxkde.cloudfront.net/live/eds/Life/sa_dash/Life.mpd
+
 #EXTINF:-1 group-title="Shareext@LOKAL_ID" tvg-id="RCTI.id" tvg-logo="https://pictr.com/images/2025/01/23/xpuQuV.jpg",RCTI (github)
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
@@ -2170,29 +2247,282 @@ https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6857fe540a1018060b41
 
 
 
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
+#EXTINF:-1 tvg-id="RCTI.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.ibb.co.com/SXV88k2/rcti.png" group-title="SHAREEXT@ MPD || VISION PLUS",RCTI HD
+https://dsgtq5sngxkde.cloudfront.net/live/eds/RCTI-DD/sa_dash/RCTI-DD.mpd
 
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
+#EXTINF:-1 tvg-id="MNCTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/949/49949-SNAPSHOT-l.png" group-title="SHAREEXT@ MPD || VISION PLUS",MNC TV
+https://dsgtq5sngxkde.cloudfront.net/live/eds/MNCTV-HD/sa_dash/MNCTV-HD.mpd
 
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
+#EXTINF:-1 tvg-id="GTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/951/49951-SNAPSHOT-l.png" group-title="SHAREEXT@ MPD || VISION PLUS",GTV
+https://dsgtq5sngxkde.cloudfront.net/live/eds/GTV-HD/sa_dash/GTV-HD.mpd
 
-#EXTINF: -1 tvg-logo="https://i.ibb.co.com/j6B9YFT/Picsart-23-07-21-22-42-27-164.jpg" group-title="SHAREEXT@ MPD || VISION PLUS", SPORTSTARS 4
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b576e5f5f1bc4cbaa866e5b0face5a30:3377be6c3b5f688ebed687312c9b9d95
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
+#EXTINF:-1 group-title="SHAREEXT@ MPD || VISION PLUS" tvg-id="iNews.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/952/49952-SNAPSHOT-l.png",iNews
+https://dsgtq5sngxkde.cloudfront.net/live/eds/iNewsTV-HDD/sa_dash/iNewsTV-HDD.mpd
 
-#EXTINF: -1 tvg-logo="https://i.ibb.co.com/DzmfSRC/Beinsport-1.jpg" group-title="SHAREEXT@ MPD || VISION PLUS", BEIN SPORTS 1
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
+#EXTINF:-1 tvg-id="tvOne.id" group-title="SHAREEXT@ MPD || VISION PLUS" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/966/49966-SNAPSHOT-l.png",TVOne
+https://dsgtq5sngxkde.cloudfront.net/live/eds/TVOne-2/sa_dash/TVOne-2.mpd
+
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
+#EXTINF:-1 group-title="SHAREEXT@ MPD || VISION PLUS" tvg-id="MNCNews.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/026/50026-SNAPSHOT-l.png",SindoNews
+https://dsgtq5sngxkde.cloudfront.net/live/eds/MNCnews-HDD/sa_dash/MNCnews-HDD.mpd
+
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
+#EXTINF:-1 tvg-id="TVRI.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://static.mncnow.id/images/channel/c57573a6/f784_r32.jpg" group-title="SHAREEXT@ MPD || VISION PLUS",TVRI Nasional
+https://dsgtq5sngxkde.cloudfront.net/live/eds/PemersatuBangsa/sa_dash/PemersatuBangsa.mpd
+
+#EXTINF:-1 tvg-id="TransTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be43042758d8/36f75de0a5b543da8d17c46db9d44178.jpg" group-title="SHAREEXT@ MPD || VISION PLUS",TransTV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://dsgtq5sngxkde.cloudfront.net/live/eds/TransTV-2/sa_dash/TransTV-2.mpd|Referer=https://www.visionplustv.id/&user-agent=Android
+
+#EXTINF:-1 tvg-id="Trans7.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_110.png" group-title="SHAREEXT@ MPD || VISION PLUS",Trans7 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://dsgtq5sngxkde.cloudfront.net/live/eds/Trans7-2/sa_dash/Trans7-2.mpd|Referer=https://www.visionplustv.id/&user-agent=Android
+
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
+#EXTINF:-1 tvg-id="AXN.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/003/50003-SNAPSHOT-l.png" group-title="SHAREEXT@ MPD || VISION PLUS",AXN
+https://dsgtq5sngxkde.cloudfront.net/live/eds/AXN/sa_dash/AXN.mpd
+
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
+#EXTINF:-1 group-title="SHAREEXT@ MPD || VISION PLUS" tvg-id="GALAXY" tvg-url="https://bit.ly/IndonesiaEpgG" tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1635233977-.png",Galaxy
+https://dsgtq5sngxkde.cloudfront.net/live/eds/Galaxy-HD/sa_dash/Galaxy-HD.mpd
+
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
+#EXTINF:-1 group-title="SHAREEXT@ MPD || VISION PLUS" tvg-id="GALAXYPremium" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_12.png",Galaxy Premium
+https://dsgtq5sngxkde.cloudfront.net/live/eds/GalaxyPremium-HD/sa_dash/GalaxyPremium-HD.mpd
+
+#EXTVLCOPT:http-referrer=https://visionplustv.id/
+#EXTINF:-1 tvg-id="Thrill.hk" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.mncvision.id/userfiles/image/channel/thrill_150x150px.jpg" group-title="SHAREEXT@ MPD || VISION PLUS",Thriil
+https://dsgtq5sngxkde.cloudfront.net/live/eds/Thrill/sa_dash/Thrill.mpd
+
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
+#EXTINF:-1 tvg-id="Cinemachi" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_7.png" group-title="SHAREEXT@ MPD || VISION PLUS",CINEMACHI HD
+https://dsgtq5sngxkde.cloudfront.net/live/eds/Cinemachi-HD/sa_dash/Cinemachi-HD.mpd
+
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
+#EXTINF:-1 tvg-id="CinemachiKids" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_9.png" group-title="SHAREEXT@ MPD || VISION PLUS",CINEMACHI KIDS
+https://dsgtq5sngxkde.cloudfront.net/live/eds/Cinemachi-Kids-HD/sa_dash/Cinemachi-Kids-HD.mpd
+
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
+#EXTINF:-1 tvg-id="CinemachiAction" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_8.png" group-title="SHAREEXT@ MPD || VISION PLUS",CINEMACHI ACTION
+https://dsgtq5sngxkde.cloudfront.net/live/eds/Cinemachi-Action/sa_dash/Cinemachi-Action.mpd
+
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
+#EXTINF:-1 tvg-id="CinemachiMax" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.lyngsat.com/logo/tv/ss/superrix-uk.png" group-title="SHAREEXT@ MPD || VISION PLUS",CINEMACHI MAX
+https://dsgtq5sngxkde.cloudfront.net/live/eds/Cinemachi-Max-HD/sa_dash/Cinemachi-Max-HD.mpd
+
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
+#EXTINF:-1 tvg-id="CinemachiXtra" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_6.png" group-title="SHAREEXT@ MPD || VISION PLUS",CINEMACHI XTRA
+https://dsgtq5sngxkde.cloudfront.net/live/eds/Cinemachi-Xtra-HD/sa_dash/Cinemachi-Xtra-HD.mpd
+
+#EXTVLCOPT:http-referrer=https://visionplustv.id/
+#EXTINF:-1 tvg-id="IMC" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1613353271-.png" group-title="SHAREEXT@ MPD || VISION PLUS",Indonesia Movie Channel
+https://dsgtq5sngxkde.cloudfront.net/live/eds/IndonesiaMovieChannels-HD/sa_dash/IndonesiaMovieChannels-HD.mpd
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#EXTINF:-1 tvg-logo="" group-title="SHAREEXT@ MPD || VISION PLUS" tvg-logo="https://png.pngtree.com/template/20220424/ourmid/pngtree-bollywood-cinema-cinematography-banner-logo-brochure-image_1179540.jpg",Bollywood HD 
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
+
+#EXTVLCOPT:http-referrer=https://visionplustv.id//
+#EXTINF:-1 tvg-id="BBCEarth.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/018/50018-SNAPSHOT-l.png" group-title="SHAREEXT@ MPD || VISION PLUS",BBC Earth
+https://dsgtq5sngxkde.cloudfront.net/live/eds/BBCEarth-HD/sa_dash/BBCEarth-HD.mpd
+
+#EXTVLCOPT:http-referrer=https://visionplustv.id/
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/016/50016-SNAPSHOT-l.png" group-title="SHAREEXT@ MPD || VISION PLUS" tvg-url="https://bit.ly/IndonesiaEpg" tvg-id="OutdoorChannel" tvg-name="", Outdoor Channel
+https://dsgtq5sngxkde.cloudfront.net/live/eds/outdoorchannel/sa_dash/outdoorchannel.mpd
+
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
+#EXTINF:-1 tvg-id="GlobalTrekker.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/824/49824-SNAPSHOT-l.png" group-title="SHAREEXT@ MPD || VISION PLUS",Global Trekker
+https://dsgtq5sngxkde.cloudfront.net/live/eds/Globaltrekker/sa_dash/Globaltrekker.mpd
+
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
+#EXTINF:-1 group-title="SHAREEXT@ MPD || VISION PLUS" tvg-id="CGTNDocumentary" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://static.mncnow.id/images/channel/bce8fc0f/7f20_r32.jpg",CGTN Documentary
+https://dsgtq5sngxkde.cloudfront.net/live/eds/CGTN_Doc/sa_dash/CGTN_Doc.mpd
+
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
+#EXTINF:-1 group-title="SHAREEXT@ MPD || VISION PLUS" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/kHM0jUd.png" ,ABC Australia
+https://dsgtq5sngxkde.cloudfront.net/live/eds/AustraliaPlus/sa_dash/AustraliaPlus.mpd
+
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
+#EXTINF:-1 tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/005/50005-SNAPSHOT-l.png" group-title="SHAREEXT@ MPD || VISION PLUS",Vision Prime
+https://dsgtq5sngxkde.cloudfront.net/live/eds/VisionPrime/sa_dash/VisionPrime.mpd
+
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
+#EXTINF:-1 tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://static.mncnow.id/images/channel/72287d1c/3aef_r32.jpg" group-title="SHAREEXT@ MPD || VISION PLUS",Rock Entertainment
+https://dsgtq5sngxkde.cloudfront.net/live/eds/Rockentertainment/sa_dash/Rockentertainment.mpd
+
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
+#EXTINF:-1 tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://static.wikia.nocookie.net/logo-tv/images/b/b1/Ent_%282020%29.png/revision/latest?cb=20210401065932" group-title="SHAREEXT@ MPD || VISION PLUS",MNC Entertainment
+https://dsgtq5sngxkde.cloudfront.net/live/eds/MNCEntertainment/sa_dash/MNCEntertainment.mpd
+
+#EXTVLCOPT:http-referrer=https://visionplustv.id/
+#EXTINF:-1 tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/534/172534-LOGO-m.png" group-title="SHAREEXT@ MPD || VISION PLUS",Food Travel
+https://dsgtq5sngxkde.cloudfront.net/live/eds/OKTVnow/sa_dash/OKTVnow.mpd
+
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
+#EXTINF:-1 tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hanacaraka-tv-id.png" group-title="SHAREEXT@ MPD || VISION PLUS",Hanacaraka TV
+https://dsgtq5sngxkde.cloudfront.net/live/eds/LifeStyleFashion/sa_dash/LifeStyleFashion.mpd
+
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
+#EXTINF:-1 tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://e7.pngegg.com/pngimages/789/35/png-clipart-logo-celebrity-graphic-design-brand-font-cat-victorious-purple-television.png" group-title="SHAREEXT@ MPD || VISION PLUS",CelebritiesTV
+https://dsgtq5sngxkde.cloudfront.net/live/eds/MNCInfotainment/sa_dash/MNCInfotainment.mpd
+
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
+#EXTINF:-1 tvg-id="Moonbug" tvg-url="https://bit.ly/UnifyEpg" group-title="SHAREEXT@ MPD || VISION PLUS" tvg-logo="https://www.visionplus.id/images/repository/909/162909-LOGO-m.png",Moonbug
+https://dsgtq5sngxkde.cloudfront.net/live/eds/BabyTV-NewHD/sa_dash/BabyTV-NewHD.mpd
+
+#EXTVLCOPT:http-referrer=https://visionplustv.id/
+#EXTINF:-1 tvg-id="DreamWorks.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://e7.pngegg.com/pngimages/393/234/png-clipart-dreamworks-animation-animated-film-logo-dreamworks-poppy-text-film.png" group-title="SHAREEXT@ MPD || VISION PLUS",Dreamworks HD
+https://dsgtq5sngxkde.cloudfront.net/live/eds/Dreamwork-HD/sa_dash/Dreamwork-HD.mpd
+
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
+#EXTINF:-1 tvg-id="KidsTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/994/49994-SNAPSHOT-l.png" group-title="SHAREEXT@ MPD || VISION PLUS",Kids TV
+https://dsgtq5sngxkde.cloudfront.net/live/eds/Kids-HD/sa_dash/Kids-HD.mpd
+
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
+#EXTINF:-1 tvg-id="CBeebiesAsia.uk" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/995/49995-SNAPSHOT-l.png" group-title="SHAREEXT@ MPD || VISION PLUS",Cbeebies
+https://dsgtq5sngxkde.cloudfront.net/live/eds/Cbeebies/sa_dash/Cbeebies.mpd
+
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
+#EXTINF:-1 tvg-id="MusicTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/009/50009-SNAPSHOT-l.png" group-title="SHAREEXT@ MPD || VISION PLUS",Music TV
+https://dsgtq5sngxkde.cloudfront.net/live/eds/MusicChannel/sa_dash/MusicChannel.mpd
+
+#EXTINF:-1 tvg-url="https://bit.ly/AstroEpg" tvg-id="beINSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="SHAREEXT@ MPD || VISION PLUS", beIN Sports 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
 
-#EXTINF: -1 tvg-logo="https://i.ibb.co.com/DzmfSRC/Beinsport-1.jpg" group-title="SHAREEXT@ MPD || VISION PLUS", BEIN SPORTS 2
+#EXTINF:-1 tvg-url="https://bit.ly/AstroEpg" tvg-id="beINSports2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png" group-title="SHAREEXT@ MPD || VISION PLUS", beIN Sports 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3d756d566ca94e6499518ffb1474d5d0:dbe4ad6803e74739b8f954d23cc58e7b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
 
-#EXTINF: -1 tvg-logo="https://i.ibb.co.com/NjJNQWL/Beinsports-3.jpg" group-title="SHAREEXT@ MPD || VISION PLUS", BEIN SPORTS 3
+#EXTINF:-1 tvg-url="https://bit.ly/AstroEpg" tvg-id="beINSports3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png" group-title="SHAREEXT@ MPD || VISION PLUS",beIN Sports 3
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
+
+#EXTINF:-1 tvg-id="beINSports4" group-title="SHAREEXT@ MPD || VISION PLUS" tvg-logo="https://www.visionplus.id/images/repository/897/198897-LOGO-m.png", beIN Sports 4
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=aef1823177ad40199de440504d992ad5:b95c919408eec7663214a9a67af831ba
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/2e55bc8199044c27b1dbb827af65a04f/index.mpd
+
+#EXTINF:-1 tvg-id="beINSports5" group-title="SHAREEXT@ MPD || VISION PLUS" tvg-logo="https://www.visionplus.id/images/repository/898/198898-LOGO-m.png", beIN Sports 5
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c48c8e48dba24420b5dcef9f5b847b12:daad0aeb165b9a26b706f2a261b8fafe
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/index.mpd
+
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm-vision2025.tvrusak1992.workers.dev/?no=112&type=drm
+#EXTINF:-1 tvg-id="MNCSports.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Sportstars.png" group-title="SHAREEXT@ MPD || VISION PLUS",Sportstars 
+https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
+
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm-vision2025.tvrusak1992.workers.dev/?no=113&type=drm
+#EXTINF:-1 tvg-id="MNCSports2.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sportstars_2.png" group-title="SHAREEXT@ MPD || VISION PLUS",Sportstars 2
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
+
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm-vision2025.tvrusak1992.workers.dev/?no=114&type=drm
+#EXTINF:-1 tvg-id="MNCSports3.id" group-title="SHAREEXT@ MPD || VISION PLUS" tvg-logo="https://www.visionplus.id/images/repository/654/654-LOGO-m.png",Sportstar 3
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
+
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b576e5f5f1bc4cbaa866e5b0face5a30:3377be6c3b5f688ebed687312c9b9d95
+#EXTINF:0 tvg-id="MNCSports4.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Sportstars_4.png" group-title="SHAREEXT@ MPD || VISION PLUS",Sportstar 4
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
+
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm-vision2025.tvrusak1992.workers.dev/?no=115&type=drm
+#EXTINF:-1 tvg-id="SoccerChannel.id" group-title="SHAREEXT@ MPD || VISION PLUS" tvg-logo="https://www.visionplus.id/images/repository/655/655-LOGO-m.png",Soccer Channel
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
+
+#EXTINF:-1 tvg-id="FightSports" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.mncvision.id/userfiles/image/channel/150x150fightsport.jpg" group-title="SHAREEXT@ MPD || VISION PLUS",Fight Sports_(CLOUD)
+http://cdn.nng.cloudns.us/live/m3u8/sprt/d7d981d1df08d72.m3u8
+
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
+#EXTINF:-1 group-title="SHAREEXT@ MPD || VISION PLUS" tvg-id="AlJazeeraEnglish.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.mncvision.id/userfiles/image/channel/aljazeera.png",Al Jazeera
+https://dsgtq5sngxkde.cloudfront.net/live/eds/AlJazeeraInternational/sa_dash/AlJazeeraInternational.mpd
+
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
+#EXTINF:-1 tvg-id="CGTN.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://static.mncnow.id/images/channel/87f1d571/242b_r32.jpg" group-title="SHAREEXT@ MPD || VISION PLUS",CGTN
+https://dsgtq5sngxkde.cloudfront.net/live/eds/CGTN/sa_dash/CGTN.mpd
+
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
+#EXTINF:-1 group-title="SHAREEXT@ MPD || VISION PLUS" tvg-id="NHKWorldPremium" tvg-url="https://bit.ly/AstroEpg" tvg-logo="https://www.mncvision.id/userfiles/image/channel/nhk_150.png",NHK World Premium
+https://dsgtq5sngxkde.cloudfront.net/live/eds/NHKWorldPremium/sa_dash/NHKWorldPremium.mpd
+
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
+#EXTINF:-1 tvg-name="" tvg-id="FOX News - [Channel 335].id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.mncvision.id/userfiles/image/channel/fox_news_channel.png" group-title="SHAREEXT@ MPD || VISION PLUS",FOX News
+https://dsgtq5sngxkde.cloudfront.net/live/eds/FoxNews/sa_dash/FoxNews.mpd
+
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
+#EXTINF:-1 group-title="SHAREEXT@ MPD || VISION PLUS" tvg-id="DWEnglish" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://static.mncnow.id/images/channel/ec5ca17f/9a41_r32.jpg",DW
+https://dsgtq5sngxkde.cloudfront.net/live/eds/DW/sa_dash/DW.mpd
+
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
+#EXTINF:-1 group-title="SHAREEXT@ MPD || VISION PLUS" tvg-id="France24English" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://static.mncnow.id/images/channel/feee5d98/3c51_r32.jpg",France 24
+https://dsgtq5sngxkde.cloudfront.net/live/eds/France24/sa_dash/France24.mpd
+
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
+#EXTINF:-1 group-title="SHAREEXT@ MPD || VISION PLUS" tvg-id="Euronews.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/EuroNews.svg/2560px-EuroNews.svg.png",Euronews
+https://dsgtq5sngxkde.cloudfront.net/live/eds/EuroNews/sa_dash/EuroNews.mpd
+
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
+#EXTINF:-1 group-title="SHAREEXT@ MPD || VISION PLUS" tvg-id="TRT World" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium4.xml" tvg-logo="https://static.mncnow.id/images/channel/ab7f9e6a/4023_r32.jpg",TRT World
+https://dsgtq5sngxkde.cloudfront.net/live/eds/TRTWorld/sa_dash/TRTWorld.mpd
+
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
+#EXTINF:-1 tvg-id="SEAToday" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://static.mncnow.id/images/channel/7bdd87fc/0cb7_r32.jpg" group-title="SHAREEXT@ MPD || VISION PLUS",SEA Today 
+https://dsgtq5sngxkde.cloudfront.net/live/eds/SEA-Channel/sa_dash/SEA-Channel.mpd
+
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
+#EXTINF:-1 group-title="SHAREEXT@ MPD || VISION PLUS" tvg-id="CNBCAsia.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.mncvision.id/userfiles/image/channel/cnbc.png",CNBC Asia
+https://dsgtq5sngxkde.cloudfront.net/live/eds/CNBC/sa_dash/CNBC.mpd
+
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e1ae750e09889a610744516182c8e95a:2f7aa7b21102d05a986a4212c4afa06f
+#EXTINF:-1 group-title="SHAREEXT@ MPD || VISION PLUS" tvg-id="CNA.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://static.mncnow.id/images/channel/f36bdbf0/d7d8_r32.jpg",CNA
+https://mediacorp-videosbclive.akamaized.net/f4abbc22204c49e2b337203b0ebbf14b/ap-southeast-1/6057994443001/profile_1/chunklist.m3u8
+
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
+#EXTINF:-1 group-title="SHAREEXT@ MPD || VISION PLUS" tvg-id="" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Russia-Today-Logo.svg/2560px-Russia-Today-Logo.svg.png",Rusia Today
+https://dsgtq5sngxkde.cloudfront.net/live/eds/RTEnglish/sa_dash/RTEnglish.mpd
+
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
+#EXTINF:-1 tvg-id="LIFE - [Channel 91].id"  tvg-id="LIFE.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/942/49942-SNAPSHOT-l.png" group-title="SHAREEXT@ MPD || VISION PLUS",LIFE
+https://dsgtq5sngxkde.cloudfront.net/live/eds/Life/sa_dash/Life.mpd
+
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
+#EXTINF:-1 group-title="SHAREEXT@ MPD || VISION PLUS" tvg-id="Bali TV" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium4.xml" tvg-logo="https://static.mncnow.id/images/channel/cda6a457/7e41_r32.jpg",Bali TV
+https://dsgtq5sngxkde.cloudfront.net/live/eds/BaliTV/sa_dash/BaliTV.mpd
+
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
+#EXTINF:-1 group-title="SHAREEXT@ MPD || VISION PLUS" tvg-id="BandungTV.id" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://static.mncnow.id/images/channel/d4154d1c/d082_r32.jpg",Bandung TV
+https://dsgtq5sngxkde.cloudfront.net/live/eds/BandungTV/sa_dash/BandungTV.mpd
 
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/957/49957-SNAPSHOT-l.png" group-title="SHAREEXT@ MPD || VISION PLUS",SpoTV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -2205,31 +2535,6 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e6ed3fdf6e9f491d9ead109fc0b00cfc:3bc6c45722eb5fa7b343de9bffc4f7c7
 https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -3729,12 +4034,19 @@ http://epg.112114.xyz/douyu/315457
 
 
 
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+#EXTINF:-1 group-title="SHAREEXT@ HK || TAIWAN_大爱电视" tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/phonix.png",PHOENIX INFONEWS
+http://iptv.kilas7.com:80/kaukia/asdfrewq/35
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+#EXTINF:-1 group-title="SHAREEXT@ HK || TAIWAN_大爱电视" tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/PHOENIX_CHINESE.png",PHOENIX CHINESE
+http://iptv.kilas7.com:80/live/kaukia/asdfrewq/36.m3u8
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+#EXTINF:-1 group-title="SHAREEXT@ HK || TAIWAN_大爱电视" tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/Phoenix_HK.png",PHOENIX HONGKONG
+http://iptv.kilas7.com:80/live/kaukia/asdfrewq/37.m3u8
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+#EXTINF:-1 group-title="SHAREEXT@ HK || TAIWAN_大爱电视" tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/dragonTv.png",DRAGON TV
+http://iptv.kilas7.com:80/live/kaukia/asdfrewq/72.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@ HK || TAIWAN_大爱电视",HBO (cloud)
-https://dko29we9nm1rd.cloudfront.net/hls/CH115/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@ HK || TAIWAN_大爱电视",HBO (aka)
-https://eventcdn02-nowe.akamaized.net/hls/CH115/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@ HK || TAIWAN_大爱电视",翡翠
 http://222.128.55.152:9080/live/gdfc.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@ HK || TAIWAN_大爱电视",中天新聞

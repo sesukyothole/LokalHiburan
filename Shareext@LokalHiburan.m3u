@@ -12,6 +12,33 @@ http://202.147.193.244/live/eds/RCTI-DD/sa_dash/RCTI-DD.mpd
 http://202.147.193.244/live/eds/MNCTV-HD/sa_dash/MNCTV-HD.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/gtv.png" group-title="Shareext@LOKAL_ID",GTV .mpd
 http://202.147.193.244/live/eds/GTV-HD/sa_dash/GTV-HD.mpd
+#EXTINF:-1 group-title="Shareext@LOKAL_ID" tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/trans%207.png",Trans 7 .mpd
+http://202.147.193.244/live/eds/Trans7-2/sa_dash/Trans7-2.mpd
+#EXTINF:-1 group-title="Shareext@LOKAL_ID" tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/TransTv.png",Trans TV .mpd
+http://202.147.193.244/live/eds/TransTV-2/sa_dash/TransTV-2.mpd
+#https://dsgtq5sngxkde.cloudfront.net/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd|Referer=https://www.visionplus.id/&user-agent=Android
+#EXTINF:-1 group-title="Shareext@LOKAL_ID" tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/mdtv.png",MDTV .mpd 
+http://202.147.193.244/live/eds/NetTV-HD/sa_dash/NetTV-HD.mpd
+#EXTINF:-1 group-title="Shareext@LOKAL_ID" tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/antv.png",ANTV .mpd 
+http://202.147.193.244/live/eds/ANTV/sa_dash/ANTV.mpd
+#EXTINF:-1 group-title="Shareext@LOKAL_ID" tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/metro.png",Metro TV .mpd 
+http://202.147.193.244/live/eds/Metro-TV2/sa_dash/Metro-TV2.mpd
+#EXTINF:-1 group-title="Shareext@LOKAL_ID" tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/tv_one.png",TV ONE .mpd 
+http://202.147.193.244/live/eds/TVOne-2/sa_dash/TVOne-2.mpd
+#EXTINF:-1 group-title="Shareext@LOKAL_ID" tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/SindoNews2.png",Sindonews .mpd
+http://202.147.193.244/live/eds/MNCnews-HDD/sa_dash/MNCnews-HDD.mpd
+#EXTINF:-1 group-title="Shareext@LOKAL_ID" tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/inews.png",iNews .mpd 
+http://202.147.193.244/live/eds/iNewsTV-HDD/sa_dash/iNewsTV-HDD.mpd
+#EXTINF:-1 group-title="Shareext@LOKAL_ID" tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/IDXChannel.png",IDX .mpd 
+http://202.147.193.244/live/eds/IDX/sa_dash/IDX.mpd
+#EXTINF:-1 group-title="Shareext@LOKAL_ID" tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/btv.png",BTV .mpd 
+http://202.147.193.244/live/eds/BeritaSatu/sa_dash/BeritaSatu.mpd
+#EXTINF:-1 group-title="Shareext@LOKAL_ID" tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/refs/heads/queen/daaitv.png",Daai TV .mpd
+http://202.147.193.244/live/eds/DAAITV/sa_dash/DAAITV.mpd
+#EXTINF:-1 group-title="Shareext@LOKAL_ID" tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/refs/heads/queen/HanacarakaTV.png",Hanacaraka TV .mpd
+http://202.147.193.244/live/eds/LifeStyleFashion/sa_dash/LifeStyleFashion.mpd
+#EXTINF:-1 group-title="Shareext@LOKAL_ID" tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/MuslimTV.png",Muslim TV .mpd 
+http://202.147.193.244/live/eds/MNCMuslim/sa_dash/MNCMuslim.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="RCTI" tvg-logo="https://perfecttv.net/logo/rcti.png" group-title="Shareext@LOKAL_ID",RCTI (televizo)
 https://83.142.30.171:443/live/vip_3klp0es8/wg3piwEs/2701.ts
@@ -2257,30 +2284,20 @@ https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6857fe540a1018060b41
 
 
 
+
+#EXTINF:-1 group-title="SHAREEXT@ TIVIMATE~OTT || VISION PLUS DRM" tvg-id="Sportstars.id" tvg-logo="https://raw.githubusercontent.com/quuen2024/logobaru/refs/heads/queen/sportstars.png",Sportstars 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=112&type=drm
-#EXTINF:-1 tvg-id="MNCSports.id" group-title="SHAREEXT@ TIVIMATE~OTT || VISION PLUS DRM" tvg-logo="https://www.visionplus.id/images/repository/652/652-LOGO-m.png",Sportstar
-https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+https://terabit.web.id/media.mpd?id=112&type=dash
 
+#EXTINF:-1 group-title="SHAREEXT@ TIVIMATE~OTT || VISION PLUS DRM" tvg-id="Sportstars 2.id" tvg-logo="https://raw.githubusercontent.com/quuen2024/logobaru/refs/heads/queen/sportstars.png",Sportstars 2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=113&type=drm
-#EXTINF:-1 tvg-id="MNCSports2.id" group-title="SHAREEXT@ TIVIMATE~OTT || VISION PLUS DRM" tvg-logo="https://www.visionplus.id/images/repository/653/653-LOGO-m.png",Sportstar 2
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=114&type=drm
-#EXTINF:-1 tvg-id="MNCSports3.id" group-title="SHAREEXT@ TIVIMATE~OTT || VISION PLUS DRM" tvg-logo="https://www.visionplus.id/images/repository/654/654-LOGO-m.png",Sportstar 3
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b576e5f5f1bc4cbaa866e5b0face5a30:3377be6c3b5f688ebed687312c9b9d95
-#EXTINF:0 tvg-id="MNCSports4.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Sportstars_4.png" group-title="SHAREEXT@ TIVIMATE~OTT || VISION PLUS DRM",Sportstar 4
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=115&type=drm
-#EXTINF:-1 tvg-id="SoccerChannel.id" group-title="SHAREEXT@ TIVIMATE~OTT || VISION PLUS DRM" tvg-logo="https://www.visionplus.id/images/repository/655/655-LOGO-m.png",Soccer Channel
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+https://terabit.web.id/media.mpd?id=113&type=dash
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=119&type=drm
@@ -3080,6 +3097,20 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/Cbeebies/sa_dash/Cbeebies.mpd
 #EXTINF:-1 tvg-id="MusicTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/009/50009-SNAPSHOT-l.png" group-title="SHAREEXT@ MPD || VISION PLUS",Music TV
 https://dsgtq5sngxkde.cloudfront.net/live/eds/MusicChannel/sa_dash/MusicChannel.mpd
 
+#EXTINF:-1 group-title="SHAREEXT@ MPD || VISION PLUS" tvg-id="Sportstars.id" tvg-logo="https://raw.githubusercontent.com/quuen2024/logobaru/refs/heads/queen/sportstars.png",Sportstars 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=112&type=drm
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+https://terabit.web.id/media.mpd?id=112&type=dash
+
+#EXTINF:-1 group-title="SHAREEXT@ MPD || VISION PLUS" tvg-id="Sportstars 2.id" tvg-logo="https://raw.githubusercontent.com/quuen2024/logobaru/refs/heads/queen/sportstars.png",Sportstars 2
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=113&type=drm
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+https://terabit.web.id/media.mpd?id=113&type=dash
+
 #EXTINF:-1 tvg-url="https://bit.ly/AstroEpg" tvg-id="beINSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="SHAREEXT@ MPD || VISION PLUS", beIN Sports 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -3113,35 +3144,6 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/2e55bc8199044c27b1dbb827af65a04f/ind
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c48c8e48dba24420b5dcef9f5b847b12:daad0aeb165b9a26b706f2a261b8fafe
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/index.mpd
-
-#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm-vision2025.tvrusak1992.workers.dev/?no=112&type=drm
-#EXTINF:-1 tvg-id="MNCSports.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Sportstars.png" group-title="SHAREEXT@ MPD || VISION PLUS",Sportstars 
-https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
-
-#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vis/sc1.php?id=113
-#EXTINF:-1 tvg-id="MNCSports2.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sportstars_2.png" group-title="SHAREEXT@ MPD || VISION PLUS",Sportstars 2
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=114&type=drm
-#EXTINF:-1 tvg-id="MNCSports3.id" group-title="SHAREEXT@ MPD || VISION PLUS" tvg-logo="https://www.visionplus.id/images/repository/654/654-LOGO-m.png",Sportstar 3
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
-
-#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b576e5f5f1bc4cbaa866e5b0face5a30:3377be6c3b5f688ebed687312c9b9d95
-#EXTINF:0 tvg-id="MNCSports4.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Sportstars_4.png" group-title="SHAREEXT@ MPD || VISION PLUS",Sportstar 4
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
-
-#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm-vision2025.tvrusak1992.workers.dev/?no=115&type=drm
-#EXTINF:-1 tvg-id="SoccerChannel.id" group-title="SHAREEXT@ MPD || VISION PLUS" tvg-logo="https://www.visionplus.id/images/repository/655/655-LOGO-m.png",Soccer Channel
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
 
 #EXTINF:-1 tvg-id="FightSports" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.mncvision.id/userfiles/image/channel/150x150fightsport.jpg" group-title="SHAREEXT@ MPD || VISION PLUS",Fight Sports_(CLOUD)
 http://cdn.nng.cloudns.us/live/m3u8/sprt/d7d981d1df08d72.m3u8

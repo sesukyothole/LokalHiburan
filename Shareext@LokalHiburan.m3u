@@ -40,6 +40,66 @@ http://202.147.193.244/live/eds/LifeStyleFashion/sa_dash/LifeStyleFashion.mpd
 #EXTINF:-1 group-title="Shareext@LOKAL_ID" tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/MuslimTV.png",Muslim TV .mpd 
 http://202.147.193.244/live/eds/MNCMuslim/sa_dash/MNCMuslim.mpd
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="NetTV.MACAN" tvg-name="NET." tvg-logo="https://i.ibb.co/xFHPJSQ/gfsh.png" group-title="Shareext@LOKAL_ID",NET.(xyz)
+https://link.zozotv.xyz:443/live/usez37/zxy921/50.ts
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="GTV.MACAN" tvg-name="GTV" tvg-logo="https://i.ibb.co/crkQhYK/jhyf.png" group-title="Shareext@LOKAL_ID",GTV(xyz)
+https://link.zozotv.xyz:443/live/usez37/zxy921/48.ts
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="SCTV.MACAN" tvg-name="SCTV" tvg-logo="https://i.ibb.co/VNGfy1H/ETS.png" group-title="Shareext@LOKAL_ID",SCTV(xyz)
+https://link.zozotv.xyz:443/live/usez37/zxy921/46.ts
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="MNCTV.MACAN" tvg-name="MNCTV" tvg-logo="https://i.ibb.co/pdx8Gz4/hjmg.png" group-title="Shareext@LOKAL_ID",MNCTV(xyz)
+https://link.zozotv.xyz:443/live/usez37/zxy921/49.ts
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="RCTI.MACAN" tvg-name="RCTI" tvg-logo="https://i.ibb.co/XsSHVDC/fh.png" group-title="Shareext@LOKAL_ID",RCTI(xyz)
+https://link.zozotv.xyz:443/live/usez37/zxy921/47.ts
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="Indosiar.MACAN" tvg-name="INDOSIAR" tvg-logo="https://i.ibb.co/wcrkgfG/ETSES.png" group-title="Shareext@LOKAL_ID",INDOSIAR(xyz)
+https://link.zozotv.xyz:443/live/usez37/zxy921/45.ts
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="OLY8" tvg-name="TRANS TV" tvg-logo="https://i.ibb.co/7G18TQf/sv.png" group-title="Shareext@LOKAL_ID",TRANS TV(xyz)
+https://link.zozotv.xyz:443/live/usez37/zxy921/43.ts
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="Trans7.MACAN" tvg-name="TRANS 7" tvg-logo="https://i.ibb.co/zQwF3gV/bfcsr.png" group-title="Shareext@LOKAL_ID",TRANS 7(xyz)
+https://link.zozotv.xyz:443/live/usez37/zxy921/44.ts
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="beIN Sport 1" tvg-name="Dunia Lain" tvg-logo="https://i.ibb.co/kJwMHnm/dunia.png" group-title="Shareext@LOKAL_ID",Dunia Lain(xyz)
+https://link.zozotv.xyz:443/live/usez37/zxy921/346.ts
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="ANTV.MACAN" tvg-name="ANTV" tvg-logo="https://i.ibb.co/Qfk95m3/jfc.png" group-title="Shareext@LOKAL_ID",ANTV(xyz)
+https://link.zozotv.xyz:443/live/usez37/zxy921/51.ts
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="" tvg-name="TVRI" tvg-logo="https://i.ibb.co/4Rj46G8/TVRI.png" group-title="Shareext@LOKAL_ID",TVRI(xyz)
+https://link.zozotv.xyz:443/live/usez37/zxy921/359.ts
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="" tvg-name="Rtv" tvg-logo="https://i.ibb.co/4jX6xMN/rtv.png" group-title="Shareext@LOKAL_ID",Rtv(xyz)
+https://link.zozotv.xyz:443/live/usez37/zxy921/364.ts
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="TVOne.MACAN" tvg-name="TVOne" tvg-logo="https://i.ibb.co/ZmHZbbT/YETRY.png" group-title="Shareext@LOKAL_ID",TVOne(xyz)
+https://link.zozotv.xyz:443/live/usez37/zxy921/142.ts
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="beIN Sport 1" tvg-name="KOMPAS TV" tvg-logo="https://i.ibb.co/yfPLggK/hfd.png" group-title="Shareext@LOKAL_ID",KOMPAS TV(xyz)
+https://link.zozotv.xyz:443/live/usez37/zxy921/143.ts
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="MetroTV.MACAN" tvg-name="METRO TV" tvg-logo="https://i.ibb.co/Tt4V9Cw/hcggh.png" group-title="Shareext@LOKAL_ID",METRO TV(xyz)
+https://link.zozotv.xyz:443/live/usez37/zxy921/144.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="RCTI" tvg-logo="https://perfecttv.net/logo/rcti.png" group-title="Shareext@LOKAL_ID",RCTI (televizo)
 https://83.142.30.171:443/live/vip_3klp0es8/wg3piwEs/2701.ts
 #EXTINF:-1 tvg-id="" tvg-name="MNCTV" tvg-logo="https://perfecttv.net/logo/mnctv.png" group-title="Shareext@LOKAL_ID",MNCTV (relevizo)
@@ -736,6 +796,175 @@ https://op-group1-swiftservehd-1.dens.tv/h/h91/index.m3u8
 
 
 
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="AEC" tvg-name="AEC" tvg-logo="https://i.ibb.co/3s9dG9G/fdiy.png" group-title="Shareext@MOVIES",AEC(xyz)
+https://link.zozotv.xyz:443/live/usez37/zxy921/60.ts
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="HUAHEITAI" tvg-name="Hua Hee Tai" tvg-logo="https://i.ibb.co/x3MM1c6/ASDR.png" group-title="Shareext@MOVIES",Hua Hee Tai(xyz)
+https://link.zozotv.xyz:443/live/usez37/zxy921/61.ts
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="QUANJIA" tvg-name="Quan Jia" tvg-logo="https://i.ibb.co/t3vgwMQ/RDS.png" group-title="Shareext@MOVIES",Quan Jia(xyz)
+https://link.zozotv.xyz:443/live/usez37/zxy921/62.ts
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="IQIYI" tvg-name="IQiyi" tvg-logo="https://i.ibb.co/HgGKxwJ/KFH.png" group-title="Shareext@MOVIES",IQiyi(xyz)
+https://link.zozotv.xyz:443/live/usez37/zxy921/63.ts
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="CCM.MACAN" tvg-name="CCM" tvg-logo="https://i.ibb.co/ZVWNMDL/ddg.png" group-title="Shareext@MOVIES",CCM(xyz)
+https://link.zozotv.xyz:443/live/usez37/zxy921/65.ts
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="KIX.MACAN" tvg-name="KIX" tvg-logo="https://i.ibb.co/8jRb2YX/xgf.png" group-title="Shareext@MOVIES",KIX(xyz)
+https://link.zozotv.xyz:443/live/usez37/zxy921/82.ts
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="AXNHD.MACAN" tvg-name="AXN" tvg-logo="https://i.ibb.co/HCcdS4n/jngv.png" group-title="Shareext@MOVIES",AXN(xyz)
+https://link.zozotv.xyz:443/live/usez37/zxy921/83.ts
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="WarnerTV.MACAN" tvg-name="Warner TV" tvg-logo="https://i.ibb.co/cJLLsn0/wstgf.png" group-title="Shareext@MOVIES",Warner TV(xyz)
+https://link.zozotv.xyz:443/live/usez37/zxy921/86.ts
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="CelestialMovies.MACAN" tvg-name="Celestial Movies" tvg-logo="https://i.ibb.co/LYHGVNp/jbv.png" group-title="Shareext@MOVIES",Celestial Movies(xyz)
+https://link.zozotv.xyz:443/live/usez37/zxy921/64.ts
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="" tvg-name="Siar" tvg-logo="https://link.zozotv.xyz/pic/SiarZozo.png" group-title="Shareext@MOVIES",Siar(xyz)
+https://link.zozotv.xyz:443/live/usez37/zxy921/1912.ts
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="" tvg-name="Dunia Senima" tvg-logo="https://link.zozotv.xyz/pic/DuniaSenimaZozo.png" group-title="Shareext@MOVIES",Dunia Senima(xyz)
+https://link.zozotv.xyz:443/live/usez37/zxy921/1909.ts
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="DEGUP" tvg-name="Degup" tvg-logo="https://link.zozotv.xyz/pic/DegupZozo.png" group-title="Shareext@MOVIES",Degup(xyz)
+https://link.zozotv.xyz:443/live/usez37/zxy921/1908.ts
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="BOO" tvg-name="BOO (Malay)" tvg-logo="https://i.ibb.co/nQN1Yw8/hmvr.png" group-title="Shareext@MOVIES",BOO (xyz)
+https://link.zozotv.xyz:443/live/usez37/zxy921/408.ts
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO" tvg-logo="https://i.ibb.co/n600MdC/hbo.png" group-title="Shareext@MOVIES",HBO(xyz)
+https://link.zozotv.xyz:443/live/usez37/zxy921/96.ts
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO (ID)" tvg-logo="https://i.ibb.co/n600MdC/hbo.png" group-title="Shareext@MOVIES",HBO (ID)(xyz)
+https://link.zozotv.xyz:443/live/usez37/zxy921/693.ts
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="HBO Hits" tvg-name="HBO Hits" tvg-logo="https://i.ibb.co/pQW1JcG/xyfs.png" group-title="Shareext@MOVIES",HBO Hits(xyz)
+https://link.zozotv.xyz:443/live/usez37/zxy921/97.ts
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="HBO Family" tvg-name="HBO Family" tvg-logo="https://i.ibb.co/TmGc8Tw/gxy.png" group-title="Shareext@MOVIES",HBO Family(xyz)
+https://link.zozotv.xyz:443/live/usez37/zxy921/98.ts
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="zeecinema" tvg-name="HBO Signature" tvg-logo="https://i.ibb.co/zX9LRZd/BDZ.png" group-title="Shareext@MOVIES",HBO Signature(xyz)
+https://link.zozotv.xyz:443/live/usez37/zxy921/99.ts
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="ShowCaseMovies" tvg-name="ShowCase Movies" tvg-logo="https://i.ibb.co/0BxDdg4/2show.png" group-title="Shareext@MOVIES",ShowCase Movies(xyz)
+https://link.zozotv.xyz:443/live/usez37/zxy921/385.ts
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="RockAction" tvg-name="Rock Action" tvg-logo="https://i.ibb.co/QP8mWrs/1678073936036.png" group-title="Shareext@MOVIES",Rock Action(xyz)
+https://link.zozotv.xyz:443/live/usez37/zxy921/89.ts
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="" tvg-name="Rock Entertainment" tvg-logo="https://i.ibb.co/s2xvMWW/wrfd.png" group-title="Shareext@MOVIES",Rock Entertainment(xyz)
+https://link.zozotv.xyz:443/live/usez37/zxy921/88.ts
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="Galaxy" tvg-name="Galaxy" tvg-logo="https://i.ibb.co/dLsKfWF/wfg.png" group-title="Shareext@MOVIES",Galaxy(xyz)
+https://link.zozotv.xyz:443/live/usez37/zxy921/108.ts
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="Galaxy Premium" tvg-name="Galaxy Premium" tvg-logo="https://i.ibb.co/qJW2FQG/hd.png" group-title="Shareext@MOVIES",Galaxy Premium(xyz)
+https://link.zozotv.xyz:443/live/usez37/zxy921/109.ts
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="CINEMAX HD" tvg-name="Cinemax" tvg-logo="https://i.ibb.co/MP8HWsS/sfb.png" group-title="Shareext@MOVIES",Cinemax(xyz)
+https://link.zozotv.xyz:443/live/usez37/zxy921/107.ts
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="" tvg-name="Studio Universal" tvg-logo="https://i.ibb.co/xKsLx4pw/studiouniversal.png" group-title="Shareext@MOVIES",Studio Universal(xyz)
+https://link.zozotv.xyz:443/live/usez37/zxy921/4599.ts
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="Cinemachi" tvg-name="Cinemachi" tvg-logo="https://link.zozotv.xyz/pic/Cinemachi.png" group-title="Shareext@MOVIES",Cinemachi(xyz)
+https://link.zozotv.xyz:443/live/usez37/zxy921/2000.ts
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="Cinemachi Action" tvg-name="Cinemachi Action" tvg-logo="https://link.zozotv.xyz/pic/CinemachiAction.png" group-title="Shareext@MOVIES",Cinemachi Action(xyz)
+https://link.zozotv.xyz:443/live/usez37/zxy921/1999.ts
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="Cinemachi Max" tvg-name="Cinemachi MAX" tvg-logo="https://link.zozotv.xyz/pic/CinemachiMax.png" group-title="Shareext@MOVIES",Cinemachi MAX(xyz)
+https://link.zozotv.xyz:443/live/usez37/zxy921/1998.ts
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="Cinemachi Xtra" tvg-name="Cinemachi Xtra" tvg-logo="https://link.zozotv.xyz/pic/CinemachiXtra.png" group-title="Shareext@MOVIES",Cinemachi Xtra(xyz)
+https://link.zozotv.xyz:443/live/usez37/zxy921/1997.ts
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="Cinemachi Kids" tvg-name="Cinemachi Kids" tvg-logo="https://link.zozotv.xyz/pic/CinemachiKids.png" group-title="Shareext@MOVIES",Cinemachi Kids(xyz)
+https://link.zozotv.xyz:443/live/usez37/zxy921/1996.ts
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="Cinema World" tvg-name="CinemaWorld" tvg-logo="https://i.ibb.co/YhQFDQJ/xrg.png" group-title="Shareext@MOVIES",CinemaWorld(xyz)
+https://link.zozotv.xyz:443/live/usez37/zxy921/111.ts
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="My Cinema" tvg-name="My Cinema" tvg-logo="https://i.imgur.com/432Y3wu.png" group-title="Shareext@MOVIES",My Cinema(xyz)
+https://link.zozotv.xyz:443/live/usez37/zxy921/394.ts
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="My Cinema Asia" tvg-name="My Cinema Asia" tvg-logo="https://i.imgur.com/m5Z3kJ2.png" group-title="Shareext@MOVIES",My Cinema Asia(xyz)
+https://link.zozotv.xyz:443/live/usez37/zxy921/395.ts
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="My Family" tvg-name="My Family" tvg-logo="https://i.imgur.com/UWYfFNM.png" group-title="Shareext@MOVIES",My Family(xyz)
+https://link.zozotv.xyz:443/live/usez37/zxy921/396.ts
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="Arena2" tvg-name="&Prive HD" tvg-logo="https://i.ibb.co/DRCLfy8/wdas.png" group-title="Shareext@MOVIES",&Prive HD(xyz)
+https://link.zozotv.xyz:443/live/usez37/zxy921/105.ts
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="IMC" tvg-name="&Flix HD" tvg-logo="https://i.ibb.co/PGF0yfd/cth.png" group-title="Shareext@MOVIES",&Flix HD(xyz)
+https://link.zozotv.xyz:443/live/usez37/zxy921/104.ts
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="IMC" tvg-name="Sony PIX" tvg-logo="https://i.ibb.co/GRdhZmv/sony.png" group-title="Shareext@MOVIES",Sony PIX(xyz)
+https://link.zozotv.xyz:443/live/usez37/zxy921/298.ts
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="ROCK Entertainment" tvg-name="Star Movies" tvg-logo="https://i.ibb.co/L8gzpdy/str2.png" group-title="Shareext@MOVIES",Star Movies(xyz)
+https://link.zozotv.xyz:443/live/usez37/zxy921/299.ts
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="STAR Movies Select HD" tvg-name="Star Movies Select" tvg-logo="https://i.ibb.co/4jctxxs/str.png" group-title="Shareext@MOVIES",Star Movies Select(xyz)
+https://link.zozotv.xyz:443/live/usez37/zxy921/300.ts
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="HITSMovies.MACAN" tvg-name="HITS Movies" tvg-logo="https://i.ibb.co/d7hB8xd/csw.png" group-title="Shareext@MOVIES",HITS Movies(xyz)
+https://link.zozotv.xyz:443/live/usez37/zxy921/110.ts
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="Thrill.MACAN" tvg-name="Thrill" tvg-logo="https://i.ibb.co/h1WPmPG/VZX.png" group-title="Shareext@MOVIES",Thrill(xyz)
+https://link.zozotv.xyz:443/live/usez37/zxy921/112.ts
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="beIN Sport 1" tvg-name="IMC" tvg-logo="https://i.ibb.co/0Jt92hK/sagd.png" group-title="Shareext@MOVIES",IMC(xyz)
+https://link.zozotv.xyz:443/live/usez37/zxy921/113.ts
 
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/ 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -4055,6 +4284,131 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/MTVLiveHD/mpd/MTVLiveHD.mpd
 
 
 
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="TV1.my" tvg-name="TV1-HD" tvg-logo="https://i.ibb.co/7JY39jm/ZSW.png" group-title="SHAREEXT@Television/MY/ASTRO",TV1-HD(xyz)
+https://link.zozotv.xyz:443/live/usez37/zxy921/13.ts
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="TV2.my" tvg-name="TV2-FHD" tvg-logo="https://i.ibb.co/hBdcT78/TV2.png" group-title="SHAREEXT@Television/MY/ASTRO",TV2-FHD(xyz)
+https://link.zozotv.xyz:443/live/usez37/zxy921/15.ts
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="TV3.my" tvg-name="TV3-A" tvg-logo="https://i.ibb.co/mXND8gB/CCZ.png" group-title="SHAREEXT@Television/MY/ASTRO",TV3(xyz)
+https://link.zozotv.xyz:443/live/usez37/zxy921/17.ts
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="" tvg-name="Tv6" tvg-logo="https://i.ibb.co/DMMq0TW/1655552460861.png" group-title="SHAREEXT@Television/MY/ASTRO",Tv6(xyz)
+https://link.zozotv.xyz:443/live/usez37/zxy921/640.ts
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="NTV7" tvg-name="NTV7" tvg-logo="https://i.ibb.co/sjr34f7/cyts.png" group-title="SHAREEXT@Television/MY/ASTRO",NTV7(xyz)
+https://link.zozotv.xyz:443/live/usez37/zxy921/20.ts
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="8TV" tvg-name="8TV" tvg-logo="https://i.ibb.co/3N3JfSz/8.png" group-title="SHAREEXT@Television/MY/ASTRO",8TV(xyz)
+https://link.zozotv.xyz:443/live/usez37/zxy921/21.ts
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="TV9" tvg-name="TV9" tvg-logo="https://i.ibb.co/WBw9D1r/AAXS.png" group-title="SHAREEXT@Television/MY/ASTRO",TV9(xyz)
+https://link.zozotv.xyz:443/live/usez37/zxy921/22.ts
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="TV Okey" tvg-name="Okey" tvg-logo="https://i.ibb.co/bbVfKQT/ae.png" group-title="SHAREEXT@Television/MY/ASTRO",Okey(xyz)
+https://link.zozotv.xyz:443/live/usez37/zxy921/24.ts
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="Awesome" tvg-name="Awesome TV" tvg-logo="https://i.ibb.co/XFXgHbR/sd.png" group-title="SHAREEXT@Television/MY/ASTRO",Awesome TV(xyz)
+https://link.zozotv.xyz:443/live/usez37/zxy921/352.ts
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="" tvg-name="SUKE TV" tvg-logo="https://i.ibb.co/qyJgMDH/1689595250420.png" group-title="SHAREEXT@Television/MY/ASTRO",SUKE TV(xyz)
+https://link.zozotv.xyz:443/live/usez37/zxy921/924.ts
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="" tvg-name="Inspirasi" tvg-logo="https://link.zozotv.xyz/pic/InspirasiZozo.png" group-title="SHAREEXT@Television/MY/ASTRO",Inspirasi(xyz)
+https://link.zozotv.xyz:443/live/usez37/zxy921/1910.ts
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="" tvg-name="Salam HD" tvg-logo="https://link.zozotv.xyz/pic/SalamHdZozo.png" group-title="SHAREEXT@Television/MY/ASTRO",Salam HD(xyz)
+https://link.zozotv.xyz:443/live/usez37/zxy921/1911.ts
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="Al-Hijrah" tvg-name="Alhijrah" tvg-logo="https://i.ibb.co/vwZ3sjD/jjy.png" group-title="SHAREEXT@Television/MY/ASTRO",Alhijrah(xyz)
+https://link.zozotv.xyz:443/live/usez37/zxy921/26.ts
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="BERNAMA" tvg-name="Bernama" tvg-logo="https://i.ibb.co/ZTqV0P4/vgcdb.png" group-title="SHAREEXT@Television/MY/ASTRO",Bernama(xyz)
+https://link.zozotv.xyz:443/live/usez37/zxy921/27.ts
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="AstroAwani.my" tvg-name="Awani" tvg-logo="https://i.ibb.co/rbSH8xj/gn.png" group-title="SHAREEXT@Television/MY/ASTRO",Awani(xyz)
+https://link.zozotv.xyz:443/live/usez37/zxy921/28.ts
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="AstroOasis.my" tvg-name="Oasis" tvg-logo="https://i.ibb.co/b2JQ7g9/oas.png" group-title="SHAREEXT@Television/MY/ASTRO",Oasis(xyz)
+https://link.zozotv.xyz:443/live/usez37/zxy921/30.ts
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="AstroCeria.my" tvg-name="Ceria-A" tvg-logo="https://i.ibb.co/ZhnVLZV/gfh.png" group-title="SHAREEXT@Television/MY/ASTRO",Ceria(xyz)
+https://link.zozotv.xyz:443/live/usez37/zxy921/31.ts
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="AstroRia.my" tvg-name=" Ria " tvg-logo="https://i.ibb.co/v4WwqTH/NHY.png" group-title="SHAREEXT@Television/MY/ASTRO",Ria(xyz)
+https://link.zozotv.xyz:443/live/usez37/zxy921/532.ts
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="premier" tvg-name="Premier" tvg-logo="https://i.ibb.co/kKWphz2/1695008017182.png" group-title="SHAREEXT@Television/MY/ASTRO",Premier(xyz)
+https://link.zozotv.xyz:443/live/usez37/zxy921/1703.ts
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="AstroPrima.my" tvg-name="Prima-A" tvg-logo="https://i.ibb.co/7VVHjv3/saf.png" group-title="SHAREEXT@Television/MY/ASTRO",Prima(xyz)
+https://link.zozotv.xyz:443/live/usez37/zxy921/33.ts
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="AstroCitra.my" tvg-name="Citra-A" tvg-logo="https://i.ibb.co/12wR714/hfgd.png" group-title="SHAREEXT@Television/MY/ASTRO",Citra(xyz)
+https://link.zozotv.xyz:443/live/usez37/zxy921/36.ts
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="zeecinema" tvg-name="Aura" tvg-logo="https://i.ibb.co/D4YHLf6/58T.png" group-title="SHAREEXT@Television/MY/ASTRO",Aura(xyz)
+https://link.zozotv.xyz:443/live/usez37/zxy921/38.ts
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="AstroRania.my" tvg-name="Rania" tvg-logo="https://i.ibb.co/y0cGSsg/ASd.png" group-title="SHAREEXT@Television/MY/ASTRO",Rania(xyz)
+https://link.zozotv.xyz:443/live/usez37/zxy921/39.ts
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="TVS" tvg-name="TVS" tvg-logo="https://i.ibb.co/W5jwb9K/FCSC.png" group-title="SHAREEXT@Television/MY/ASTRO",TVS(xyz)
+https://link.zozotv.xyz:443/live/usez37/zxy921/59.ts
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="" tvg-name="TVB Jade" tvg-logo="http://link.zozotv.xyz:8080/pic/zTvbJade.png" group-title="SHAREEXT@Television/MY/ASTRO",TVB Jade(xyz)
+https://link.zozotv.xyz:443/live/usez37/zxy921/2118.ts
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="" tvg-name="TVB Xing He" tvg-logo="http://link.zozotv.xyz:8080/pic/zTvbXingHe.png" group-title="SHAREEXT@Television/MY/ASTRO",TVB Xing He(xyz)
+https://link.zozotv.xyz:443/live/usez37/zxy921/2119.ts
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="" tvg-name="TVB Entertainment" tvg-logo="http://link.zozotv.xyz:8080/pic/zTvbEntertainment.png" group-title="SHAREEXT@Television/MY/ASTRO",TVB Entertainment(xyz)
+https://link.zozotv.xyz:443/live/usez37/zxy921/2120.ts
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="" tvg-name="TVBS Asia" tvg-logo="http://link.zozotv.xyz:8080/pic/zTvbs.png" group-title="SHAREEXT@Television/MY/ASTRO",TVBS Asia(xyz)
+https://link.zozotv.xyz:443/live/usez37/zxy921/2121.ts
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="" tvg-name="Phoenix Chinese Channel" tvg-logo="http://link.zozotv.xyz:8080/pic/zPhoenix.png" group-title="SHAREEXT@Television/MY/ASTRO",Phoenix Chinese Channel(xyz)
+https://link.zozotv.xyz:443/live/usez37/zxy921/2122.ts
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="" tvg-name="Cti Asia" tvg-logo="http://link.zozotv.xyz:8080/pic/zCti.png" group-title="SHAREEXT@Television/MY/ASTRO",Cti Asia(xyz)
+https://link.zozotv.xyz:443/live/usez37/zxy921/2123.ts
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="" tvg-name="CCTV4" tvg-logo="http://link.zozotv.xyz:8080/pic/zCctv.png" group-title="SHAREEXT@Television/MY/ASTRO",CCTV4(xyz)
+https://link.zozotv.xyz:443/live/usez37/zxy921/2124.ts
+
 #EXTINF:-1 group-title="SHAREEXT@Television/MY/ASTRO" tvg-id="101.astro" tvg-logo="https://pictr.com/images/2025/01/14/x1tW45.png",TV1_mpd
 #KODIPROP:contentlookup=False
 #KODIPROP:inputstream=inputstream.adaptive
@@ -4279,6 +4633,57 @@ https://cc-tke03xaj1wszc.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 https://cc-jytb1qhmgqh5a.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jytb1qhmgqh5a/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5xY6c78/Picsart-24-02-25-18-58-20-258.png" group-title="SHAREEXT@ India ➾ Movie",Sony Kal HD
 https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="zeecinema" tvg-name="Zee Cinema" tvg-logo="https://i.ibb.co/F7rvJPN/1684669911421.png" group-title="SHAREEXT@ India ➾ Movie",Zee Cinema(xyz)
+https://link.zozotv.xyz:443/live/usez37/zxy921/302.ts
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="Thangathirai" tvg-name="ABO Thangathirai" tvg-logo="https://i.imgur.com/D0vx6EY.png" group-title="SHAREEXT@ India ➾ Movie",ABO Thangathirai(xyz)
+https://link.zozotv.xyz:443/live/usez37/zxy921/464.ts
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="Vellithirai" tvg-name="Astro Vellathirai" tvg-logo="https://i.ibb.co/GW2Bfgc/1692101707348.png" group-title="SHAREEXT@ India ➾ Movie",Astro Vellathirai(xyz)
+https://link.zozotv.xyz:443/live/usez37/zxy921/1040.ts
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="ColorsHindi" tvg-name="Colors HD" tvg-logo="https://i.imgur.com/C4qeeRy.png" group-title="SHAREEXT@ India ➾ Movie",Colors HD(xyz)
+https://link.zozotv.xyz:443/live/usez37/zxy921/401.ts
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="ColorTamil" tvg-name="ColorsTamil" tvg-logo="https://i.ibb.co/tB6ghsS/1692101728228.png" group-title="SHAREEXT@ India ➾ Movie",ColorsTamil(xyz)
+https://link.zozotv.xyz:443/live/usez37/zxy921/1042.ts
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="KTV" tvg-name="KTV HD" tvg-logo="https://i.ibb.co/XzD5Cp9/1709637829660.png" group-title="SHAREEXT@ India ➾ Movie",KTV HD(xyz)
+https://link.zozotv.xyz:443/live/usez37/zxy921/1945.ts
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="Suntv" tvg-name="SUN TV" tvg-logo="https://i.ibb.co/M9hmvx6/1709638038700.png" group-title="SHAREEXT@ India ➾ Movie",SUN TV(xyz)
+https://link.zozotv.xyz:443/live/usez37/zxy921/1946.ts
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="StarVijay" tvg-name="Star Vijay" tvg-logo="https://i.ibb.co/XzF98VB/1692101690228.png" group-title="SHAREEXT@ India ➾ Movie",Star Vijay(xyz)
+https://link.zozotv.xyz:443/live/usez37/zxy921/1041.ts
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="ZeeTamil" tvg-name="ZEE Tamil" tvg-logo="https://i.ibb.co/BsXYcgd/1692101774697.png" group-title="SHAREEXT@ India ➾ Movie",ZEE Tamil(xyz)
+https://link.zozotv.xyz:443/live/usez37/zxy921/1043.ts
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="Adithya" tvg-name="Adithya" tvg-logo="https://i.ibb.co/ryWr6ky/1692101745942.png" group-title="SHAREEXT@ India ➾ Movie",Adithya(xyz)
+https://link.zozotv.xyz:443/live/usez37/zxy921/1044.ts
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="Adithya" tvg-name="Vaanavil" tvg-logo="https://i.ibb.co/mXMVhtv/YDF.png" group-title="SHAREEXT@ India ➾ Movie",Vaanavil(xyz)
+https://link.zozotv.xyz:443/live/usez37/zxy921/58.ts
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="Zee.MACAN" tvg-name="ZEE Bioskop" tvg-logo="https://i.ibb.co/V3mWChh/JJGF.png" group-title="SHAREEXT@ India ➾ Movie",ZEE Bioskop(xyz)
+https://link.zozotv.xyz:443/live/usez37/zxy921/53.ts
+
+
+
 
 
 

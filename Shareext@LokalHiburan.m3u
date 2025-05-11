@@ -788,23 +788,23 @@ https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e
 #EXTINF:-1 tvg-id="Cinemax" tvg-url="https://bit.ly/AstroEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="Shareext@MOVIES",Cinemax_ott(trans)
 https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd 
 
-#EXTINF:-1 tvg-id="HBO" tvg-url="https://bit.ly/AstroEpg" tvg-logo="https://seeklogo.com/images/H/hbo-logo-9BCB43E157-seeklogo.com.png" group-title="Shareext@MOVIES",HBO_SD
+#EXTINF:-1 tvg-id="HBO" tvg-url="https://bit.ly/AstroEpg" tvg-logo="https://seeklogo.com/images/H/hbo-logo-9BCB43E157-seeklogo.com.png" group-title="Shareext@MOVIES",HBO_televizo
 #EXTVLCOPT:http-user-agent=xplayer168
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/hbo.m3u8
 
-#EXTINF:-1 tvg-id="HBOHits" tvg-url="https://bit.ly/AstroEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="Shareext@MOVIES",HBO Hits_SD
+#EXTINF:-1 tvg-id="HBOHits" tvg-url="https://bit.ly/AstroEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="Shareext@MOVIES",HBO Hits_televizo
 #EXTVLCOPT:http-user-agent=xplayer168
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/hbohits.m3u8
 
-#EXTINF:-1 tvg-id="HBOFamily" tvg-url="https://bit.ly/AstroEpg" tvg-logo="https://www.liblogo.com/img-logo/hb7524h5d2-hbo-family-logo-hbo-family-logopedia-.png" group-title="Shareext@MOVIES",HBO Family_SD 
+#EXTINF:-1 tvg-id="HBOFamily" tvg-url="https://bit.ly/AstroEpg" tvg-logo="https://www.liblogo.com/img-logo/hb7524h5d2-hbo-family-logo-hbo-family-logopedia-.png" group-title="Shareext@MOVIES",HBO Family_televizo
 #EXTVLCOPT:http-user-agent=xplayer168
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/hbofam.m3u8
 
-#EXTINF:-1 tvg-id="HBO Signature (HD).sg" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="Shareext@MOVIES",HBO Signature_SD
+#EXTINF:-1 tvg-id="HBO Signature (HD).sg" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="Shareext@MOVIES",HBO Signature_televizo
 #EXTVLCOPT:http-user-agent=xplayer168
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/hbosig.m3u8
 
-#EXTINF:-1 tvg-id="Cinemax" tvg-url="https://bit.ly/AstroEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="Shareext@MOVIES",Cinemax_SD
+#EXTINF:-1 tvg-id="Cinemax" tvg-url="https://bit.ly/AstroEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="Shareext@MOVIES",Cinemax_televizo
 #EXTVLCOPT:http-user-agent=xplayer168
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/cinemax.m3u8
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/cinemax_2.m3u8
@@ -1124,246 +1124,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5b4fc2746
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f15e281b0b8840007324b55/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS&already_redirected=true
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4xD2pwR5/Disney-shareext.jpg" group-title="SHAREEXT@PLUTO•TEVE", Pluto Stories by AMC
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e8254118601b80007b4b7ae/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS&already_redirected=true
-
-
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ CHANNEL || INDONESIA", Spotv 1
-http://filex.tv:8080/aftab123/004090/302214
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ CHANNEL || INDONESIA", Spotv 2
-http://filex.tv:8080/aftab123/004090/302215
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ CHANNEL || INDONESIA", ANIMAL PLANET
-http://filex.tv:8080/aftab123/004090/302203
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ CHANNEL || INDONESIA", Animax
-http://filex.tv:8080/aftab123/004090/302204
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ CHANNEL || INDONESIA", AniPlus
-http://filex.tv:8080/aftab123/004090/302205
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ CHANNEL || INDONESIA", ANTV
-http://filex.tv:8080/aftab123/004090/302206
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ CHANNEL || INDONESIA", Asian Food Network
-http://filex.tv:8080/aftab123/004090/302207
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ CHANNEL || INDONESIA", AXN
-http://filex.tv:8080/aftab123/004090/302208
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ CHANNEL || INDONESIA", Baby TV
-http://filex.tv:8080/aftab123/004090/302209
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ CHANNEL || INDONESIA", Balikpapan TV
-http://filex.tv:8080/aftab123/004090/302210
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ CHANNEL || INDONESIA", Bandung TV
-http://filex.tv:8080/aftab123/004090/302211
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ CHANNEL || INDONESIA", BBC Earth
-http://filex.tv:8080/aftab123/004090/302212
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ CHANNEL || INDONESIA", BBC Lifestyle
-http://filex.tv:8080/aftab123/004090/302213
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ CHANNEL || INDONESIA", Berita Satu
-http://filex.tv:8080/aftab123/004090/302216
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ CHANNEL || INDONESIA", Berita Satu World
-http://filex.tv:8080/aftab123/004090/302217
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ CHANNEL || INDONESIA", Bioskop Indonesia
-http://filex.tv:8080/aftab123/004090/302218
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ CHANNEL || INDONESIA", Boomerang
-http://filex.tv:8080/aftab123/004090/302219
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ CHANNEL || INDONESIA", Cartoon Network
-http://filex.tv:8080/aftab123/004090/302221
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ CHANNEL || INDONESIA", CBeebies
-http://filex.tv:8080/aftab123/004090/302222
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ CHANNEL || INDONESIA", Celestial Movies
-http://filex.tv:8080/aftab123/004090/302223
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ CHANNEL || INDONESIA", CGTN Documentary
-http://filex.tv:8080/aftab123/004090/302224
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ CHANNEL || INDONESIA", Channel News Asia
-http://filex.tv:8080/aftab123/004090/302225
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ CHANNEL || INDONESIA", CinemaWorld
-http://filex.tv:8080/aftab123/004090/302226
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ CHANNEL || INDONESIA", Cinemax
-http://filex.tv:8080/aftab123/004090/302227
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ CHANNEL || INDONESIA", Citra Dangdut
-http://filex.tv:8080/aftab123/004090/302228
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ CHANNEL || INDONESIA", CNBC Indonesia
-http://filex.tv:8080/aftab123/004090/302229
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ CHANNEL || INDONESIA", CNN Indonesia
-http://filex.tv:8080/aftab123/004090/302230
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ CHANNEL || INDONESIA", Crime+ Investigation
-http://filex.tv:8080/aftab123/004090/302231
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ CHANNEL || INDONESIA", Da Ai TV
-http://filex.tv:8080/aftab123/004090/302232
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ CHANNEL || INDONESIA", Discovery World
-http://filex.tv:8080/aftab123/004090/302233
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ CHANNEL || INDONESIA", Disney Channel
-http://filex.tv:8080/aftab123/004090/302234
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ CHANNEL || INDONESIA", Disney XD
-http://filex.tv:8080/aftab123/004090/302235
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ CHANNEL || INDONESIA", DreamWorks
-http://filex.tv:8080/aftab123/004090/302236
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ CHANNEL || INDONESIA", Dunia Anak
-http://filex.tv:8080/aftab123/004090/302237
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ CHANNEL || INDONESIA", Dunia Lain
-http://filex.tv:8080/aftab123/004090/302238
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ CHANNEL || INDONESIA", Ent
-http://filex.tv:8080/aftab123/004090/302239
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ CHANNEL || INDONESIA", Etv Bioskop
-http://filex.tv:8080/aftab123/004090/302240
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ CHANNEL || INDONESIA", Etv Bioskop 02
-http://filex.tv:8080/aftab123/004090/302241
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ CHANNEL || INDONESIA", Etv Bioskop 03
-http://filex.tv:8080/aftab123/004090/302242
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ CHANNEL || INDONESIA", Etv Bioskop 04
-http://filex.tv:8080/aftab123/004090/302243
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ CHANNEL || INDONESIA", FLIK
-http://filex.tv:8080/aftab123/004090/302244
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ CHANNEL || INDONESIA", Galaxy Premium
-http://filex.tv:8080/aftab123/004090/302245
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ CHANNEL || INDONESIA", GEM
-http://filex.tv:8080/aftab123/004090/302246
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ CHANNEL || INDONESIA", GTV
-http://filex.tv:8080/aftab123/004090/302247
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ CHANNEL || INDONESIA", HBO
-http://filex.tv:8080/aftab123/004090/302248
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ CHANNEL || INDONESIA", HBO Family
-http://filex.tv:8080/aftab123/004090/302249
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ CHANNEL || INDONESIA", HBO Hits
-http://filex.tv:8080/aftab123/004090/302250
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ CHANNEL || INDONESIA", HBO Signature
-http://filex.tv:8080/aftab123/004090/302251
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ CHANNEL || INDONESIA", HGTV
-http://filex.tv:8080/aftab123/004090/302252
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ CHANNEL || INDONESIA", Hip Hip Horee!
-http://filex.tv:8080/aftab123/004090/302253
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ CHANNEL || INDONESIA", History
-http://filex.tv:8080/aftab123/004090/302254
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ CHANNEL || INDONESIA", Hits
-http://filex.tv:8080/aftab123/004090/302255
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ CHANNEL || INDONESIA", Hits Movies
-http://filex.tv:8080/aftab123/004090/302256
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ CHANNEL || INDONESIA", Horee!
-http://filex.tv:8080/aftab123/004090/302257
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ CHANNEL || INDONESIA", Huma Betang TV
-http://filex.tv:8080/aftab123/004090/302258
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ CHANNEL || INDONESIA", Hunan TV
-http://filex.tv:8080/aftab123/004090/302259
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ CHANNEL || INDONESIA", I Konser
-http://filex.tv:8080/aftab123/004090/302260
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ CHANNEL || INDONESIA", IDX
-http://filex.tv:8080/aftab123/004090/302261
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ CHANNEL || INDONESIA", IMC
-http://filex.tv:8080/aftab123/004090/302262
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ CHANNEL || INDONESIA", Indi Kids
-http://filex.tv:8080/aftab123/004090/302263
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ CHANNEL || INDONESIA", Indosiar
-http://filex.tv:8080/aftab123/004090/302264
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ CHANNEL || INDONESIA", INews
-http://filex.tv:8080/aftab123/004090/302265
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ CHANNEL || INDONESIA", Insert
-http://filex.tv:8080/aftab123/004090/302266
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ CHANNEL || INDONESIA", Izzah TV
-http://filex.tv:8080/aftab123/004090/302267
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ CHANNEL || INDONESIA", Jak TV
-http://filex.tv:8080/aftab123/004090/302268
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ CHANNEL || INDONESIA", JTV
-http://filex.tv:8080/aftab123/004090/302269
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ CHANNEL || INDONESIA", Kids TV
-http://filex.tv:8080/aftab123/004090/302270
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ CHANNEL || INDONESIA", Kompas TV
-http://filex.tv:8080/aftab123/004090/302271
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ CHANNEL || INDONESIA", Lifestyle & Fashion
-http://filex.tv:8080/aftab123/004090/302272
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ CHANNEL || INDONESIA", Metro TV
-http://filex.tv:8080/aftab123/004090/302273
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ CHANNEL || INDONESIA", MNC News
-http://filex.tv:8080/aftab123/004090/302274
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ CHANNEL || INDONESIA", Sportstar
-http://filex.tv:8080/aftab123/004090/302275
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ CHANNEL || INDONESIA", Sportstar 2
-http://filex.tv:8080/aftab123/004090/302276
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ CHANNEL || INDONESIA", Sportstar 3
-http://filex.tv:8080/aftab123/004090/302277
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ CHANNEL || INDONESIA", MNC TV
-http://filex.tv:8080/aftab123/004090/302278
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ CHANNEL || INDONESIA", Moji
-http://filex.tv:8080/aftab123/004090/302279
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ CHANNEL || INDONESIA", MQTV
-http://filex.tv:8080/aftab123/004090/302280
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ CHANNEL || INDONESIA", MTA 7 Asia
-http://filex.tv:8080/aftab123/004090/302281
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ CHANNEL || INDONESIA", MTA TV
-http://filex.tv:8080/aftab123/004090/302282
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ CHANNEL || INDONESIA", Music TV
-http://filex.tv:8080/aftab123/004090/302283
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ CHANNEL || INDONESIA", My Cinema
-http://filex.tv:8080/aftab123/004090/302284
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ CHANNEL || INDONESIA", My Cinema Asia
-http://filex.tv:8080/aftab123/004090/302285
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ CHANNEL || INDONESIA", My Family
-http://filex.tv:8080/aftab123/004090/302286
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ CHANNEL || INDONESIA", My Kidz
-http://filex.tv:8080/aftab123/004090/302287
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ CHANNEL || INDONESIA", Net
-http://filex.tv:8080/aftab123/004090/302288
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ CHANNEL || INDONESIA", Nick Jr
-http://filex.tv:8080/aftab123/004090/302289
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ CHANNEL || INDONESIA", nickelodeon
-http://filex.tv:8080/aftab123/004090/302290
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ CHANNEL || INDONESIA", Nusantara TV
-http://filex.tv:8080/aftab123/004090/302291
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ CHANNEL || INDONESIA", ONE
-http://filex.tv:8080/aftab123/004090/302292
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ CHANNEL || INDONESIA", Padang TV
-http://filex.tv:8080/aftab123/004090/302293
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ CHANNEL || INDONESIA", Prambors
-http://filex.tv:8080/aftab123/004090/302294
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ CHANNEL || INDONESIA", Radar Cirebon TV
-http://filex.tv:8080/aftab123/004090/302295
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ CHANNEL || INDONESIA", Radio 51
-http://filex.tv:8080/aftab123/004090/302296
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ CHANNEL || INDONESIA", RCTI
-http://filex.tv:8080/aftab123/004090/302297
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ CHANNEL || INDONESIA", Rock Action
-http://filex.tv:8080/aftab123/004090/302298
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ CHANNEL || INDONESIA", Rock Entertaiment
-http://filex.tv:8080/aftab123/004090/302299
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ CHANNEL || INDONESIA", Rodja TV
-http://filex.tv:8080/aftab123/004090/302300
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ CHANNEL || INDONESIA", SCTV
-http://filex.tv:8080/aftab123/004090/302301
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ CHANNEL || INDONESIA", SEA Today
-http://filex.tv:8080/aftab123/004090/302302
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ CHANNEL || INDONESIA", Sindonews TV
-http://filex.tv:8080/aftab123/004090/302303
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ CHANNEL || INDONESIA", Smithsonian Channel
-http://filex.tv:8080/aftab123/004090/302304
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ CHANNEL || INDONESIA", Tech Storm
-http://filex.tv:8080/aftab123/004090/302307
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ CHANNEL || INDONESIA", Tegar TV Lampung
-http://filex.tv:8080/aftab123/004090/302308
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ CHANNEL || INDONESIA", Thrill
-http://filex.tv:8080/aftab123/004090/302309
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ CHANNEL || INDONESIA", TLC
-http://filex.tv:8080/aftab123/004090/302310
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ CHANNEL || INDONESIA", Trans 7
-http://filex.tv:8080/aftab123/004090/302311
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ CHANNEL || INDONESIA", Trans TV
-http://filex.tv:8080/aftab123/004090/302312
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ CHANNEL || INDONESIA", TV 9 Nusantara
-http://filex.tv:8080/aftab123/004090/302313
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ CHANNEL || INDONESIA", TV One
-http://filex.tv:8080/aftab123/004090/302314
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ CHANNEL || INDONESIA", TVKU
-http://filex.tv:8080/aftab123/004090/302315
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ CHANNEL || INDONESIA", TVN
-http://filex.tv:8080/aftab123/004090/302316
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ CHANNEL || INDONESIA", TVN Movies
-http://filex.tv:8080/aftab123/004090/302317
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ CHANNEL || INDONESIA", TVRI
-http://filex.tv:8080/aftab123/004090/302318
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ CHANNEL || INDONESIA", UG TV
-http://filex.tv:8080/aftab123/004090/302323
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ CHANNEL || INDONESIA", Vision Prime
-http://filex.tv:8080/aftab123/004090/302326
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ CHANNEL || INDONESIA", Zee Bioskop
-http://filex.tv:8080/aftab123/004090/302327
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ CHANNEL || INDONESIA", ZooMoo
-http://filex.tv:8080/aftab123/004090/302328
-
-
 
 
 
@@ -4295,13 +4055,13 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/MTVLiveHD/mpd/MTVLiveHD.mpd
 
 
 
-#EXTINF:-1 group-title="SHAREEXT@Television/MY/ASTRO" tvg-id="101.astro" tvg-logo="https://pictr.com/images/2025/01/14/x1tW45.png",TV1
+#EXTINF:-1 group-title="SHAREEXT@Television/MY/ASTRO" tvg-id="101.astro" tvg-logo="https://pictr.com/images/2025/01/14/x1tW45.png",TV1_mpd
 #KODIPROP:contentlookup=False
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
 
-#EXTINF:-1 group-title="SHAREEXT@Television/MY/ASTRO" tvg-id="102.astro" tvg-logo="https://pictr.com/images/2025/01/14/x1tjeQ.md.png",TV2
+#EXTINF:-1 group-title="SHAREEXT@Television/MY/ASTRO" tvg-id="102.astro" tvg-logo="https://pictr.com/images/2025/01/14/x1tjeQ.md.png",TV2_mpd
 #KODIPROP:contentlookup=False
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -4310,13 +4070,13 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 #EXTINF:-1 group-title="SHAREEXT@Television/MY/ASTRO" tvg-id="103.astro" tvg-logo="https://pictr.com/images/2025/01/14/x1tQ51.png",TV3
 https://tonton-live-switch-ssar.akamaized.net/stream-tv3/master_1080.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311
 
-#EXTINF:-1 group-title="SHAREEXT@Television/MY/ASTRO" tvg-id="145.astro" tvg-logo="https://pictr.com/images/2025/01/20/xplO5f.png",TV6
+#EXTINF:-1 group-title="SHAREEXT@Television/MY/ASTRO" tvg-id="145.astro" tvg-logo="https://pictr.com/images/2025/01/20/xplO5f.png",TV6_mpd
 #KODIPROP:contentlookup=False
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
 
-#EXTINF:-1 group-title="SHAREEXT@Television/MY/ASTRO" tvg-id="147.astro" tvg-logo="https://pictr.com/images/2025/01/14/x1tY1u.png",DidikTV
+#EXTINF:-1 group-title="SHAREEXT@Television/MY/ASTRO" tvg-id="147.astro" tvg-logo="https://pictr.com/images/2025/01/14/x1tY1u.png",DidikTV_mpd
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
@@ -4324,7 +4084,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=47a1206b44822c89320e70916cf57b0c:e040ca2aa426df789ba384ba561891b4
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live06.mpd
 
-#EXTINF:-1 group-title="SHAREEXT@Television/MY/ASTRO" tvg-id="148.astro" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png",8TV
+#EXTINF:-1 group-title="SHAREEXT@Television/MY/ASTRO" tvg-id="148.astro" tvg-logo="https://pictr.com/images/2025/01/14/x1tdWg.png",8TV_mpd
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
@@ -4332,7 +4092,7 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live06.mpd
 #KODIPROP:inputstream.adaptive.license_key=a9c619074ed38c20e25ad36c3c57c10c:056e1e49573d2caee5cb4fe78f8c4f3d
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live08.mpd
 
-#EXTINF:-1 group-title="SHAREEXT@Television/MY/ASTRO" tvg-id="149.astro" tvg-logo="https://pictr.com/images/2025/01/14/x1tutX.png",TV9
+#EXTINF:-1 group-title="SHAREEXT@Television/MY/ASTRO" tvg-id="149.astro" tvg-logo="https://pictr.com/images/2025/01/14/x1tutX.png",TV9_mpd
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
@@ -4340,27 +4100,22 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live08.mpd
 #KODIPROP:inputstream.adaptive.license_key=1dfa8a645af41e83c520bddf913934ca:65f6af8750d24b230d91b984237ac1e4
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live09.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="109 Awesome" tvg-logo="https://perfecttv.net/logo/awesome.png" group-title="SHAREEXT@Television/MY/ASTRO",Awesome (vip)
-https://83.142.30.171:443/live/vip_3klp0es8/wg3piwEs/2708.ts
-#EXTINF:-1 tvg-id="" tvg-name="127 QJ" tvg-logo="https://perfecttv.net/logo/qj.png" group-title="SHAREEXT@Television/MY/ASTRO",QJ (vip)
-https://83.142.30.171:443/live/vip_3klp0es8/wg3piwEs/2684.ts
-#EXTINF:-1 tvg-id="" tvg-name="121 Citra(B)" tvg-logo="https://perfecttv.net/logo/citra.png" group-title="SHAREEXT@Television/MY/ASTRO",Citra (vip)
-https://83.142.30.171:443/live/vip_3klp0es8/wg3piwEs/2679.ts
-#EXTINF:-1 tvg-id="" tvg-name="119 Ria(B)" tvg-logo="https://perfecttv.net/logo/ria.png" group-title="SHAREEXT@Television/MY/ASTRO",Ria (vip)
-https://83.142.30.171:443/live/vip_3klp0es8/wg3piwEs/2678.ts
-#EXTINF:-1 tvg-id="" tvg-name="118 Prima (B)" tvg-logo="https://perfecttv.net/logo/prima.png" group-title="SHAREEXT@Television/MY/ASTRO",Prima (vip) 
-https://83.142.30.171:443/live/vip_3klp0es8/wg3piwEs/2677.ts
-#EXTINF:-1 tvg-id="" tvg-name="809 Astro Grandstand" tvg-logo="https://perfecttv.net/logo/grandstand.png" group-title="SHAREEXT@Television/MY/ASTRO",Astro Grandstand (vip)
-https://83.142.30.171:443/live/vip_3klp0es8/wg3piwEs/2698.ts
-#EXTINF:-1 tvg-id="" tvg-name="807 Premier League 2 (A)" tvg-logo="https://perfecttv.net/logo/premierleague2A.png" group-title="SHAREEXT@Television/MY/ASTRO",PremierLeague 2 (vip) 
-https://83.142.30.171:443/live/vip_3klp0es8/wg3piwEs/2683.ts
-#EXTINF:-1 tvg-id="" tvg-name="806 Premier League (A)" tvg-logo="https://perfecttv.net/logo/premierleagueA.png" group-title="SHAREEXT@Television/MY/ASTRO",PremierLeague (vip)
-https://83.142.30.171:443/live/vip_3klp0es8/wg3piwEs/2682.ts
-#EXTINF:-1 tvg-id="" tvg-name="804 Arena Bola 2" tvg-logo="https://perfecttv.net/logo/arenabola2A.png" group-title="SHAREEXT@Television/MY/ASTRO",ArenaBola 2 (vip)
-https://83.142.30.171:443/live/vip_3klp0es8/wg3piwEs/2681.ts
-#EXTINF:-1 tvg-id="" tvg-name="803 Arena Bola" tvg-logo="https://perfecttv.net/logo/arenabolaA.png" group-title="SHAREEXT@Television/MY/ASTRO",ArenaBola (vip)
-https://83.142.30.171:443/live/vip_3klp0es8/wg3piwEs/2680.ts
-#EXTINF:-1 group-title="SHAREEXT@Television/MY/ASTRO" tvg-id="146.astro" tvg-logo="https://pictr.com/images/2025/01/14/x1tIU8.png",OKEY
+#EXTINF:-1 tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/APETITO_CHANNEL.jpg" group-title="SHAREEXT@Television/MY/ASTRO",APETITO
+https://d1sq2slp9afh7o.cloudfront.net/smil:apetito/chunklist_b2596000_slENG.m3u8
+#EXTINF:-1 tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/AURA_CHANNEL.jpg" group-title="SHAREEXT@Television/MY/ASTRO",AURA
+https://d1sq2slp9afh7o.cloudfront.net/smil:aura/chunklist_b2596000_slENG.m3u8
+#EXTINF:-1 tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/FITRAH_CHANNEL.jpg" group-title="SHAREEXT@Television/MY/ASTRO",FITRAH
+https://d1sq2slp9afh7o.cloudfront.net/smil:fitrah/chunklist_b2596000_slENG.m3u8
+#EXTINF:-1 tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/JR_CHANNEL.jpg" group-title="SHAREEXT@Television/MY/ASTRO",JR.
+https://d1sq2slp9afh7o.cloudfront.net/smil:jr/chunklist_b2596000_slENG.m3u8
+#EXTINF:-1 tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/LEAD_CHANNEL.jpg" group-title="SHAREEXT@Television/MY/ASTRO",LEAD
+https://d1sq2slp9afh7o.cloudfront.net/smil:lead/chunklist_b2596000_slENG.m3u8
+#EXTINF:-1 tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/ROLL_CHANNEL.jpg" group-title="SHAREEXT@Television/MY/ASTRO",ROLL
+https://d1sq2slp9afh7o.cloudfront.net/smil:roll/chunklist_b2596000_slENG.m3u8
+#EXTINF:-1 tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/SNAP_CHANNEL.jpg" group-title="SHAREEXT@Television/MY/ASTRO",SNAP
+https://d1sq2slp9afh7o.cloudfront.net/smil:snap/chunklist_b2596000_slENG.m3u8
+
+#EXTINF:-1 group-title="SHAREEXT@Television/MY/ASTRO" tvg-id="146.astro" tvg-logo="https://pictr.com/images/2025/01/14/x1tIU8.png",OKEY_mpd
 #KODIPROP:contentlookup=False
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -4430,108 +4185,6 @@ https://aseanic.github.io/hls/28.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
 #EXTINF:-1 tvg-id="Local.Programming.Dummy.us" group-title="SHAREEXT@Television/MY/ASTRO" tvg-logo="https://pictr.com/images/2025/01/14/x12iav.png",BollywooD Classicᴴᴰ बॉलीवुड क्लासिक
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
-
-#EXTINF:-1 tvg-id="Travel.US.-.East.us" tvg-logo="https://pictr.com/images/2025/02/02/xGEq4A.jpg" group-title="SHAREEXT@Television/MY/ASTRO",Travel Channel
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream=inputstream.adaptive
-https://aseanic.github.io/hls/92.m3u8
-
-#EXTINF:-1 group-title="SHAREEXT@Television/MY/ASTRO" tvg-id="Science.us"  tvg-logo="https://pictr.com/images/2025/02/02/xGxii2.jpg",Discovery Science
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream=inputstream.adaptive
-https://aseanic.github.io/hls/98.m3u8
-
-#EXTINF:-1 group-title="SHAREEXT@Television/MY/ASTRO" tvg-id="Discovery.Family.Channel.us" tvg-logo="https://pictr.com/images/2025/02/02/xGxza9.jpg",Discovery Family
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream=inputstream.adaptive
-https://aseanic.github.io/hls/99.m3u8
-
-#EXTINF:-1 group-title="SHAREEXT@Television/MY/ASTRO" tvg-id="Discovery.Life.Channel.us" tvg-logo="https://pictr.com/images/2025/02/02/xGxpFg.png",Discovery Life
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream=inputstream.adaptive
-https://aseanic.github.io/hls/100.m3u8
-
-#EXTINF:-1 tvg-id="Investigation.Discovery.USA.-.Eastern.us" group-title="SHAREEXT@Television/MY/ASTRO" tvg-logo="https://pictr.com/images/2025/02/02/xGxVG8.jpg",Investigation Discovery
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream=inputstream.adaptive
-https://aseanic.github.io/hls/107.m3u8
-
-#EXTINF:-1 tvg-id="National.Geographic.US.-.Eastern.us" group-title="SHAREEXT@Television/MY/ASTRO" tvg-logo="https://pictr.com/images/2025/02/02/xGxhCx.jpg",NatGeo
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream=inputstream.adaptive
-https://aseanic.github.io/hls/108.m3u8
-
-#EXTINF:-1 tvg-id="National.Geographic.Wild.us" group-title="SHAREEXT@Television/MY/ASTRO" tvg-logo="https://pictr.com/images/2025/02/02/xGxn3v.jpg",NatGeo Wild
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream=inputstream.adaptive
-https://aseanic.github.io/hls/109.m3u8
-
-#EXTINF:-1 tvg-id="Smithsonian.Channel.USA.HD.us" tvg-logo="https://pictr.com/images/2025/02/02/xGxYkQ.jpg" group-title="SHAREEXT@Television/MY/ASTRO",Smithsonian
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream=inputstream.adaptive
-https://aseanic.github.io/hls/110.m3u8
-
-#EXTINF:-1 group-title="SHAREEXT@Television/MY/ASTRO" tvg-id="Paramount.Network.USA.-.Eastern.Feed.us" tvg-logo="https://pictr.com/images/2025/02/02/xGxug1.jpg",Paramount
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream=inputstream.adaptive
-https://aseanic.github.io/hls/116.m3u8
-
-#EXTINF:-1 tvg-id="E!.Entertainment.USA.-.Eastern.Feed.us" tvg-logo="https://pictr.com/images/2025/02/02/xGxIFA.jpg" group-title="SHAREEXT@Television/MY/ASTRO",E!
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream=inputstream.adaptive
-https://aseanic.github.io/hls/117.m3u8
-
-#EXTINF:-1 tvg-id="Comedy.Central.(US).-.Eastern.Feed.us" tvg-logo="https://pictr.com/images/2025/02/02/xGxfB6.jpg" group-title="SHAREEXT@Television/MY/ASTRO",Comedy Central
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream=inputstream.adaptive
-https://aseanic.github.io/hls/118.m3u8
-
-#EXTINF:-1 tvg-id="Syfy.-.Eastern.Feed.us" group-title="SHAREEXT@Television/MY/ASTRO" tvg-logo="https://pictr.com/images/2025/02/02/xGxoGq.jpg",Syfy
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream=inputstream.adaptive
-https://aseanic.github.io/hls/119.m3u8
-
-#EXTINF:-1 tvg-id="Disney.-.Eastern.Feed.us" group-title="SHAREEXT@Television/MY/ASTRO" tvg-logo="https://pictr.com/images/2024/01/07/EyUjo2.png",Disney Channel
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream=inputstream.adaptive
-https://aseanic.github.io/hls/128.m3u8
-
-#EXTINF:-1 tvg-id="Disney.Junior.USA.-.East.us" group-title="SHAREEXT@Television/MY/ASTRO" tvg-logo="https://pictr.com/images/2024/01/07/EyUTNU.png",Disney Junior
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream=inputstream.adaptive
-https://aseanic.github.io/hls/129.m3u8
-
-#EXTINF:-1 tvg-id="Disney.XD.USA.-.Eastern.Feed.us" group-title="SHAREEXT@Television/MY/ASTRO" tvg-logo="https://pictr.com/images/2024/01/07/EyUcd9.png",Disney XD
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream=inputstream.adaptive
-https://aseanic.github.io/hls/130.m3u8
-
-#EXTINF:-1 tvg-id="MTV.USA.-.Eastern.Feed.us" group-title="SHAREEXT@Television/MY/ASTRO" tvg-logo="https://pictr.com/images/2024/11/17/x6WusX.png",MTV
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream=inputstream.adaptive
-https://aseanic.github.io/hls/221.m3u8
-
-#EXTINF:-1 tvg-id="MTV.2.-.East.us" group-title="SHAREEXT@Television/MY/ASTRO" tvg-logo="https://pictr.com/images/2024/11/17/x6WLRl.jpg",MTV2
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream=inputstream.adaptive
-https://aseanic.github.io/hls/222.m3u8
 
 #EXTINF:-1 group-title="SHAREEXT@Television/MY/ASTRO" tvg-id="128.unifi" tvg-logo="https://pictr.com/images/2025/01/14/x12DQ1.png",Unifi Dunia Sinema
 #KODIPROP:contentlookup=False

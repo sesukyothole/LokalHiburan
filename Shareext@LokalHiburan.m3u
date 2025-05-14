@@ -5882,44 +5882,6 @@ http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="SHAREEXT@TEVE•INDIA" tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg", UTSAV GOLD HD
-http://filex.tv:8080/aftab123/004090/276645
-#EXTINF:-1 group-title="SHAREEXT@TEVE•INDIA" tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg", UTSAV PLUS HD
-http://filex.tv:8080/aftab123/004090/276646
-#EXTINF:-1 group-title="SHAREEXT@TEVE•INDIA" tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg", UTSAV BHARAT
-http://filex.tv:8080/aftab123/004090/276647
-#EXTINF:-1 group-title="SHAREEXT@TEVE•INDIA" tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg", SONY TV ASIA HD
-http://filex.tv:8080/aftab123/004090/276648
-#EXTINF:-1 group-title="SHAREEXT@TEVE•INDIA" tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg", ZEE TV HD
-http://filex.tv:8080/aftab123/004090/276650
-#EXTINF:-1 group-title="SHAREEXT@TEVE•INDIA" tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg", ZEE CINEMA
-http://filex.tv:8080/aftab123/004090/276651
-#EXTINF:-1 group-title="SHAREEXT@TEVE•INDIA" tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg", SONY MAX
-http://filex.tv:8080/aftab123/004090/276652
-#EXTINF:-1 group-title="SHAREEXT@TEVE•INDIA" tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg", SONY MAX 2
-http://filex.tv:8080/aftab123/004090/276653
-#EXTINF:-1 group-title="SHAREEXT@TEVE•INDIA" tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg", SONY SAB
-http://filex.tv:8080/aftab123/004090/276654
-#EXTINF:-1 group-title="SHAREEXT@TEVE•INDIA" tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg", COLORS HD
-http://filex.tv:8080/aftab123/004090/276655
-#EXTINF:-1 group-title="SHAREEXT@TEVE•INDIA" tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg", COLOR CINEPLEX
-http://filex.tv:8080/aftab123/004090/276656
-#EXTINF:-1 group-title="SHAREEXT@TEVE•INDIA" tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg", COLORS RISHTEY
-http://filex.tv:8080/aftab123/004090/276657
-#EXTINF:-1 group-title="SHAREEXT@TEVE•INDIA" tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg", B4U MOVIES
-http://filex.tv:8080/aftab123/004090/276658
-#EXTINF:-1 group-title="SHAREEXT@TEVE•INDIA" tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg", BRIT ASIA
-http://filex.tv:8080/aftab123/004090/276659
-#EXTINF:-1 group-title="SHAREEXT@TEVE•INDIA" tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg", ZING
-http://filex.tv:8080/aftab123/004090/276660
-#EXTINF:-1 group-title="SHAREEXT@TEVE•INDIA" tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg", B4U Music
-http://filex.tv:8080/aftab123/004090/276990
-#EXTINF:-1 group-title="SHAREEXT@TEVE•INDIA" tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg", British Muslim TV
-http://filex.tv:8080/aftab123/004090/276991
-#EXTINF:-1 group-title="SHAREEXT@TEVE•INDIA" tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg", AKAAL TV
-http://filex.tv:8080/aftab123/004090/276992
-#EXTINF:-1 group-title="SHAREEXT@TEVE•INDIA" tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg", SIKH CHANNEL
-http://filex.tv:8080/aftab123/004090/276993
 
 #EXTINF:-1 group-title="SHAREEXT@TEVE•INDIA" tvg-logo="https://pbs.twimg.com/profile_images/567474044560089088/CaQ_ZKMP_400x400.png", Al Horreya TV
 http://media.smc-host.com:1935/alhorreya.tv/mp4:alhorreya3/playlist.m3u8
@@ -6007,12 +5969,6 @@ https://sivantv.livebox.co.in/sivantvhls/sivan.m3u8
 https://mntv.livebox.co.in/musichls/live.m3u8
 #EXTINF:-1 tvg-logo="https://qqcdnpictest.mxplay.com/pic/3679.DistroTv.in/en/1x1/208x208/test_pic1684937736677.webp" group-title="ShareExt@TAMIL_television",Vikatan TV
 https://d35j504z0x2vu2.cloudfront.net:443/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/vikatan-tv/master.m3u8
-#EXTINF:-1   tvg-logo="https://i.ibb.co/DtcH1yQ/Share-Ext-tamil-Tv.jpg" group-title="ShareExt@TAMIL_television",Swarnavahini tv
-https://jk3lz8xklw79-hls-live.5centscdn.com/efm/098f6bcd4621d373cade4e832627b4f6.sdp/playlist.m3u8
-#EXTINF:-1   tvg-logo="https://i.ibb.co/DtcH1yQ/Share-Ext-tamil-Tv.jpg" group-title="ShareExt@TAMIL_television",Verbum TV 
-https://verbumtv.livebox.co.in/verbumtvhls/live.m3u8
-#EXTINF:-1   tvg-logo="https://i.ibb.co/DtcH1yQ/Share-Ext-tamil-Tv.jpg" group-title="ShareExt@TAMIL_television",IBC tamil_* 
-https://tx1.ibctamil.tv/CDN_IBC_Tamil/index.m3u8
 #EXTINF:-1   tvg-logo="https://i.ibb.co/DtcH1yQ/Share-Ext-tamil-Tv.jpg" group-title="ShareExt@TAMIL_television",vinayagamusic_*
 http://media.7starcloud.com:1935/harimedia/vinayagamusic/chunklist_w1173294218.m3u8
 

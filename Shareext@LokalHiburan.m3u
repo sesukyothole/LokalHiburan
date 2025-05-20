@@ -102,7 +102,7 @@ http://khano.nng.cloudns.us/live/m3u8/id/1de333734b1b7e0.m3u8
 
 #EXTINF:-1 group-title="Shareext@LOKAL_ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/VTV_Indonesia_red.png",VTV_(televizo)
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-https://why.biz.id/Iptv/oxygen.php?id=vtv 
+https://why.biz.id/Iptv/oxygen.php?id=vtv|user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 
 #EXTINF:-1 group-title="Shareext@LOKAL_ID" tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg",ANTV_(televizo)
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
@@ -3563,131 +3563,6 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/MTVLiveHD/mpd/MTVLiveHD.mpd
 
 
 
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="TV1.my" tvg-name="TV1-HD" tvg-logo="https://i.ibb.co/7JY39jm/ZSW.png" group-title="SHAREEXT@Television/MY/ASTRO",TV1-HD(xyz)
-https://link.zozotv.xyz:443/live/usez37/zxy921/13.ts
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="TV2.my" tvg-name="TV2-FHD" tvg-logo="https://i.ibb.co/hBdcT78/TV2.png" group-title="SHAREEXT@Television/MY/ASTRO",TV2-FHD(xyz)
-https://link.zozotv.xyz:443/live/usez37/zxy921/15.ts
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="TV3.my" tvg-name="TV3-A" tvg-logo="https://i.ibb.co/mXND8gB/CCZ.png" group-title="SHAREEXT@Television/MY/ASTRO",TV3(xyz)
-https://link.zozotv.xyz:443/live/usez37/zxy921/17.ts
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-name="Tv6" tvg-logo="https://i.ibb.co/DMMq0TW/1655552460861.png" group-title="SHAREEXT@Television/MY/ASTRO",Tv6(xyz)
-https://link.zozotv.xyz:443/live/usez37/zxy921/640.ts
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="NTV7" tvg-name="NTV7" tvg-logo="https://i.ibb.co/sjr34f7/cyts.png" group-title="SHAREEXT@Television/MY/ASTRO",NTV7(xyz)
-https://link.zozotv.xyz:443/live/usez37/zxy921/20.ts
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="8TV" tvg-name="8TV" tvg-logo="https://i.ibb.co/3N3JfSz/8.png" group-title="SHAREEXT@Television/MY/ASTRO",8TV(xyz)
-https://link.zozotv.xyz:443/live/usez37/zxy921/21.ts
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="TV9" tvg-name="TV9" tvg-logo="https://i.ibb.co/WBw9D1r/AAXS.png" group-title="SHAREEXT@Television/MY/ASTRO",TV9(xyz)
-https://link.zozotv.xyz:443/live/usez37/zxy921/22.ts
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="TV Okey" tvg-name="Okey" tvg-logo="https://i.ibb.co/bbVfKQT/ae.png" group-title="SHAREEXT@Television/MY/ASTRO",Okey(xyz)
-https://link.zozotv.xyz:443/live/usez37/zxy921/24.ts
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="Awesome" tvg-name="Awesome TV" tvg-logo="https://i.ibb.co/XFXgHbR/sd.png" group-title="SHAREEXT@Television/MY/ASTRO",Awesome TV(xyz)
-https://link.zozotv.xyz:443/live/usez37/zxy921/352.ts
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-name="SUKE TV" tvg-logo="https://i.ibb.co/qyJgMDH/1689595250420.png" group-title="SHAREEXT@Television/MY/ASTRO",SUKE TV(xyz)
-https://link.zozotv.xyz:443/live/usez37/zxy921/924.ts
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-name="Inspirasi" tvg-logo="https://link.zozotv.xyz/pic/InspirasiZozo.png" group-title="SHAREEXT@Television/MY/ASTRO",Inspirasi(xyz)
-https://link.zozotv.xyz:443/live/usez37/zxy921/1910.ts
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-name="Salam HD" tvg-logo="https://link.zozotv.xyz/pic/SalamHdZozo.png" group-title="SHAREEXT@Television/MY/ASTRO",Salam HD(xyz)
-https://link.zozotv.xyz:443/live/usez37/zxy921/1911.ts
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="Al-Hijrah" tvg-name="Alhijrah" tvg-logo="https://i.ibb.co/vwZ3sjD/jjy.png" group-title="SHAREEXT@Television/MY/ASTRO",Alhijrah(xyz)
-https://link.zozotv.xyz:443/live/usez37/zxy921/26.ts
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="BERNAMA" tvg-name="Bernama" tvg-logo="https://i.ibb.co/ZTqV0P4/vgcdb.png" group-title="SHAREEXT@Television/MY/ASTRO",Bernama(xyz)
-https://link.zozotv.xyz:443/live/usez37/zxy921/27.ts
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="AstroAwani.my" tvg-name="Awani" tvg-logo="https://i.ibb.co/rbSH8xj/gn.png" group-title="SHAREEXT@Television/MY/ASTRO",Awani(xyz)
-https://link.zozotv.xyz:443/live/usez37/zxy921/28.ts
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="AstroOasis.my" tvg-name="Oasis" tvg-logo="https://i.ibb.co/b2JQ7g9/oas.png" group-title="SHAREEXT@Television/MY/ASTRO",Oasis(xyz)
-https://link.zozotv.xyz:443/live/usez37/zxy921/30.ts
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="AstroCeria.my" tvg-name="Ceria-A" tvg-logo="https://i.ibb.co/ZhnVLZV/gfh.png" group-title="SHAREEXT@Television/MY/ASTRO",Ceria(xyz)
-https://link.zozotv.xyz:443/live/usez37/zxy921/31.ts
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="AstroRia.my" tvg-name=" Ria " tvg-logo="https://i.ibb.co/v4WwqTH/NHY.png" group-title="SHAREEXT@Television/MY/ASTRO",Ria(xyz)
-https://link.zozotv.xyz:443/live/usez37/zxy921/532.ts
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="premier" tvg-name="Premier" tvg-logo="https://i.ibb.co/kKWphz2/1695008017182.png" group-title="SHAREEXT@Television/MY/ASTRO",Premier(xyz)
-https://link.zozotv.xyz:443/live/usez37/zxy921/1703.ts
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="AstroPrima.my" tvg-name="Prima-A" tvg-logo="https://i.ibb.co/7VVHjv3/saf.png" group-title="SHAREEXT@Television/MY/ASTRO",Prima(xyz)
-https://link.zozotv.xyz:443/live/usez37/zxy921/33.ts
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="AstroCitra.my" tvg-name="Citra-A" tvg-logo="https://i.ibb.co/12wR714/hfgd.png" group-title="SHAREEXT@Television/MY/ASTRO",Citra(xyz)
-https://link.zozotv.xyz:443/live/usez37/zxy921/36.ts
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="zeecinema" tvg-name="Aura" tvg-logo="https://i.ibb.co/D4YHLf6/58T.png" group-title="SHAREEXT@Television/MY/ASTRO",Aura(xyz)
-https://link.zozotv.xyz:443/live/usez37/zxy921/38.ts
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="AstroRania.my" tvg-name="Rania" tvg-logo="https://i.ibb.co/y0cGSsg/ASd.png" group-title="SHAREEXT@Television/MY/ASTRO",Rania(xyz)
-https://link.zozotv.xyz:443/live/usez37/zxy921/39.ts
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="TVS" tvg-name="TVS" tvg-logo="https://i.ibb.co/W5jwb9K/FCSC.png" group-title="SHAREEXT@Television/MY/ASTRO",TVS(xyz)
-https://link.zozotv.xyz:443/live/usez37/zxy921/59.ts
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-name="TVB Jade" tvg-logo="http://link.zozotv.xyz:8080/pic/zTvbJade.png" group-title="SHAREEXT@Television/MY/ASTRO",TVB Jade(xyz)
-https://link.zozotv.xyz:443/live/usez37/zxy921/2118.ts
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-name="TVB Xing He" tvg-logo="http://link.zozotv.xyz:8080/pic/zTvbXingHe.png" group-title="SHAREEXT@Television/MY/ASTRO",TVB Xing He(xyz)
-https://link.zozotv.xyz:443/live/usez37/zxy921/2119.ts
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-name="TVB Entertainment" tvg-logo="http://link.zozotv.xyz:8080/pic/zTvbEntertainment.png" group-title="SHAREEXT@Television/MY/ASTRO",TVB Entertainment(xyz)
-https://link.zozotv.xyz:443/live/usez37/zxy921/2120.ts
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-name="TVBS Asia" tvg-logo="http://link.zozotv.xyz:8080/pic/zTvbs.png" group-title="SHAREEXT@Television/MY/ASTRO",TVBS Asia(xyz)
-https://link.zozotv.xyz:443/live/usez37/zxy921/2121.ts
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-name="Phoenix Chinese Channel" tvg-logo="http://link.zozotv.xyz:8080/pic/zPhoenix.png" group-title="SHAREEXT@Television/MY/ASTRO",Phoenix Chinese Channel(xyz)
-https://link.zozotv.xyz:443/live/usez37/zxy921/2122.ts
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-name="Cti Asia" tvg-logo="http://link.zozotv.xyz:8080/pic/zCti.png" group-title="SHAREEXT@Television/MY/ASTRO",Cti Asia(xyz)
-https://link.zozotv.xyz:443/live/usez37/zxy921/2123.ts
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-name="CCTV4" tvg-logo="http://link.zozotv.xyz:8080/pic/zCctv.png" group-title="SHAREEXT@Television/MY/ASTRO",CCTV4(xyz)
-https://link.zozotv.xyz:443/live/usez37/zxy921/2124.ts
-
 #EXTINF:-1 group-title="SHAREEXT@Television/MY/ASTRO" tvg-id="101.astro" tvg-logo="https://pictr.com/images/2025/01/14/x1tW45.png",TV1_mpd
 #KODIPROP:contentlookup=False
 #KODIPROP:inputstream=inputstream.adaptive
@@ -3913,53 +3788,8 @@ https://cc-jytb1qhmgqh5a.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5xY6c78/Picsart-24-02-25-18-58-20-258.png" group-title="SHAREEXT@ India ➾ Movie",Sony Kal HD
 https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="zeecinema" tvg-name="Zee Cinema" tvg-logo="https://i.ibb.co/F7rvJPN/1684669911421.png" group-title="SHAREEXT@ India ➾ Movie",Zee Cinema(xyz)
-https://link.zozotv.xyz:443/live/usez37/zxy921/302.ts
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="Thangathirai" tvg-name="ABO Thangathirai" tvg-logo="https://i.imgur.com/D0vx6EY.png" group-title="SHAREEXT@ India ➾ Movie",ABO Thangathirai(xyz)
-https://link.zozotv.xyz:443/live/usez37/zxy921/464.ts
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="Vellithirai" tvg-name="Astro Vellathirai" tvg-logo="https://i.ibb.co/GW2Bfgc/1692101707348.png" group-title="SHAREEXT@ India ➾ Movie",Astro Vellathirai(xyz)
-https://link.zozotv.xyz:443/live/usez37/zxy921/1040.ts
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="ColorsHindi" tvg-name="Colors HD" tvg-logo="https://i.imgur.com/C4qeeRy.png" group-title="SHAREEXT@ India ➾ Movie",Colors HD(xyz)
-https://link.zozotv.xyz:443/live/usez37/zxy921/401.ts
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="ColorTamil" tvg-name="ColorsTamil" tvg-logo="https://i.ibb.co/tB6ghsS/1692101728228.png" group-title="SHAREEXT@ India ➾ Movie",ColorsTamil(xyz)
-https://link.zozotv.xyz:443/live/usez37/zxy921/1042.ts
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="KTV" tvg-name="KTV HD" tvg-logo="https://i.ibb.co/XzD5Cp9/1709637829660.png" group-title="SHAREEXT@ India ➾ Movie",KTV HD(xyz)
-https://link.zozotv.xyz:443/live/usez37/zxy921/1945.ts
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="Suntv" tvg-name="SUN TV" tvg-logo="https://i.ibb.co/M9hmvx6/1709638038700.png" group-title="SHAREEXT@ India ➾ Movie",SUN TV(xyz)
-https://link.zozotv.xyz:443/live/usez37/zxy921/1946.ts
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="StarVijay" tvg-name="Star Vijay" tvg-logo="https://i.ibb.co/XzF98VB/1692101690228.png" group-title="SHAREEXT@ India ➾ Movie",Star Vijay(xyz)
-https://link.zozotv.xyz:443/live/usez37/zxy921/1041.ts
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="ZeeTamil" tvg-name="ZEE Tamil" tvg-logo="https://i.ibb.co/BsXYcgd/1692101774697.png" group-title="SHAREEXT@ India ➾ Movie",ZEE Tamil(xyz)
-https://link.zozotv.xyz:443/live/usez37/zxy921/1043.ts
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="Adithya" tvg-name="Adithya" tvg-logo="https://i.ibb.co/ryWr6ky/1692101745942.png" group-title="SHAREEXT@ India ➾ Movie",Adithya(xyz)
-https://link.zozotv.xyz:443/live/usez37/zxy921/1044.ts
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="Adithya" tvg-name="Vaanavil" tvg-logo="https://i.ibb.co/mXMVhtv/YDF.png" group-title="SHAREEXT@ India ➾ Movie",Vaanavil(xyz)
-https://link.zozotv.xyz:443/live/usez37/zxy921/58.ts
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="Zee.MACAN" tvg-name="ZEE Bioskop" tvg-logo="https://i.ibb.co/V3mWChh/JJGF.png" group-title="SHAREEXT@ India ➾ Movie",ZEE Bioskop(xyz)
-https://link.zozotv.xyz:443/live/usez37/zxy921/53.ts
 
 
 
@@ -4439,58 +4269,103 @@ https://d2kziuzkf9oizb.cloudfront.net/rd005/chunklist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.v1.mk/logo/CCTV1.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv1-高码
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.v1.mk/logo/CCTV1.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv1..
 https://cdn5.163189.xyz/live/cctv1/stream.m3u8
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.v1.mk/logo/CCTV1.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv1-高码
+http://111.43.126.240:9003/hls/13/index.m3u8
 #EXTINF:-1 tvg-id="cctv2" tvg-name="cctv2" tvg-logo="https://epg.v1.mk/logo/cctv2.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv2-高码
-https://phdown.serv00.net/Smartv.php?id=cctv2
-#http://119.36.148.115:59901/tsfile/live/0002_1.m3u8
+http://111.43.126.240:9003/hls/14/index.m3u8
 #EXTINF:-1 tvg-id="cctv3" tvg-name="cctv3" tvg-logo="https://epg.v1.mk/logo/cctv3.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv3-高码
-https://phdown.serv00.net/Smartv.php?id=cctv3
-#http://119.36.148.115:59901/tsfile/live/0003_1.m3u8
+http://111.43.126.240:9003/hls/15/index.m3u8
 #EXTINF:-1 tvg-id="cctv4" tvg-name="cctv4" tvg-logo="https://epg.v1.mk/logo/cctv4.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv4-高码
-https://phdown.serv00.net/Smartv.php?id=cctv4
-#http://118.122.189.74:9901/tsfile/live/0004_1.m3u8
+http://111.43.126.240:9003/hls/16/index.m3u8
 #EXTINF:-1 tvg-id="cctv5" tvg-name="cctv5" tvg-logo="https://epg.v1.mk/logo/cctv5.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv5-高码
-https://phdown.serv00.net/Smartv.php?id=cctv5
-#http://219.159.91.10:9901/tsfile/live/0005_1.m3u8
+http://111.43.126.240:9003/hls/17/index.m3u8
 #EXTINF:-1 tvg-id="cctv5+" tvg-name="cctv5+" tvg-logo="https://epg.v1.mk/logo/cctv5+.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv5p-高码
-http://36.105.100.208:35455/gaoma/cctv5p.m3u8
+http://111.43.126.240:9003/hls/18/index.m3u8
 #EXTINF:-1 tvg-id="cctv6" tvg-name="cctv6" tvg-logo="https://epg.v1.mk/logo/cctv6.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv6-高码
-https://phdown.serv00.net/Smartv.php?id=cctv6
-#http://118.122.189.74:9901/tsfile/live/0006_2.m3u8
+http://111.43.126.240:9003/hls/19/index.m3u8
 #EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://epg.v1.mk/logo/CCTV7.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv7-高码
-https://phdown.serv00.net/Smartv.php?id=cctv7
-#http://118.122.189.74:9901/tsfile/live/0007_1.m3u8
+http://111.43.126.240:9003/hls/20/index.m3u8
 #EXTINF:-1 tvg-id="cctv8" tvg-name="cctv8" tvg-logo="https://epg.v1.mk/logo/cctv8.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv8-高码
-https://phdown.serv00.net/Smartv.php?id=cctv8
-#http://118.122.189.74:9901/tsfile/live/0008_1.m3u8
+http://111.43.126.240:9003/hls/21/index.m3u8
 #EXTINF:-1 tvg-id="cctv9" tvg-name="cctv9" tvg-logo="https://epg.v1.mk/logo/cctv9.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv9-高码
-https://phdown.serv00.net/Smartv.php?id=cctv9
-#http://118.122.189.74:9901/tsfile/live/0009_1.m3u8
+http://111.43.126.240:9003/hls/22/index.m3u8
 #EXTINF:-1 tvg-id="cctv10" tvg-name="cctv10" tvg-logo="https://epg.v1.mk/logo/cctv10.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv10-高码
-https://phdown.serv00.net/Smartv.php?id=cctv10
-#http://118.122.189.74:9901/tsfile/live/0010_1.m3u8
+http://111.43.126.240:9003/hls/23/index.m3u8
 #EXTINF:-1 tvg-id="cctv11" tvg-name="cctv11" tvg-logo="https://epg.v1.mk/logo/cctv11.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv11-高码
-https://phdown.serv00.net/Smartv.php?id=cctv11
-#http://118.122.189.74:9901/tsfile/live/0011_1.m3u8
+http://111.43.126.240:9003/hls/24/index.m3u8
 #EXTINF:-1 tvg-id="cctv12" tvg-name="cctv12" tvg-logo="https://epg.v1.mk/logo/cctv12.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv12-高码
-https://phdown.serv00.net/Smartv.php?id=cctv12
-#http://118.122.189.74:9901/tsfile/live/0012_1.m3u8
+http://111.43.126.240:9003/hls/25/index.m3u8
 #EXTINF:-1 tvg-id="cctv13" tvg-name="cctv13" tvg-logo="https://epg.v1.mk/logo/cctv13.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv13-高码
-https://phdown.serv00.net/Smartv.php?id=cctv13
-#http://118.122.189.74:9901/tsfile/live/0013_1.m3u8
+http://111.43.126.240:9003/hls/26/index.m3u8
 #EXTINF:-1 tvg-id="cctv14" tvg-name="cctv14" tvg-logo="https://epg.v1.mk/logo/cctv14.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv14-高码
-https://phdown.serv00.net/Smartv.php?id=cctv14
-#http://118.122.189.74:9901/tsfile/live/0014_1.m3u8
+http://111.43.126.240:9003/hls/27/index.m3u8
 #EXTINF:-1 tvg-id="cctv15" tvg-name="cctv15" tvg-logo="https://epg.v1.mk/logo/cctv15.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv15-高码
-https://phdown.serv00.net/Smartv.php?id=cctv15
-#http://118.122.189.74:9901/tsfile/live/0015_1.m3u8
+http://111.43.126.240:9003/hls/28/index.m3u8
 #EXTINF:-1 tvg-id="cctv16" tvg-name="cctv16" tvg-logo="https://epg.v1.mk/logo/cctv16.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv16-高码
-https://phdown.serv00.net/Smartv.php?id=cctv16
-#http://183.11.239.36:808/hls/169/index.m3u8
+http://111.43.126.240:9003/hls/29/index.m3u8
 #EXTINF:-1 tvg-id="cctv17" tvg-name="cctv17" tvg-logo="https://epg.v1.mk/logo/cctv17.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv17-高码
-https://phdown.serv00.net/Smartv.php?id=cctv17
-#http://118.122.189.74:9901/tsfile/live/0019_1.m3u8
+http://111.43.126.240:9003/hls/30/index.m3u8
+
+#EXTINF:-1 tvg-name="北京卫视" tvg-id="149" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/北京卫视.png" group-title="SHAREEXT@CHINA_STATION/央视频道", 北京卫视
+http://39.164.160.249:9901/tsfile/live/0122_1.m3u8
+#EXTINF:-1 tvg-name="东方卫视" tvg-id="55" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/东方卫视.png" group-title="SHAREEXT@CHINA_STATION/央视频道", 东方卫视
+http://39.164.160.249:9901/tsfile/live/0107_1.m3u8
+#EXTINF:-1 tvg-name="广东卫视" tvg-id="153" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/广东卫视.png" group-title="SHAREEXT@CHINA_STATION/央视频道", 广东卫视
+http://39.164.160.249:9901/tsfile/live/0125_1.m3u8
+#EXTINF:-1 tvg-name="湖南卫视" tvg-id="43" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/湖南卫视.png" group-title="SHAREEXT@CHINA_STATION/央视频道", 湖南卫视
+http://39.164.160.249:9901/tsfile/live/0128_1.m3u8
+#EXTINF:-1 tvg-name="山东教育" tvg-id="山东教育" tvg-logo="https://livecdn.zbds.top/logo/山东教育.png" group-title="SHAREEXT@CHINA_STATION/央视频道", 山东教育
+https://test1.live.sdetv.com.cn/live/dianshizhibo/playlist.m3u8
+#EXTINF:-1 tvg-name="兵团卫视" tvg-id="6" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/兵团卫视.png" group-title="SHAREEXT@CHINA_STATION/央视频道", 兵团卫视
+http://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
+#EXTINF:-1 tvg-name="海峡卫视" tvg-id="3" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/海峡卫视.png" group-title="SHAREEXT@CHINA_STATION/央视频道", 海峡卫视
+http://38.64.72.148:80/hls/modn/list/4009/chunklist0.m3u8
+#EXTINF:-1 tvg-name="河北卫视" tvg-id="98" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/河北卫视.png" group-title="SHAREEXT@CHINA_STATION/央视频道", 河北卫视
+http://39.164.160.249:9901/tsfile/live/0117_1.m3u8
+#EXTINF:-1 tvg-name="江苏卫视" tvg-id="53" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/江苏卫视.png" group-title="SHAREEXT@CHINA_STATION/央视频道", 江苏卫视
+http://39.164.160.249:9901/tsfile/live/0127_1.m3u8
+#EXTINF:-1 tvg-name="康巴卫视" tvg-id="9" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/康巴卫视.png" group-title="SHAREEXT@CHINA_STATION/央视频道", 康巴卫视
+http://111.202.12.159:8080/3zvkK28/1000/live.m3u8
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-id="40" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/辽宁卫视.png" group-title="SHAREEXT@CHINA_STATION/央视频道", 辽宁卫视
+http://39.164.160.249:9901/tsfile/live/0121_1.m3u8
+#EXTINF:-1 tvg-name="宁夏卫视" tvg-id="15" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/宁夏卫视.png" group-title="SHAREEXT@CHINA_STATION/央视频道", 宁夏卫视
+http://36.32.174.67:60080/newlive/live/hls/49/live.m3u8
+#EXTINF:-1 tvg-name="厦门卫视" tvg-id="11" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/厦门卫视.png" group-title="SHAREEXT@CHINA_STATION/央视频道", 厦门卫视
+http://183.11.239.36:808/hls/17/index.m3u8
+#EXTINF:-1 tvg-name="山东卫视" tvg-id="45" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/山东卫视.png" group-title="SHAREEXT@CHINA_STATION/央视频道", 山东卫视
+http://39.164.160.249:9901/tsfile/live/0131_1.m3u8
+#EXTINF:-1 tvg-name="山西卫视" tvg-id="山西卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/山西卫视.png" group-title="SHAREEXT@CHINA_STATION/央视频道", 山西卫视
+http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8
+#EXTINF:-1 tvg-name="深圳卫视" tvg-id="31" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/深圳卫视.png" group-title="SHAREEXT@CHINA_STATION/央视频道", 深圳卫视
+http://38.64.72.148:80/hls/modn/list/4007/playlist.m3u8
+#EXTINF:-1 tvg-name="天津卫视" tvg-id="131" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/天津卫视.png" group-title="SHAREEXT@CHINA_STATION/央视频道", 天津卫视
+http://182.150.23.74:808/hls/27/index.m3u8
+#EXTINF:-1 tvg-name="西藏卫视" tvg-id="10" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/西藏卫视.png" group-title="SHAREEXT@CHINA_STATION/央视频道", 西藏卫视
+http://120.238.94.10:9901/tsfile/live/1077_1.m3u8
+#EXTINF:-1 tvg-name="新疆卫视" tvg-id="17" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/新疆卫视.png" group-title="SHAREEXT@CHINA_STATION/央视频道", 新疆卫视
+http://39.164.160.249:9901/tsfile/live/0110_1.m3u8
+#EXTINF:-1 tvg-name="云南卫视" tvg-id="23" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/云南卫视.png" group-title="SHAREEXT@CHINA_STATION/央视频道", 云南卫视
+http://39.164.160.249:9901/tsfile/live/0119_1.m3u8
+#EXTINF:-1 tvg-name="浙江卫视" tvg-id="浙江卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视.png" group-title="SHAREEXT@CHINA_STATION/央视频道", 浙江卫视
+https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+#EXTINF:-1 tvg-name="重庆卫视" tvg-id="42" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/重庆卫视.png" group-title="SHAREEXT@CHINA_STATION/央视频道", 重庆卫视
+http://36.32.174.67:60080/newlive/live/hls/34/live.m3u8
+#EXTINF:-1 tvg-name="CHC家庭影院" tvg-id="CHC家庭影院" tvg-logo="https://livecdn.zbds.top/logo/CHC家庭影院.png" group-title="SHAREEXT@CHINA_STATION/央视频道", CHC家庭影院
+http://110.53.52.63:8888/newlive/live/hls/51/live.m3u8
+#EXTINF:-1 tvg-name="CHC影迷电影" tvg-id="CHC影迷电影" tvg-logo="https://livecdn.zbds.top/logo/CHC影迷电影.png" group-title="SHAREEXT@CHINA_STATION/央视频道", CHC影迷电影
+http://110.53.52.63:8888/newlive/live/hls/52/live.m3u8
+#EXTINF:-1 tvg-name="黑莓电影" tvg-id="黑莓电影" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/黑莓电影.png" group-title="SHAREEXT@CHINA_STATION/央视频道", 黑莓电影
+https://epg.pw/stream/ffcb6572863f0745a7369fbd9d901f1dfd0ab8fab8bad8bebb4e01c90b303c47.m3u8
+#EXTINF:-1 tvg-name="龙华电影" tvg-id="龙华电影" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/LTV1.png" group-title="SHAREEXT@CHINA_STATION/央视频道", 龙华电影
+https://cdn8.163189.xyz/live/lhdy/stream.m3u8
+#EXTINF:-1 tvg-name="天元围棋" tvg-id="天元围棋" tvg-logo="https://livecdn.zbds.top/logo/天元围棋.png" group-title="SHAREEXT@CHINA_STATION/央视频道", 天元围棋
+http://wouu.net:9977/udp/239.93.42.55:5140
+#EXTINF:-1 tvg-name="重温经典" tvg-id="重温经典" tvg-logo="https://livecdn.zbds.top/logo/重温经典.png" group-title="SHAREEXT@CHINA_STATION/央视频道", 重温经典
+http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
+#EXTINF:-1 tvg-name="浙江少儿" tvg-id="浙江少儿" tvg-logo="https://livecdn.zbds.top/logo/浙江少儿.png" group-title="SHAREEXT@CHINA_STATION/央视频道", 浙江少儿
+https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.v1.mk/logo/CCTV1.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv-1-(bk)
 http://itv.iptv1688.top:2016/itv.php?id=CCTV1

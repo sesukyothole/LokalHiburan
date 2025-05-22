@@ -100,42 +100,50 @@ https://5bf7b725107e5.streamlock.net/tvkesehatan/tvkesehatan/playlist.m3u8?check
 #EXTINF:-1 tvg-logo="https://channeljowo.com/wp-content/uploads/2024/09/cropped-LOGO-CHANNEL-JOWO_04-1536x642.png" group-title="Shareext@LOKAL_ID", Channel Jowo
 http://khano.nng.cloudns.us/live/m3u8/id/1de333734b1b7e0.m3u8
 
-#EXTINF:-1 group-title="Shareext@LOKAL_ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/VTV_Indonesia_red.png",VTV_(televizo)
+#EXTINF:-1 group-title="Shareext@LOKAL_ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/VTV_Indonesia_red.png",VTV_oxy(televizo)
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 https://why.biz.id/Iptv/oxygen.php?id=vtv|user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-
-#EXTINF:-1 group-title="Shareext@LOKAL_ID" tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg",ANTV_(televizo)
+#EXTINF:-1 group-title="Shareext@LOKAL_ID" tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg",ANTV_oxy(televizo)
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 https://why.biz.id/Iptv/oxygen.php?id=antv|user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-
-#EXTINF:-1 group-title="Shareext@LOKAL_ID" tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg",TVONE_(televizo)
+#EXTINF:-1 group-title="Shareext@LOKAL_ID" tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg",TVONE_oxy(televizo)
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 https://why.biz.id/Iptv/oxygen.php?id=tvone|user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-
-#EXTINF:-1 group-title="Shareext@LOKAL_ID" tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg",RTV_(televizo)
+#EXTINF:-1 group-title="Shareext@LOKAL_ID" tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg",RTV_oxy(televizo)
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 https://why.biz.id/Iptv/oxygen.php?id=rtv|user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-
-#EXTINF:-1 group-title="Shareext@LOKAL_ID" tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg",OXYGEN TV_(televizo)
+#EXTINF:-1 group-title="Shareext@LOKAL_ID" tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg",OXYGENTV_oxy(televizo)
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 https://why.biz.id/Iptv/oxygen.php?id=oxygentv|user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-
-#EXTINF:-1 group-title="Shareext@LOKAL_ID" tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg",KOMPAS TV_(televizo)
+#EXTINF:-1 group-title="Shareext@LOKAL_ID" tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg",KOMPASTV_oxy(televizo)
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 https://why.biz.id/Iptv/oxygen.php?id=kompastv|user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-
-#EXTINF:-1 group-title="Shareext@LOKAL_ID" tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg",METRO TV_(televizo)
+#EXTINF:-1 group-title="Shareext@LOKAL_ID" tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg",METROTV_oxy(televizo)
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 https://why.biz.id/Iptv/oxygen.php?id=metrotv|user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-
-#EXTINF:-1 group-title="Shareext@LOKAL_ID" tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg",TVRI_(televizo)
+#EXTINF:-1 group-title="Shareext@LOKAL_ID" tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg",TVRI_oxy(televizo)
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 https://why.biz.id/Iptv/oxygen.php?id=tvri|user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+
+
+#EXTINF:-1 group-title="Shareext@LOKAL_ID" tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg", InsanTV(intec)
+https://flv.intechmedia.net/live/ch1.m3u8|user-agent=Mozilla/5.0
+#EXTINF:-1 group-title="Shareext@LOKAL_ID" tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg", Kompastv(intec)
+https://flv.intechmedia.net/live/ch102.m3u8|user-agent=Mozilla/5.0
+#EXTINF:-1 group-title="Shareext@LOKAL_ID" tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg", Vtv(intec)
+https://flv.intechmedia.net/live/ch107.m3u8|user-agent=Mozilla/5.0
+#EXTINF:-1 group-title="Shareext@LOKAL_ID" tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg", Tvone(intec)
+https://flv.intechmedia.net/live/ch109.m3u8|user-agent=Mozilla/5.0
+#EXTINF:-1 group-title="Shareext@LOKAL_ID" tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg", Magnatv(intec)
+https://flv.intechmedia.net/live/ch111.m3u8|user-agent=Mozilla/5.0
+#EXTINF:-1 group-title="Shareext@LOKAL_ID" tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg", BNtv(intec)
+https://flv.intechmedia.net/live/ch112.m3u8|user-agent=Mozilla/5.0
+#EXTINF:-1 group-title="Shareext@LOKAL_ID" tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg", Hijrahtv(intec)
+https://flv.intechmedia.net/live/ch8.m3u8|user-agent=Mozilla/5.0
 
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #EXTINF:-1 tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/942/49942-SNAPSHOT-l.png" group-title="Shareext@LOKAL_ID",LIFE
 https://dsgtq5sngxkde.cloudfront.net/live/eds/Life/sa_dash/Life.mpd
-
 #EXTINF:-1 group-title="Shareext@LOKAL_ID" tvg-id="RCTI.id" tvg-logo="https://pictr.com/images/2025/01/23/xpuQuV.jpg",RCTI (github)
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
@@ -7108,6 +7116,85 @@ https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 
 
 
+
+#EXTINF: -1 tvg-id="AstroVaanavil" tvg-chno="29" tvg-logo="https://i.postimg.cc/Jz8NwGbz/images-photoaidcom-cropped.png" group-title="ShareExt@TAMIL_television",Astro Vaanavil HD
+http://v3tv.live/play/live.php?mac=00:1A:79:F5:5F:02&stream=1163692&extension=m3u8&play_token=k4c6ns8Tcx
+#EXTINF: -1 tvg-id="1332" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/THANTIO_Thumbnail-v4/THANTIO_Thumbnail.png" group-title="ShareExt@TAMIL_television", Thanthi One
+https://249553662f3e.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.588204940461.channel.Sx8XPoik8VX2.m3u8
+#EXTINF: -1 tvg-id="611" tvg-chno="16" tvg-logo="https://tatalogo.pages.dev/611.png" group-title="ShareExt@TAMIL_television", Sirippoli
+https://segment.yuppcdn.net/240122/siripoli/playlist.m3u8
+#EXTINF: -1 tvg-id="439" tvg-chno="12" tvg-logo="https://tatalogo.pages.dev/439.png" group-title="ShareExt@TAMIL_television", Raj TV
+https://d3kdywbtdfbp9z.cloudfront.net/v1/master/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/index.m3u8?aws.sessionId=88643d4a-2ca6-49ad-b54e-645e2b25ae7e
+#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="https://i.ibb.co/NFZZBJF/aadtha.png" group-title="ShareExt@TAMIL_television", Aastha Tamil
+https://aasthaott.akamaized.net/110923/smil:aasthatamil.smil/playlist.m3u8
+#EXTINF: -1 tvg-id="392" tvg-chno="30" tvg-logo="https://tatalogo.pages.dev/392.png" group-title="ShareExt@TAMIL_television", Makkal TV
+http://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8
+#EXTINF: -1 tvg-id="37" tvg-chno="16" tvg-logo="https://tataprime.wordpress.com/wp-content/uploads/2024/06/20240603_0608231733608464190748767.png" group-title="ShareExt@TAMIL_television", Mega TV
+http://udigitalott.ridsys.in/riptv/live/stream38/index.m3u8
+#EXTINF: -1 tvg-id="57" tvg-chno="16" tvg-logo="https://tataprime.wordpress.com/wp-content/uploads/2024/04/20240404_0218344882082935187551464.png" group-title="ShareExt@TAMIL_television", Mega 24
+http://udigitalott.ridsys.in/riptv/live/stream36/index.m3u8
+#EXTINF: -1 tvg-id="334" tvg-chno="29" tvg-logo="https://i.ibb.co/rQNDBCy/dd.png" group-title="ShareExt@TAMIL_television", DD Tamil
+https://d2lk5u59tns74c.cloudfront.net/out/v1/abf46b14847e45499f4a47f3a9afe93d/index.m3u8
+#EXTINF:-1  tvg-name="Rasi TV" group-title="ShareExt@TAMIL_television" tvg-logo="https://content.jdmagicbox.com/comp/srivilliputtur/n6/9999p4563.4563.221008173401.j7n6/catalogue/-20hwojw4xr.jpg",Tamilmagan TV HD
+http://120.138.14.16:8080/hls/tamilmagantv/index.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/6fWqtRlywXirpl4cUwbjCl1vo86lOznuX6VZgG88MjMQvuwEa3OdQUG05njBjuCuhg=w240-h480-rw" group-title="ShareExt@TAMIL_television", Rock TV
+https://apis.avmediawork.in/tvhls/rocktv.m3u8
+#EXTINF:-1tvg-id=""tvg-logo=""group-title="ShareExt@TAMIL_television",V TAMILHD
+https://iptvhls.inet.moe/hls/tamilhd_src/index.m3u8
+#EXTINF:-1tvg-id=""tvg-logo=""group-title="ShareExt@TAMIL_television",izzathtv
+https://live.olidigital.in/izzathtv/izzathtv/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ShareExt@TAMIL_television", Thai TV
+https://cdn.anystream.uk:8082/thaitv/thailive/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ShareExt@TAMIL_television", Durai TV
+https://stream.iplive.xyz/hls/duraitv/index.m3u8
+#EXTINF:-1 tvg-logo="https://admin.ragatvchannel.com/upload/logo/1724859945_raga_logo.png" group-title="ShareExt@TAMIL_television", Raga Tv
+https://ragatv.livebox.co.in/Ragatvhls/ragatvlive.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ShareExt@TAMIL_television", MTV
+https://stream.iplive.xyz/mtv/mtvhd/index.m3u8?token=zB3NfXUXshSpJ3
+#EXTINF:-1 tvg-logo="" group-title="ShareExt@TAMIL_television", Rights Channel
+https://stream.iplive.xyz/rightstv/rightschannelhd/index.m3u8
+#EXTINF:-1tvg-id=""tvg-logo=""group-title="ShareExt@TAMIL_television",GaneshTv
+https://live.thendralcloud.in/ganeshtvlive/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ShareExt@TAMIL_television", MMTV HD
+https://stream.iplive.xyz/mmtvtc/mmtvhd/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ShareExt@TAMIL_television", Emperor TV
+https://rtmp.bmlive.net/bms/emperortv/index.m3u8
+#EXTINF:-1tvg-id=""tvg-logo=""group-title="ShareExt@TAMIL_television",thendraltv
+https://live.thendralcloud.in/thendraltv/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ShareExt@TAMIL_television", Urchagam TV
+https://rtmp.bmlive.net/bms/urchagamtv/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ShareExt@TAMIL_television", AK TV HD
+https://server2.iptelevision.in/aktvhd.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ShareExt@TAMIL_television",Tamil Aaram TV
+https://thamilaaramtv24-hls.secdn.net/thamilaaramtv24-channel/play/ThamilaaramTV.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ShareExt@TAMIL_television", Tiger TV
+https://iptv7.iptv.pics/hls/vktigr_src/index.m3u8
+#EXTINF:-1  tvg-name="Surya Tv" group-title="ShareExt@TAMIL_television" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240307_1226146801845317456848677.png",Surya Tv
+https://galaxyott.live//hls//suryatv.m3u8
+#EXTINF:-1  tvg-name="Paavai Tv" group-title="ShareExt@TAMIL_television" tvg-logo="https://tataprime.wordpress.com/wp-content/uploads/2024/07/20240712_1229141764311506036112795.png",Paavai Tv
+http://paavaitv.sritv.co.in:1935/paavaitv/live/sri_network_google_firebase_bandwidth_hlsplay.m3u8
+#EXTINF:-1 tvg-logo="http://tnm3u.live/icon/tamil/local/sukrishwartv.png" group-title="ShareExt@TAMIL_television", Sukrishwar TV
+http://brightmeltech.in/sukrishwaratv/sukrishwaratv.m3u8
+#EXTINF:-1  tvg-name="" group-title="ShareExt@TAMIL_television" tvg-logo="https://play-lh.googleusercontent.com/ZM9c5byu9C9Xv7oeGbIyVgDQsDtx5L-gNIKpfYeomlCRDoIAjOzOhp67wP2Ggu7JvAY=w240-h480-rw",Ramya TV
+http://brightmeltech.in/ramyatv/ramyatv.m3u8
+#EXTINF:-1  tvg-name="" group-title="ShareExt@TAMIL_television" tvg-logo="https://tataprime.wordpress.com/wp-content/uploads/2024/07/20240718_0257505016823489526479014.png",GSJK Tv
+http://brightmeltech.in/gsjktv/gsjktv.m3u8
+#EXTINF:-1  tvg-name="" group-title="ShareExt@TAMIL_television" tvg-logo="https://tataprime.wordpress.com/wp-content/uploads/2024/07/20240718_0257158735407588855150609.png",Raja Tv
+http://brightmeltech.in/rajatv/rajatv.m3u8
+#EXTINF:-1  tvg-name="Akash Tv" group-title="ShareExt@TAMIL_television" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240328_0707478441275345469539566.png",Akash Tv
+https://account2.livebox.co.in/AkashTvhls/live.m3u8
+#EXTINF:-1  tvg-name="" group-title="ShareExt@TAMIL_television" tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240402_0244113518845900804817006.png",Thalaa Tv
+https://streams2.sofast.tv/ptnr-yupptv/title-THALAA-TV-TAM_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2069c593-3c07-4d62-9d44-746be5c3a5d6/manifest.m3u8
+#EXTINF:-1  tvg-name="Southern Tv" group-title="ShareExt@TAMIL_television" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240331_0037217658317852544226240.png",Southern Tv
+https://player.mslivestream.net/mslive/9fe7c84b8253e88099d47237e0b7367c.sdp/playlist.m3u8
+#EXTINF:-1  tvg-name="Jayam Tv" group-title="ShareExt@TAMIL_television" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240316_0917083041332261609729794.png",Jayam Tv
+http://103.147.60.4:1935/live/jayamtv/index.m3u8
+#EXTINF:-1  tvg-name="PCN Channel" group-title="ShareExt@TAMIL_television" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240307_2322551345866312332877105.png",PCN Channel
+http://103.98.62.134:8080/gtv/gtv.m3u8
+#EXTINF:-1  tvg-name="Royal Tv" group-title="ShareExt@TAMIL_television" tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240409_0824211724653237984049786.png",Royal Tv
+https://streamspace.live/hls/jptv/livestream.m3u8
+#EXTINF:-1  tvg-name="RCN Tv" group-title="ShareExt@TAMIL_television" tvg-logo="https://tataprime.files.wordpress.com/2024/02/20240223_0641135483463871761974250.png",RCN Tv
+https://live.we2live.in/rcntv/rcntv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3a/Kalaignar_logo.jpg"  group-title="ShareExt@TAMIL_television",Kalainger TV
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/kalaignar_nim_https/240122/kalaignartv/playlist.m3u8

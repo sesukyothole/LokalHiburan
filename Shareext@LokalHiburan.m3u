@@ -5,6 +5,91 @@ https://www.dropbox.com/s/4rwbpj055sws4nm/savagelove_avengershareext.mp4?dl=1
 #EXTINF:-1   tvg-logo="https://i.ibb.co/D8WHHTG/shareext-tvku-0nline.jpg" group-title="ShareExt@Relax",WELCOME@_SHAREEXT@!!!!
 https://www.dropbox.com/s/odrcf9c1jseu07a/ShareExt_adminGroup.mp4?dl=1
 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="RCTI.id" group-title="Shareext@LOKAL_ID" tvg-logo="https://www.visionplus.id/images/repository/580/580-LOGO-m.png",RCTI HD(v+)
+https://legacy-global-cdn.visionplus.id/live/eds/rcti-2/sa_dash/rcti-2.mpd
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="MNCTV.id" group-title="Shareext@LOKAL_ID" tvg-logo="https://www.visionplus.id/images/repository/581/581-LOGO-m.png",MNCTV HD(v+)
+https://legacy-global-cdn.visionplus.id/live/eds/MNCTV-HD/sa_dash/MNCTV-HD.mpd
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="GTV.id" group-title="Shareext@LOKAL_ID" tvg-logo="https://www.visionplus.id/images/repository/582/582-LOGO-m.png",GTV HD(v+)
+https://legacy-global-cdn.visionplus.id/live/eds/GTV-HD/sa_dash/GTV-HD.mpd
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="iNews.id" group-title="Shareext@LOKAL_ID" tvg-logo="https://www.visionplus.id/images/repository/583/583-LOGO-m.png",iNews HD(v+)
+https://legacy-global-cdn.visionplus.id/live/eds/iNewsTV-HDD/sa_dash/iNewsTV-HDD.mpd
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="ANTV.id" group-title="Shareext@LOKAL_ID" tvg-logo="https://www.visionplus.id/images/repository/587/587-LOGO-m.png",ANTV(v+)
+https://legacy-global-cdn.visionplus.id/live/eds/ANTV/sa_dash/ANTV.mpd
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="TransTV.id" group-title="Shareext@LOKAL_ID" tvg-logo="https://www.visionplus.id/images/repository/585/585-LOGO-m.png",Trans TV(v+)
+https://legacy-global-cdn.visionplus.id/live/eds/TransTV-2/sa_dash/TransTV-2.mpd
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="Trans7.id" group-title="Shareext@LOKAL_ID" tvg-logo="https://www.visionplus.id/images/repository/586/586-LOGO-m.png",Trans 7(v+)
+https://legacy-global-cdn.visionplus.id/live/eds/Trans7-2/sa_dash/Trans7-2.mpd
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="tvOne.id" group-title="Shareext@LOKAL_ID" tvg-logo="https://www.visionplus.id/images/repository/589/589-LOGO-m.png",TVOne(v+)
+https://legacy-global-cdn.visionplus.id/live/eds/TVOne-2/sa_dash/TVOne-2.mpd
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="MetroTV.id" group-title="Shareext@LOKAL_ID" tvg-logo="https://www.visionplus.id/images/repository/591/591-LOGO-m.png",Metro TV(v+)
+https://legacy-global-cdn.visionplus.id/live/eds/Metro-TV2/sa_dash/Metro-TV2.mpd
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="KompasTV.id" group-title="Shareext@LOKAL_ID" tvg-logo="https://www.visionplus.id/images/repository/590/590-LOGO-m.png",Kompas TV(v+)
+https://legacy-global-cdn.visionplus.id/live/eds/KompasTV/sa_dash/KompasTV.mpd
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="MDTV.id" group-title="Shareext@LOKAL_ID" tvg-logo="https://www.visionplus.id/images/repository/334/320334-LOGO-l.png”,MDTV(v+)
+https://legacy-global-cdn.visionplus.id/live/eds/NetTV-HD/sa_dash/NetTV-HD.mpd
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="TVRI.id" group-title="Shareext@LOKAL_ID" tvg-logo="https://www.visionplus.id/images/repository/593/593-LOGO-m.png",TVRI Nasional(v+)
+https://legacy-global-cdn.visionplus.id/live/eds/PemersatuBangsa/sa_dash/PemersatuBangsa.mpd
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="JakTV.id" group-title="Shareext@LOKAL_ID" tvg-logo="https://www.visionplus.id/images/repository/598/598-LOGO-m.png",Jak TV(v+)
+https://legacy-global-cdn.visionplus.id/live/eds/JakTV/sa_dash/JakTV.mpd
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="Shareext@LOKAL_ID" tvg-logo="https://www.visionplus.id/images/repository/595/595-LOGO-m.png",Da Ai TV Indonesia(v+)
+https://legacy-global-cdn.visionplus.id/live/eds/DAAITV/sa_dash/DAAITV.mpd
+
+#EXTINF:-1 tvg-id="Indosiar.id" group-title="Shareext@LOKAL_ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/1280px-Indosiar_2015.svg.png",Indosiar HD(m)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://iptvid.my.id/avc/Mastam/mastam123/indosiar.m3u8
+
+#EXTINF:-1 tvg-id="SCTV.id" group-title="Shareext@LOKAL_ID" tvg-logo="https://raw.githubusercontent.com/hud4156/mytv/main/png/sctv.png",SCTV HD(m)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://iptvid.my.id/avc/Mastam/mastam123/sctv.m3u8
+
+#EXTINF:-1 tvg-id="moji.id" group-title="Shareext@LOKAL_ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/640px-Moji_blue.svg.png",Moji(m)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://iptvid.my.id/avc/Mastam/mastam123/ochannel.m3u8
+
+#EXTINF:-1 tvg-id="mentaritv.id" group-title="Shareext@LOKAL_ID" tvg-logo="https://images.indihometv.com/logogrey/grey_logo_mentaritv_small.png",Mentari TV(m) 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://iptvid.my.id/avc/Mastam/mastam123/mentaritv.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36

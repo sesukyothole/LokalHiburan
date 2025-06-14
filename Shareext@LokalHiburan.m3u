@@ -6824,41 +6824,65 @@ https://d2kziuzkf9oizb.cloudfront.net/rd005/chunklist.m3u8
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.v1.mk/logo/CCTV1.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv1..
 https://cdn5.163189.xyz/live/cctv1/stream.m3u8
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.v1.mk/logo/CCTV1.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv1-高码
-http://sport.pendy.dpdns.org/migu/608807420?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+http://50.7.234.10:8278/cctv1/playlist.m3u8?tid=MCCC3548278835482788&ct=20241&tsum=c388166681c436d57748662302ba92c0
 #EXTINF:-1 tvg-id="cctv2" tvg-name="cctv2" tvg-logo="https://epg.v1.mk/logo/cctv2.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv2-高码
-http://sport.pendy.dpdns.org/migu/631780532?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+http://50.7.234.10:8278/cctv2/playlist.m3u8?tid=MA3A8708007887080078&ct=20241&tsum=116adba55c786862da5546bfd4d2001d
 #EXTINF:-1 tvg-id="cctv3" tvg-name="cctv3" tvg-logo="https://epg.v1.mk/logo/cctv3.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv3-高码
-http://sport.pendy.dpdns.org/migu/624878271?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+http://50.7.234.10:8278/cctv3/playlist.m3u8?tid=ME1E3065704330657043&ct=20241&tsum=7e656ecc7959394d965f541981aa04ad
 #EXTINF:-1 tvg-id="cctv4" tvg-name="cctv4" tvg-logo="https://epg.v1.mk/logo/cctv4.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv4-高码
-http://sport.pendy.dpdns.org/migu/631780421?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+http://50.7.234.10:8278/cctv4/playlist.m3u8?tid=MA1A3448852534488525&ct=20241&tsum=aae2a3f35cdb52ce3008899ee369f471
 #EXTINF:-1 tvg-id="cctv5" tvg-name="cctv5" tvg-logo="https://epg.v1.mk/logo/cctv5.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv5-高码
-http://sport.pendy.dpdns.org/migu/641886683?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+http://50.7.234.10:8278/cctv5/playlist.m3u8?tid=MBAB3974548339745483&ct=20241&tsum=c8269d943415d039632b87c196c6f04c
 #EXTINF:-1 tvg-id="cctv5+" tvg-name="cctv5+" tvg-logo="https://epg.v1.mk/logo/cctv5+.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv5p-高码
-http://sport.pendy.dpdns.org/migu/641886773?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+http://50.7.234.10:8278/cctv5plus/playlist.m3u8?tid=MBBB3644683836446838&ct=20241&tsum=61c5791ef7caa6174ca8935662423098
 #EXTINF:-1 tvg-id="cctv6" tvg-name="cctv6" tvg-logo="https://epg.v1.mk/logo/cctv6.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv6-高码
-http://sport.pendy.dpdns.org/migu/624878396?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+http://50.7.234.10:8278/cctv6/playlist.m3u8?tid=MC2C9624267596242675&ct=20241&tsum=a18c52395c4a37814e314472c84597c9
 #EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://epg.v1.mk/logo/CCTV7.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv7-高码
-http://sport.pendy.dpdns.org/migu/673168121?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+http://50.7.234.10:8278/cctv7/playlist.m3u8?tid=MB1B7757965077579650&ct=20241&tsum=d248ac6bc983788ba529bcfb56199280
 #EXTINF:-1 tvg-id="cctv8" tvg-name="cctv8" tvg-logo="https://epg.v1.mk/logo/cctv8.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv8-高码
-http://sport.pendy.dpdns.org/migu/624878356?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+http://50.7.234.10:8278/cctv8hd/playlist.m3u8?tid=MFEF3576568635765686&ct=20241&tsum=b0820eed1a1cf208b8f5426c1cf2ae42
 #EXTINF:-1 tvg-id="cctv9" tvg-name="cctv9" tvg-logo="https://epg.v1.mk/logo/cctv9.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv9-高码
-http://sport.pendy.dpdns.org/migu/673168140?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+http://50.7.234.10:8278/cctv9hd/playlist.m3u8?tid=MAFA9033752490337524&ct=20241&tsum=f4ad9ceb886308e69813d0ffa83bb9c2
 #EXTINF:-1 tvg-id="cctv10" tvg-name="cctv10" tvg-logo="https://epg.v1.mk/logo/cctv10.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv10-高码
-http://sport.pendy.dpdns.org/migu/624878405?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+http://50.7.234.10:8278/cctv10hd/playlist.m3u8?tid=MCFC3999267539992675&ct=20241&tsum=41eb4d9a5a922a5c226c7b248d987707
 #EXTINF:-1 tvg-id="cctv11" tvg-name="cctv11" tvg-logo="https://epg.v1.mk/logo/cctv11.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv11-高码
-http://sport.pendy.dpdns.org/migu/667987558?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+http://50.7.234.10:8278/cctv11/playlist.m3u8?tid=MDAD5604644756046447&ct=20241&tsum=1a1e87e978a380f65b242e496e889910
 #EXTINF:-1 tvg-id="cctv12" tvg-name="cctv12" tvg-logo="https://epg.v1.mk/logo/cctv12.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv12-高码
-http://sport.pendy.dpdns.org/migu/673168185?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+http://50.7.234.10:8278/cctv12/playlist.m3u8?tid=MD8D4832580548325805&ct=20241&tsum=fe16ed7b2398dd262f0a824a45cc49eb
 #EXTINF:-1 tvg-id="cctv13" tvg-name="cctv13" tvg-logo="https://epg.v1.mk/logo/cctv13.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv13-高码
-http://sport.pendy.dpdns.org/migu/608807423?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+http://50.7.234.10:8278/cctv13/playlist.m3u8?tid=MBDB5276702852767028&ct=20241&tsum=aefd67b79576bcd612a2b8e23e25a148
 #EXTINF:-1 tvg-id="cctv14" tvg-name="cctv14" tvg-logo="https://epg.v1.mk/logo/cctv14.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv14-高码
-http://sport.pendy.dpdns.org/migu/624878440?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+http://50.7.234.10:8278/cctv14/playlist.m3u8?tid=MCCC6170715361707153&ct=20241&tsum=6a0b1add74e2f99075b656fa962dd629
 #EXTINF:-1 tvg-id="cctv15" tvg-name="cctv15" tvg-logo="https://epg.v1.mk/logo/cctv15.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv15-高码
-http://sport.pendy.dpdns.org/migu/673168223?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+http://50.7.234.10:8278/cctv15/playlist.m3u8?tid=MA4A8603363086033630&ct=20241&tsum=d730fab9834c57d0ade110cfada77a1f
 #EXTINF:-1 tvg-id="cctv16" tvg-name="cctv16" tvg-logo="https://epg.v1.mk/logo/cctv16.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv16-高码
-
+http://50.7.234.10:8278/cctv16/playlist.m3u8?tid=MEAE5753509557535095&ct=20241&tsum=0100e5f18715743c267a04fd5efa2920
 #EXTINF:-1 tvg-id="cctv17" tvg-name="cctv17" tvg-logo="https://epg.v1.mk/logo/cctv17.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv17-高码
-http://sport.pendy.dpdns.org/migu/673168256?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+http://50.7.234.10:8278/cctv17/playlist.m3u8?tid=MF0F5246765152467651&ct=20241&tsum=061acab78d0f92b69202a19a3483b7a8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道", 湖南衛視
+http://50.7.234.10:8278/hunan_twn/playlist.m3u8?tid=MD5D1798156717981567&ct=20241&tsum=c1b20243194b9fe443a887e95072b25c
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道", 江蘇衛視
+http://50.7.234.10:8278/jiangsu_twn/playlist.m3u8?tid=MC2C6314086963140869&ct=20241&tsum=8414cef5706939ce9879491b7cac0776
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道", 深圳衛視
+http://50.7.234.10:8278/shenzhen/playlist.m3u8?tid=MC3C4428558344285583&ct=20241&tsum=e53c541f43313161c299e6e990b40ea9
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道", 大灣區衛視
+http://50.7.234.10:8278/nanfang_twn/playlist.m3u8?tid=MC7C4030853240308532&ct=20241&tsum=f479783b1d24f238a6cb6f2d8d57aa69
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道", 廣東衛視
+http://50.7.234.10:8278/guangdongweishi_twn/playlist.m3u8?tid=MACA2095611520956115&ct=20241&tsum=a0109bb968ecdc5abc90c9c2749a1b8c
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道", 北京衛視
+http://50.7.234.10:8278/beijing/playlist.m3u8?tid=MF3F5463195854631958&ct=20241&tsum=6ddb60d19e11f10fd88ef39fb463e8b5
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道", 廣東珠江
+http://50.7.234.10:8278/zhujiang/playlist.m3u8?tid=MF8F1013732910137329&ct=20241&tsum=96c497cd89df9663c5814af198da3733
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道", 廣西衛視
+http://50.7.234.10:8278/guangxi/playlist.m3u8?tid=MACA1200775112007751&ct=20241&tsum=f5f3b4ca413da092aa9fbc8dc6d6b2fc
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道", 湖北衛視
+http://50.7.234.10:8278/hubei/playlist.m3u8?tid=MD0D9109283491092834&ct=20241&tsum=616bddac6186bd565dca4248d1d1bc3d
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道", 四川衛視
+http://50.7.234.10:8278/sichuan_twn/playlist.m3u8?tid=MFDF3528228735282287&ct=20242&tsum=02644e3e1e0b0c82ad947f6339898342
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道", 東方衛視
+http://50.7.234.10:8278/dongfangweishi_twn/playlist.m3u8?tid=MF8F5658203156582031&ct=20241&tsum=f4f0804c4983f7862c55053ecc6fc2e3
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道", 东南卫视
+http://50.7.234.10:8278/fujian/playlist.m3u8?tid=ME5E5081695550816955&ct=20241&tsum=c0a7f842e3ad3a5e04aa017a2768bd21
 
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.v1.mk/logo/CCTV1.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv 1
 http://111.43.126.240:9003/hls/13/index.m3u8
@@ -7222,40 +7246,10 @@ https://cdn-live.dltv.ac.th/dltv08.m3u8
 https://cdn-live.dltv.ac.th/dltv03.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OjYwMe3.png" group-title="SHAREEXT@THAiLandTv", DLTV 7
 https://cdn-live.dltv.ac.th/dltv07.m3u8
-#EXTINF:-1 tvg-logo="https://media-mvtv-app.imgix.net/channel/154_y_lIpB1wRXh7vQUYcAkzxLd8EVbg9Gsa0u.png" group-title="SHAREEXT@THAiLandTv", CCTV4
-https://lb-mvtv-live.v2h-cdn.com/redirect/cctv4/cctv4.stream?type=m3u8
-#EXTINF:-1 tvg-logo="https://media-mvtv-app.imgix.net/channel/129_y_hG7Nj2qWnldBu0fkMDyvT8CwYXLI649F.png" group-title="SHAREEXT@THAiLandTv", MCOT
-https://lb-mvtv-live.v2h-cdn.com/redirect/mcothd/mcothd.stream?type=m3u8
-#EXTINF:-1 tvg-logo="https://media-mvtv-app.imgix.net/channel/113_y_MZJpu9AhykldsP1STHq08LYG47ebWwnB.png" group-title="SHAREEXT@THAiLandTv", MVMall Best
-https://lb-mvtv-live.v2h-cdn.com/redirect/mvmall2/mvmall2.stream?type=m3u8
-#EXTINF:-1 tvg-logo="https://media-mvtv-app.imgix.net/channel/151_y_YrFS8xk32BmplLV4NcHgdXRsuU7TvWZ5.png" group-title="SHAREEXT@THAiLandTv", France 24
-https://lb-mvtv-live.v2h-cdn.com/redirect/france24/france24.stream?type=m3u8
-#EXTINF:-1 tvg-logo="https://media-mvtv-app.imgix.net/channel/153_y_Agyp2nEebLvC9tWa5xBcY1J038OuTzFD.png" group-title="SHAREEXT@THAiLandTv", Boomerang
-https://lb-mvtv-live.v2h-cdn.com/redirect/boomerang/boomerang.stream?type=m3u8
-#EXTINF:-1 tvg-logo="https://media-mvtv-app.imgix.net/channel/120_y_VSgE7P9GiDCxrhFWUALYpvzfM12cdqmH.png" group-title="SHAREEXT@THAiLandTv", TPTV
-https://lb-mvtv-live.v2h-cdn.com/redirect/tptv/tptv.stream?type=m3u8
-#EXTINF:-1 tvg-logo="https://media-mvtv-app.imgix.net/channel/123_y_3vyW276UFjIStew9DHJNs8AGKfdmZXpu.png" group-title="SHAREEXT@THAiLandTv", Nation
-https://lb-mvtv-live.v2h-cdn.com/redirect/nation_1/nation_1.stream?type=m3u8
-#EXTINF:-1 tvg-logo="https://media-mvtv-app.imgix.net/channel/119_y_OhjxHr9fqS2i0NJvPUlcL85mn6e4FoIu.png" group-title="SHAREEXT@THAiLandTv", T SPORT
-https://lb-mvtv-live.v2h-cdn.com/redirect/t_sport/t_sport.stream?type=m3u8
-#EXTINF:-1 tvg-logo="https://media-mvtv-app.imgix.net/channel/118_y_0kEyP9Yrw5jTWflXevIZ1Dqhoa2mi4QO.png" group-title="SHAREEXT@THAiLandTv", 5HD
-https://lb-mvtv-live.v2h-cdn.com/redirect/tv5hd/tv5hd.stream?type=m3u8
-#EXTINF:-1 tvg-logo="https://media-mvtv-app.imgix.net/channel/121_y_uQNBde5zrpo4TKm9kOZPx6iRbGaACfFE.png" group-title="SHAREEXT@THAiLandTv", TNN
-https://lb-mvtv-live.v2h-cdn.com/redirect/tnn24/tnn24.stream?type=m3u8
-#EXTINF:-1 tvg-logo="https://media-mvtv-app.imgix.net/channel/188_y_agUT0o6Vh3t87iAyQEf2nFbGKBk1JN9p.png" group-title="SHAREEXT@THAiLandTv", Boom Anime
-https://lb-mvtv-live.v2h-cdn.com/redirect/boom_anime/boom_anime.stream?type=m3u8
-#EXTINF:-1 tvg-logo="https://media-mvtv-app.imgix.net/channel/171_y_XOJ6qMirnDGuk01TLQjlWho5PtKSa9Ud.png" group-title="SHAREEXT@THAiLandTv", MVMall Living
-https://lb-mvtv-live.v2h-cdn.com/redirect/ttd14/ttd14.stream?type=m3u8
-#EXTINF:-1 tvg-logo="https://media-mvtv-app.imgix.net/channel/107_y_aNzHOm07eZL1nc5MkpIUTBfPGit2qE4y.png" group-title="SHAREEXT@THAiLandTv", MVMall Family
-https://lb-mvtv-live.v2h-cdn.com/redirect/mvmall_ttd12/mvmall_ttd12.stream?type=m3u8
-#EXTINF:-1 tvg-logo="https://media-mvtv-app.imgix.net/channel/122_y_bzfht4O5uRNHylcq1D6nV9TvxmdXWaQP.png" group-title="SHAREEXT@THAiLandTv", JKN18
-https://lb-mvtv-live.v2h-cdn.com/redirect/new/new.stream?type=m3u8
 #EXTINF:-1 tvg-logo="https://iptv36.my.to/logo/topnews.png" group-title="SHAREEXT@THAiLandTv", Top News
 https://live.topnews.co.th/hls/topnews_a_720.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GWkV43J/Thaiiilanddd-Logo.jpg" group-title="SHAREEXT@THAiLandTv", Yateem TV (New!)
 https://vdo.plathong.net/wowza/muslimonair1/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://media-mvtv-app.imgix.net/channel/155_y_ERge294wz1fsLvyCjX3DStPGcMmYFIKo.jpg" group-title="SHAREEXT@THAiLandTv", NHK WORLD
-https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GWkV43J/Thaiiilanddd-Logo.jpg" group-title="SHAREEXT@THAiLandTv", WhiteChannel
 http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GWkV43J/Thaiiilanddd-Logo.jpg" group-title="SHAREEXT@THAiLandTv", News1
@@ -7359,10 +7353,6 @@ https://cdn.baobinhphuoc.com.vn/live/28550d6213460634105b0bae21016f68bce/playlis
 http://vcdn1.vtc.gov.vn:1935/m_4k/smil:4k.smil/playlist.m3u8?$3840x2160
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ldwQU4L.png" group-title="SHAREEXT@Vietnam_television", LAo Cai
 https://cdn.3ssoft.vn/livetv/laocaitv/laocaitv/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CyFnZs1.png" group-title="SHAREEXT@Vietnam_television", SCTV Phim T峄昻g H峄
-https://e8.endpoint.cdn.sctvonline.vn/channel/sctvphimtonghop/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cnAht7i.png" group-title="SHAREEXT@Vietnam_television", VTC9
-https://e2.endpoint.cdn.sctvonline.vn/hls/vtc9/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KrYncYX.png" group-title="SHAREEXT@Vietnam_television", HAi DUong
 http://truyenhinh.vnptvas.vn/live.m3u8?c=vstv369&q=high&type=tv&location=NA&pkg=pkg11.hni
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/WION_news_Logo.svg/140px-WION_news_Logo.svg.png" group-title="SHAREEXT@Vietnam_television", ช่อง WION
@@ -7392,126 +7382,6 @@ https://64d0d74b76158.streamlock.net/BTVTV/binhthuantv/chunklist.m3u8
 https://tv.thbl.vn/live/tv/tv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ATG11ql.png" group-title="SHAREEXT@Vietnam_television", BAc  LiAu
 https://tv.thbl.vn/live/tv/tv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/87JEXEQ.png" group-title="SHAREEXT@Vietnam_television", ON E Channel HD
-https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab5/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7FpqWnd.png" group-title="SHAREEXT@Vietnam_television", ON Vie DRAMAS
-https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab19/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AgamSNe.png" group-title="SHAREEXT@Vietnam_television", VTV7 HD
-https://e2.endpoint.cdn.sctvonline.vn/hls/vtv7/index.m3u8
-#EXTINF:-1 tvg-logo="https://tchiphuong.github.io/iptv/images/background/sctv-12.png" group-title="SHAREEXT@Vietnam_television", ช่อง SCTV12
-https://e1.endpoint.cdn.sctvonline.vn/channel/sctv12/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mIUWkDx.png" group-title="SHAREEXT@Vietnam_television", VTV5 T芒y Nam B峄�
-https://e3.endpoint.cdn.sctvonline.vn/hls/vtv5_tnb/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6LQ0Z1O.png" group-title="SHAREEXT@Vietnam_television", ON Style TV HD
-https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab12/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HCpqatZ.png" group-title="SHAREEXT@Vietnam_television", VTV C岷 Th啤 HD
-https://e2.endpoint.cdn.sctvonline.vn/hls/vtv6/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ex1VkGQ.png" group-title="SHAREEXT@Vietnam_television", VTV9 HD
-https://e2.endpoint.cdn.sctvonline.vn/hls/vtv9/index.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.hqth.me/logo/thumbs/195.png" group-title="SHAREEXT@Vietnam_television", ช่อง Woman
-https://e4.endpoint.cdn.sctvonline.vn/hls/woman/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/K0DWmyB.png" group-title="SHAREEXT@Vietnam_television", ON Vie GI岷 TR脥
-https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9zVTtsA.png" group-title="SHAREEXT@Vietnam_television", VTV4
-https://e3.endpoint.cdn.sctvonline.vn/hls/vtv4/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MPNlpzb.png" group-title="SHAREEXT@Vietnam_television", ON Phim Vi峄噒 HD
-https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab2/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7qPKNFU.png" group-title="SHAREEXT@Vietnam_television", VTV5
-https://e3.endpoint.cdn.sctvonline.vn/hls/vtv5/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Yc3cmAi.png" group-title="SHAREEXT@Vietnam_television", HTV2
-https://e2.endpoint.cdn.sctvonline.vn/hls/htv2/index.m3u8
-#EXTINF:-1 tvg-logo="https://tchiphuong.github.io/iptv/images/background/sctv-16.png" group-title="SHAREEXT@Vietnam_television", ช่อง SCTV16
-https://e1.endpoint.cdn.sctvonline.vn/channel/sctv16/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ceo06Rf.png" group-title="SHAREEXT@Vietnam_television", VInh Long 2
-https://e2.endpoint.cdn.sctvonline.vn/hls/thvl2/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lpcltL9.png" group-title="SHAREEXT@Vietnam_television", VTV8
-https://e3.endpoint.cdn.sctvonline.vn/hls/vtv8/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/45BXPY3.png" group-title="SHAREEXT@Vietnam_television", ON Music HD
-https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab15/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1SgC1yo.png" group-title="SHAREEXT@Vietnam_television", HTV9
-https://e2.endpoint.cdn.sctvonline.vn/hls/htv9/index.m3u8
-#EXTINF:-1 tvg-logo="https://tchiphuong.github.io/iptv/images/background/sctv-2.png" group-title="SHAREEXT@Vietnam_television", ช่อง SCTV2
-https://e8.endpoint.cdn.sctvonline.vn/channel/sctv2/index.m3u8
-#EXTINF:-1 tvg-logo="https://tchiphuong.github.io/iptv/images/background/sctv-8.png" group-title="SHAREEXT@Vietnam_television", ช่อง SCTV8
-https://e1.endpoint.cdn.sctvonline.vn/channel/sctv8/index.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.hqth.me/logo/thumbs/187.png" group-title="SHAREEXT@Vietnam_television", ช่อง Box Movie 1
-https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7HD60aD.png" group-title="SHAREEXT@Vietnam_television", VTC1
-https://e2.endpoint.cdn.sctvonline.vn/hls/vtc1/index.m3u8
-#EXTINF:-1 tvg-logo="https://tchiphuong.github.io/iptv/images/background/sctv-4.png" group-title="SHAREEXT@Vietnam_television", ช่อง SCTV4
-https://e8.endpoint.cdn.sctvonline.vn/hls/sctv4/index.m3u8
-#EXTINF:-1 tvg-logo="https://tchiphuong.github.io/iptv/images/background/sctv-3.png" group-title="SHAREEXT@Vietnam_television", ช่อง SCTV3
-https://e8.endpoint.cdn.sctvonline.vn/channel/sctv3/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jp57P0v.png" group-title="SHAREEXT@Vietnam_television", ON Info TV HD
-https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab9/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nqwVkmM.png" group-title="SHAREEXT@Vietnam_television", ON O2TV HD
-https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab7/index.m3u8
-#EXTINF:-1 tvg-logo="https://tchiphuong.github.io/iptv/images/background/sctv-11.png" group-title="SHAREEXT@Vietnam_television", ช่อง SCTV11
-https://e1.endpoint.cdn.sctvonline.vn/channel/sctv11/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nfkmvAY.png" group-title="SHAREEXT@Vietnam_television", VTV1 HD
-https://e2.endpoint.cdn.sctvonline.vn/hls/vtv1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6f9ngwY.png" group-title="SHAREEXT@Vietnam_television", ON Cine HD
-https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab10/index.m3u8
-#EXTINF:-1 tvg-logo="https://tchiphuong.github.io/iptv/images/background/sctv-6.png" group-title="SHAREEXT@Vietnam_television", ช่อง SCTV6
-https://e1.endpoint.cdn.sctvonline.vn/channel/sctv6/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BVwi3K3.png" group-title="SHAREEXT@Vietnam_television", VTV2
-https://e3.endpoint.cdn.sctvonline.vn/hls/vtv2/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PaVbyxg.png" group-title="SHAREEXT@Vietnam_television", VTC10
-https://e2.endpoint.cdn.sctvonline.vn/hls/vtc10/index.m3u8
-#EXTINF:-1 tvg-logo="https://tchiphuong.github.io/iptv/images/background/sctv-21.png" group-title="SHAREEXT@Vietnam_television", ช่อง SCTV21
-https://e1.endpoint.cdn.sctvonline.vn/channel/sctv21/index.m3u8
-#EXTINF:-1 tvg-logo="https://tchiphuong.github.io/iptv/images/background/sctv-19.png" group-title="SHAREEXT@Vietnam_television", ช่อง SCTV19
-https://e8.endpoint.cdn.sctvonline.vn/hls/sctv19/index.m3u8
-#EXTINF:-1 tvg-logo="https://tchiphuong.github.io/iptv/images/background/sctv-1.png" group-title="SHAREEXT@Vietnam_television", ช่อง SCTV1
-https://e8.endpoint.cdn.sctvonline.vn/channel/sctv1/index.m3u8
-#EXTINF:-1 tvg-logo="https://tchiphuong.github.io/iptv/images/background/sctv-9.png" group-title="SHAREEXT@Vietnam_television", ช่อง SCTV9
-https://e1.endpoint.cdn.sctvonline.vn/channel/sctv9/index.m3u8
-#EXTINF:-1 tvg-logo="https://tchiphuong.github.io/iptv/images/background/sctv-10.png" group-title="SHAREEXT@Vietnam_television", ช่อง SCTV10
-https://e1.endpoint.cdn.sctvonline.vn/channel/sctv10/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/moYwxwf.png" group-title="SHAREEXT@Vietnam_television", ON Sports HD
-https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab3/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cFs8OVb.png" group-title="SHAREEXT@Vietnam_television", ON Sports+ HD
-https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab6/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bF1sHjk.png" group-title="SHAREEXT@Vietnam_television", VInh Long 1
-https://e2.endpoint.cdn.sctvonline.vn/hls/thvl1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/765Y3jw.png" group-title="SHAREEXT@Vietnam_television", ON Movies HD
-https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab4/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7rLCvgS.png" group-title="SHAREEXT@Vietnam_television", VTV3 HD
-https://e2.endpoint.cdn.sctvonline.vn/hls/vtv3/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VvfiwPJ.png" group-title="SHAREEXT@Vietnam_television", VTC5
-https://e2.endpoint.cdn.sctvonline.vn/hls/vtc5/index.m3u8
-#EXTINF:-1 tvg-logo="https://tchiphuong.github.io/iptv/images/background/sctv-22.png" group-title="SHAREEXT@Vietnam_television", ช่อง SCTV22
-https://e1.endpoint.cdn.sctvonline.vn/channel/sctv22/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hHYzxmS.png" group-title="SHAREEXT@Vietnam_television", ON Trending TV HD
-https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab17/index.m3u8
-#EXTINF:-1 tvg-logo="https://tchiphuong.github.io/iptv/images/background/sctv-13.png" group-title="SHAREEXT@Vietnam_television", ช่อง SCTV13
-https://e1.endpoint.cdn.sctvonline.vn/channel/sctv13/index.m3u8
-#EXTINF:-1 tvg-logo="https://tchiphuong.github.io/iptv/images/background/sctv-5.png" group-title="SHAREEXT@Vietnam_television", ช่อง SCTV5
-https://e8.endpoint.cdn.sctvonline.vn/hls/sctv5/index.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.hqth.me/logo/thumbs/188.png" group-title="SHAREEXT@Vietnam_television", ช่อง Hollywood Classics
-https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/index.m3u8
-#EXTINF:-1 tvg-logo="https://tchiphuong.github.io/iptv/images/background/sctv-18.png" group-title="SHAREEXT@Vietnam_television", ช่อง SCTV18
-https://e1.endpoint.cdn.sctvonline.vn/channel/sctv18/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Yc3cmAi.png" group-title="SHAREEXT@Vietnam_television", HTV4
-https://e2.endpoint.cdn.sctvonline.vn/hls/htv4/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Yc3cmAi.png" group-title="SHAREEXT@Vietnam_television", HTV3
-https://e2.endpoint.cdn.sctvonline.vn/hls/htv3/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YFmPo7l.png" group-title="SHAREEXT@Vietnam_television", ON BiBi HD
-https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab8/index.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.hqth.me/logo/thumbs/193.png" group-title="SHAREEXT@Vietnam_television", ช่อง Happy Kids
-https://e4.endpoint.cdn.sctvonline.vn/hls/happykid/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PPFu7pv.png" group-title="SHAREEXT@Vietnam_television", HTV7
-https://e2.endpoint.cdn.sctvonline.vn/hls/htv7/index.m3u8
-#EXTINF:-1 tvg-logo="https://tchiphuong.github.io/iptv/images/background/sctv-7.png" group-title="SHAREEXT@Vietnam_television", ช่อง SCTV7
-https://e1.endpoint.cdn.sctvonline.vn/channel/sctv7/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/R82M53x.png" group-title="SHAREEXT@Vietnam_television", ON VFamily HD
-https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab20/index.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.hqth.me/logo/thumbs/192.png" group-title="SHAREEXT@Vietnam_television", ช่อง Dr.Fit
-https://e4.endpoint.cdn.sctvonline.vn/hls/drfit/index.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.hqth.me/logo/thumbs/194.png" group-title="SHAREEXT@Vietnam_television", ช่อง Planet Earth
-https://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/index.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.hqth.me/logo/thumbs/257.png" group-title="SHAREEXT@Vietnam_television", ช่อง Music Box
-https://e4.endpoint.cdn.sctvonline.vn/hls/boxmusic/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.hqth.me/logo/thumbs/143.png" group-title="SHAREEXT@Vietnam_television",  HTTV HD | TH Hà Tĩnh
 https://wse.hatinhtv.net/live/httv1/playlist.m3u8
 

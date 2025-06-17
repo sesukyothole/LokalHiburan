@@ -1059,6 +1059,87 @@ https://streaming.indihometv.com/atm/DASH/indikids/manifest.mpd
 
 
 
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7Y5LPGd/HBOshare-Ext-Group.jpg" group-title="Shareext@MOVIES", Boo (Malaysia)
+http://50.7.234.10:8278/Boo/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=7fe188dd8aea1f4c8433047807d12c1c
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7Y5LPGd/HBOshare-Ext-Group.jpg" group-title="Shareext@MOVIES", Showcase (Malaysia)
+http://50.7.234.10:8278/Showcase_mega/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=dbcdc2bb102e280059f7da619984f174
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7Y5LPGd/HBOshare-Ext-Group.jpg" group-title="Shareext@MOVIES", HBO HD (Malaysia)
+http://50.7.234.10:8278/Hbo/playlist.m3u8?tid=MBFB6285247862852478&ct=20241&tsum=3dfc96c23ea99264ac3f9f239ec9b589
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7Y5LPGd/HBOshare-Ext-Group.jpg" group-title="Shareext@MOVIES", HBO Signature (Malaysia)
+http://50.7.234.10:8278/Hbosignature/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=cfb7493e59acd934f9c8c666e806ebf7
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7Y5LPGd/HBOshare-Ext-Group.jpg" group-title="Shareext@MOVIES", HBO Hits (Malaysia)
+http://50.7.234.10:8278/Hbohits/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=99780c41105f5b192c07c62f58d9c696
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7Y5LPGd/HBOshare-Ext-Group.jpg" group-title="Shareext@MOVIES", TvN (Malaysia)
+http://50.7.234.10:8278/TVN/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=a59bb7edd84be290b90739d7e0e46ef8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7Y5LPGd/HBOshare-Ext-Group.jpg" group-title="Shareext@MOVIES", Astro Premier (Malaysia)
+http://50.7.234.10:8278/Astropremier/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=db5a715e8ff12ebe795a2659b55c972f
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7Y5LPGd/HBOshare-Ext-Group.jpg" group-title="Shareext@MOVIES", tvN Movie (Malaysia)
+http://50.7.234.10:8278/Tvnmovie/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=2753286cb7047b4b1568511a16ac643a
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7Y5LPGd/HBOshare-Ext-Group.jpg" group-title="Shareext@MOVIES", Celestial Classic (Malaysia)
+http://50.7.234.10:8278/Celestial2/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=303ebad7a9f6b70f71341428d7aca15c
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7Y5LPGd/HBOshare-Ext-Group.jpg" group-title="Shareext@MOVIES", Celestial Movies HD (Malaysia)
+http://50.7.234.10:8278/Celestial_mega/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=80e6a08f227161dcc41335155c302dad
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7Y5LPGd/HBOshare-Ext-Group.jpg" group-title="Shareext@MOVIES", Axn HD (Malaysia)
+http://50.7.234.10:8278/Axn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=59bf5197a5d4ab6c4f3be441d265ace4
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7Y5LPGd/HBOshare-Ext-Group.jpg" group-title="Shareext@MOVIES", Rock Actions (Malaysia)
+http://50.7.234.10:8278/Rockaction/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=9570459bcb1c8a2b046a13f28edae337
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7Y5LPGd/HBOshare-Ext-Group.jpg" group-title="Shareext@MOVIES", Rock Entertainment (Malaysia)
+http://50.7.234.10:8278/Rockentertain/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=587e8c084f17decd0e4472894f57b5fe
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7Y5LPGd/HBOshare-Ext-Group.jpg" group-title="Shareext@MOVIES", CCTV-6 (Malaysia)
+http://50.7.234.10:8278/cctv6/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=666b9a1497d069309993a0fd7dbf3bee
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7Y5LPGd/HBOshare-Ext-Group.jpg" group-title="Shareext@MOVIES", Celestial Classic (Malaysia)
+http://50.7.234.10:8278/Celestial2/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=303ebad7a9f6b70f71341428d7aca15c
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7Y5LPGd/HBOshare-Ext-Group.jpg" group-title="Shareext@MOVIES", Celestial Movies HD(Indo)
+http://50.7.234.10:8278/Celestialindo/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=345dfee9bedab7b1d4f2372a1faebd18
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7Y5LPGd/HBOshare-Ext-Group.jpg" group-title="Shareext@MOVIES", Cinemax (Malaysia)
+http://50.7.234.10:8278/Cinemax/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=ae34522f948767fdb444a2be1d65c5d3
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7Y5LPGd/HBOshare-Ext-Group.jpg" group-title="Shareext@MOVIES", HBO Family (Malaysia)
+http://50.7.234.10:8278/Hbofamily/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=d915b44afcb0d8965d70dbf8a56ada7c
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7Y5LPGd/HBOshare-Ext-Group.jpg" group-title="Shareext@MOVIES", HBO HD (Malaysia)
+http://50.7.234.10:8278/Hbo/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=cf6f9507a05b62225bb842e056ed76f1
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7Y5LPGd/HBOshare-Ext-Group.jpg" group-title="Shareext@MOVIES", HBO Hits (Malaysia)
+http://50.7.234.10:8278/Hbohits/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=99780c41105f5b192c07c62f58d9c696
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7Y5LPGd/HBOshare-Ext-Group.jpg" group-title="Shareext@MOVIES", HBO Signature (Malaysia)
+http://50.7.234.10:8278/Hbosignature/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=cfb7493e59acd934f9c8c666e806ebf7
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7Y5LPGd/HBOshare-Ext-Group.jpg" group-title="Shareext@MOVIES", HBO_HD(Taiwan)
+http://50.7.234.10:8278/hbohd_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=ca82da37e8eeb07511bfc6b5f9e9795f
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7Y5LPGd/HBOshare-Ext-Group.jpg" group-title="Shareext@MOVIES", HBO_HITS(Taiwan)
+http://50.7.234.10:8278/hbohits_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=23f261a6f03d4f03a095e3456d36a9b1
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7Y5LPGd/HBOshare-Ext-Group.jpg" group-title="Shareext@MOVIES", Hits Movie (Malaysia)
+http://50.7.234.10:8278/Hitsmovie/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=6bb2547d691d3de415900c8b25aa2ae8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7Y5LPGd/HBOshare-Ext-Group.jpg" group-title="Shareext@MOVIES", Hits (Malaysia)
+http://50.7.234.10:8278/Hits/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=7dfe02aab94be705898ec9c923baf929
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7Y5LPGd/HBOshare-Ext-Group.jpg" group-title="Shareext@MOVIES", Hollywood Movies (Malaysia)
+http://50.7.234.10:8278/hollywoodmovies_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=adb194efeba5a77f0effa9d90cfb8f2b
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7Y5LPGd/HBOshare-Ext-Group.jpg" group-title="Shareext@MOVIES", Movies Now HD (Malaysia)
+http://50.7.234.10:8278/moviesnow_raj/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=dcff204136235e0ac136d5e4ca879655
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7Y5LPGd/HBOshare-Ext-Group.jpg" group-title="Shareext@MOVIES", Sony Pix HD (Malaysia)
+http://50.7.234.10:8278/sonypix_mega/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=40ea96cfbc853ed7047a06ddf62e473e
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7Y5LPGd/HBOshare-Ext-Group.jpg" group-title="Shareext@MOVIES", Star Movies HD (Malaysia)
+http://50.7.234.10:8278/starmovies_raj/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=7b8da40ee4a0082f1592c6271132ff18
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7Y5LPGd/HBOshare-Ext-Group.jpg" group-title="Shareext@MOVIES", Thrill (Malaysia)
+http://50.7.234.10:8278/Thrill/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=f5d66da861193c2db867043239712cd9
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7Y5LPGd/HBOshare-Ext-Group.jpg" group-title="Shareext@MOVIES", Warner TV (Malaysia)
+http://50.7.234.10:8278/WarnerTV/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=1f9bc3c455742415344925e47a131775
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7Y5LPGd/HBOshare-Ext-Group.jpg" group-title="Shareext@MOVIES", tvN Movie(Indo)
+http://50.7.234.10:8278/Tvnmovie/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=2753286cb7047b4b1568511a16ac643a
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7Y5LPGd/HBOshare-Ext-Group.jpg" group-title="Shareext@MOVIES", 大愛2台(Taiwan)
+http://50.7.234.10:8278/catchplay_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=c8a5bdf0b7d90ca2ca10dc7d82e923bc
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7Y5LPGd/HBOshare-Ext-Group.jpg" group-title="Shareext@MOVIES", 龍華電影(Taiwan)
+http://50.7.234.10:8278/xingwei_movie/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=810692f2d54b933cc82ecd02d2f13657
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7Y5LPGd/HBOshare-Ext-Group.jpg" group-title="Shareext@MOVIES", 東森洋片(Taiwan)
+http://50.7.234.10:8278/ettvwestern/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=81879e3735e7108c442ffd832a2c45c3
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7Y5LPGd/HBOshare-Ext-Group.jpg" group-title="Shareext@MOVIES", 東森電影(Taiwan)
+http://50.7.234.10:8278/ettvmovie/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=a075bdb8849783c1693f9dd62b185e4e
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7Y5LPGd/HBOshare-Ext-Group.jpg" group-title="Shareext@MOVIES", 美亞電影(Taiwan)
+http://50.7.234.10:8278/meiyamovie_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=4a266dac5755d165e118db3624107ae0
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7Y5LPGd/HBOshare-Ext-Group.jpg" group-title="Shareext@MOVIES", 龍華洋片(Taiwan)
+http://50.7.234.10:8278/lunghuawestern_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=17a343fd040ef9c1283a111d60b8c242
+
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/ 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="} 
@@ -6190,6 +6271,9 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/MTVLiveHD/mpd/MTVLiveHD.mpd
 
 
 
+#EXTINF:-1  group-title="SHAREEXT@Television/MY/ASTRO" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png", BOO
+http://zkbvzkj.megahdtv.xyz:900/live/1103581436/4099381829/400200333.ts
+
 #EXTINF:-1 group-title="SHAREEXT@Television/MY/ASTRO" tvg-id="101.astro" tvg-logo="https://pictr.com/images/2025/01/14/x1tW45.png",TV1_mpd
 #KODIPROP:contentlookup=False
 #KODIPROP:inputstream=inputstream.adaptive
@@ -6407,9 +6491,104 @@ https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg0
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5xY6c78/Picsart-24-02-25-18-58-20-258.png" group-title="SHAREEXT@ India ➾ Movie",Sony Kal HD
 https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 
-
-
-
+#EXTINF:-1 tvg-id="colorshd.uk" tvg-name="Colors TV HD UK" tvg-logo="https://watchindia.net/images/channels/hindi/Colors_TV_HD.png" group-title="SHAREEXT@ India ➾ Movie",Colors TV HD UK
+http://watchindia.net:8880/live/40972/04523/2187.ts
+#EXTINF:-1 tvg-id="colorsrishtey.in" tvg-name="Colors Rishtey HD" tvg-logo="https://watchindia.net/images/channels/hindi/Colors_Rishtey_Asia.png" group-title="SHAREEXT@ India ➾ Movie",Colors Rishtey HD
+http://watchindia.net:8880/live/40972/04523/830.ts
+#EXTINF:-1 tvg-id="sonytv.uk" tvg-name="Sony TV UK" tvg-logo="https://watchindia.net/images/channels/hindi/Sony_TV_HD.png" group-title="SHAREEXT@ India ➾ Movie",Sony TV UK
+http://watchindia.net:8880/live/40972/04523/2117.ts
+#EXTINF:-1 tvg-id="sonymax.in" tvg-name="Sony Max 2" tvg-logo="https://watchindia.net/images/channels/hindi/Sony_Max_2.png" group-title="SHAREEXT@ India ➾ Movie",Sony Max 2
+http://watchindia.net:8880/live/40972/04523/2024.ts
+#EXTINF:-1 tvg-id="sonymaxhd.in" tvg-name="Sony Max HD" tvg-logo="https://watchindia.net/images/channels/hindi/Sony_Max_HD.png" group-title="SHAREEXT@ India ➾ Movie",Sony Max HD
+http://watchindia.net:8880/live/40972/04523/788.ts
+#EXTINF:-1 tvg-id="sonysabhd.in" tvg-name="Sony Sab HD" tvg-logo="https://watchindia.net/images/channels/hindi/Sony_Sab_HD.png" group-title="SHAREEXT@ India ➾ Movie",Sony Sab HD
+http://watchindia.net:8880/live/40972/04523/2323.ts
+#EXTINF:-1 tvg-id="sonysab.uk" tvg-name="Sony Sab UK" tvg-logo="https://watchindia.net/images/channels/hindi/Sony_Sab_HD.png" group-title="SHAREEXT@ India ➾ Movie",Sony Sab UK
+http://watchindia.net:8880/live/40972/04523/2189.ts
+#EXTINF:-1 tvg-id="sonypal.in" tvg-name="Sony Pal" tvg-logo="https://watchindia.net/images/channels/hindi/Sony_Pal.png" group-title="SHAREEXT@ India ➾ Movie",Sony Pal
+http://watchindia.net:8880/live/40972/04523/812.ts
+#EXTINF:-1 tvg-id="sonywah.in" tvg-name="Sony Wah" tvg-logo="https://watchindia.net/images/channels/hindi/Sony_Wah.png" group-title="SHAREEXT@ India ➾ Movie",Sony Wah
+http://watchindia.net:8880/live/40972/04523/814.ts
+#EXTINF:-1 tvg-id="sonyyay.in" tvg-name="Sony Yay" tvg-logo="https://watchindia.net/images/channels/kids/Sony_Yay.png" group-title="SHAREEXT@ India ➾ Movie",Sony Yay
+http://watchindia.net:8880/live/40972/04523/2104.ts
+#EXTINF:-1 tvg-id="starbharathd.in" tvg-name="Star Bharat HD" tvg-logo="https://watchindia.net/images/channels/hindi/Star_Bharat_HD.png" group-title="SHAREEXT@ India ➾ Movie",Star Bharat HD
+http://watchindia.net:8880/live/40972/04523/780.ts
+#EXTINF:-1 tvg-id="stargoldhd.in" tvg-name="Star Gold HD" tvg-logo="https://watchindia.net/images/channels/hindi/Star_Gold_HD.png" group-title="SHAREEXT@ India ➾ Movie",Star Gold HD
+http://watchindia.net:8880/live/40972/04523/785.ts
+#EXTINF:-1 tvg-id="stargoldselecthd.in" tvg-name="Star Gold Select HD" tvg-logo="https://watchindia.net/images/channels/hindi/Star_Gold_Select_HD.png" group-title="SHAREEXT@ India ➾ Movie",Star Gold Select HD
+http://watchindia.net:8880/live/40972/04523/784.ts
+#EXTINF:-1 tvg-id="starplushd.in" tvg-name="Star Plus HD" tvg-logo="https://watchindia.net/images/channels/hindi/Star_Plus_HD.png" group-title="SHAREEXT@ India ➾ Movie",Star Plus HD
+http://watchindia.net:8880/live/40972/04523/1924.ts
+#EXTINF:-1 tvg-id="starutsav.in" tvg-name="Star Utsav" tvg-logo="https://watchindia.net/images/channels/hindi/Star_Utsav.png" group-title="SHAREEXT@ India ➾ Movie",Star Utsav
+http://watchindia.net:8880/live/40972/04523/2493.ts
+#EXTINF:-1 tvg-id="andpictureshd.in" tvg-name="& Pictures HD" tvg-logo="https://watchindia.net/images/channels/hindi/AndPictures_HD.png" group-title="SHAREEXT@ India ➾ Movie",& Pictures HD
+http://watchindia.net:8880/live/40972/04523/783.ts
+#EXTINF:-1 tvg-id="andtvhd.in" tvg-name="& TV HD" tvg-logo="https://watchindia.net/images/channels/hindi/And_TV_HD.png" group-title="SHAREEXT@ India ➾ Movie",& TV HD
+http://watchindia.net:8880/live/40972/04523/782.ts
+#EXTINF:-1 tvg-id="b4uplus.in" tvg-name="B4U Plus" tvg-logo="https://watchindia.net/images/channels/hindi/B4U_Plus.png" group-title="SHAREEXT@ India ➾ Movie",B4U Plus
+http://watchindia.net:8880/live/40972/04523/823.ts
+#EXTINF:-1 tvg-id="colorscineplexhd.in" tvg-name="Colors Cineplex HD" tvg-logo="https://watchindia.net/images/channels/hindi/Cineplex_HD.png" group-title="SHAREEXT@ India ➾ Movie",Colors Cineplex HD
+http://watchindia.net:8880/live/40972/04523/803.ts
+#EXTINF:-1 tvg-id="zeeaction.in" tvg-name="Zee Action" tvg-logo="https://watchindia.net/images/channels/hindi/Zee_Action.png" group-title="SHAREEXT@ India ➾ Movie",Zee Action
+http://watchindia.net:8880/live/40972/04523/821.ts
+#EXTINF:-1 tvg-id="zanmol.in" tvg-name="Zee Anmol" tvg-logo="https://watchindia.net/images/channels/hindi/Zee_Anmol.png" group-title="SHAREEXT@ India ➾ Movie",Zee Anmol
+http://watchindia.net:8880/live/40972/04523/813.ts
+#EXTINF:-1 tvg-id="zeeanmolcinema.in" tvg-name="Zee Anmol Cinema" tvg-logo="https://watchindia.net/images/channels/hindi/Zee_Anmol_Cinema.png" group-title="SHAREEXT@ India ➾ Movie",Zee Anmol Cinema
+http://watchindia.net:8880/live/40972/04523/820.ts
+#EXTINF:-1 tvg-id="zeebollywood.in" tvg-name="Zee Bollywood" tvg-logo="https://watchindia.net/images/channels/hindi/Zee_Bollywood.png" group-title="SHAREEXT@ India ➾ Movie",Zee Bollywood
+http://watchindia.net:8880/live/40972/04523/822.ts
+#EXTINF:-1 tvg-id="zeecinemaindiahd.in" tvg-name="Zee Cinema HD" tvg-logo="https://watchindia.net/images/channels/hindi/Zee_Cinema_HD.png" group-title="SHAREEXT@ India ➾ Movie",Zee Cinema HD
+http://watchindia.net:8880/live/40972/04523/787.ts
+#EXTINF:-1 tvg-id="zeeclassic.in" tvg-name="Zee Classic" tvg-logo="https://watchindia.net/images/channels/hindi/Zee_Classic.png" group-title="SHAREEXT@ India ➾ Movie",Zee Classic
+http://watchindia.net:8880/live/40972/04523/802.ts
+#EXTINF:-1 tvg-id="starvijay.in" tvg-name="Star Vijay HD" tvg-logo="https://watchindia.net/images/channels/tamil/Star_Vijay_HD.png" group-title="SHAREEXT@ India ➾ Movie",Star Vijay HD
+http://watchindia.net:8880/live/40972/04523/846.ts
+#EXTINF:-1 tvg-id="vijaysuper.in" tvg-name="Star Vijay Super" tvg-logo="https://watchindia.net/images/channels/tamil/Star_Vijay_Super.png" group-title="SHAREEXT@ India ➾ Movie",Star Vijay Super
+http://watchindia.net:8880/live/40972/04523/2190.ts
+#EXTINF:-1 tvg-id="starvijay.in" tvg-name="Adithya TV" tvg-logo="https://watchindia.net/images/channels/tamil/Adithya_TV.png" group-title="SHAREEXT@ India ➾ Movie",Adithya TV
+http://watchindia.net:8880/live/40972/04523/855.ts
+#EXTINF:-1 tvg-id="chuttitv.in" tvg-name="Chutti TV" tvg-logo="https://watchindia.net/images/channels/tamil/Chutti_TV.png" group-title="SHAREEXT@ India ➾ Movie",Chutti TV
+http://watchindia.net:8880/live/40972/04523/882.ts
+#EXTINF:-1 tvg-id="colorstamilhd.in" tvg-name="Colors Tamil HD" tvg-logo="https://watchindia.net/images/channels/tamil/Colors_HD.png" group-title="SHAREEXT@ India ➾ Movie",Colors Tamil HD
+http://watchindia.net:8880/live/40972/04523/2083.ts
+#EXTINF:-1 tvg-id="jaya.in" tvg-name="Jaya TV HD" tvg-logo="https://watchindia.net/images/channels/tamil/Jaya_TV_HD.png" group-title="SHAREEXT@ India ➾ Movie",Jaya TV HD
+http://watchindia.net:8880/live/40972/04523/851.ts
+#EXTINF:-1 tvg-id="jayamax.in" tvg-name="Jaya Max" tvg-logo="https://watchindia.net/images/channels/tamil/Jaya_Max.png" group-title="SHAREEXT@ India ➾ Movie",Jaya Max
+http://watchindia.net:8880/live/40972/04523/852.ts
+#EXTINF:-1 tvg-id="jmovie.in" tvg-name="Jaya Movie" tvg-logo="https://watchindia.net/images/channels/tamil/Jaya_Movie.png" group-title="SHAREEXT@ India ➾ Movie",Jaya Movie
+http://watchindia.net:8880/live/40972/04523/849.ts
+#EXTINF:-1 tvg-id="jayaplus.in" tvg-name="Jaya Plus" tvg-logo="https://watchindia.net/images/channels/tamil/Jaya_Plus.png" group-title="SHAREEXT@ India ➾ Movie",Jaya Plus
+http://watchindia.net:8880/live/40972/04523/850.ts
+#EXTINF:-1 tvg-id="zeetamil.in" tvg-name="Zee Tamil" tvg-logo="https://watchindia.net/images/channels/tamil/Zee.png" group-title="SHAREEXT@ India ➾ Movie",Zee Tamil
+http://watchindia.net:8880/live/40972/04523/887.ts
+#EXTINF:-1 tvg-id="zeethirai.in" tvg-name="Zee Thirai" tvg-logo="https://watchindia.net/images/channels/tamil/Zee_Thirai.png" group-title="SHAREEXT@ India ➾ Movie",Zee Thirai
+http://watchindia.net:8880/live/40972/04523/2142.ts
+#EXTINF:-1 tvg-id="starmaahd.in" tvg-name="Star Maa HD" tvg-logo="https://watchindia.net/images/channels/telugu/Maa_TV_HD.png" group-title="SHAREEXT@ India ➾ Movie",Star Maa HD
+http://watchindia.net:8880/live/40972/04523/933.ts
+#EXTINF:-1 tvg-id="starmaamovieshd.in" tvg-name="Star Maa Movies HD" tvg-logo="https://watchindia.net/images/channels/telugu/Maa_Movies_HD.png" group-title="SHAREEXT@ India ➾ Movie",Star Maa Movies HD
+http://watchindia.net:8880/live/40972/04523/934.ts
+#EXTINF:-1 tvg-id="maagold.in" tvg-name="Star Maa Gold" tvg-logo="https://watchindia.net/images/channels/telugu/Maa_Gold_HD.png" group-title="SHAREEXT@ India ➾ Movie",Star Maa Gold
+http://watchindia.net:8880/live/40972/04523/935.ts
+#EXTINF:-1 tvg-id="geminitvhd.in" tvg-name="Gemini TV HD" tvg-logo="https://watchindia.net/images/channels/telugu/Gemini_TV_HD.png" group-title="SHAREEXT@ India ➾ Movie",Gemini TV HD
+http://watchindia.net:8880/live/40972/04523/928.ts
+#EXTINF:-1 tvg-id="geminicomedy.in" tvg-name="Gemini Comedy" tvg-logo="https://watchindia.net/images/channels/telugu/Gemini_Comedy.png" group-title="SHAREEXT@ India ➾ Movie",Gemini Comedy
+http://watchindia.net:8880/live/40972/04523/971.ts
+#EXTINF:-1 tvg-id="geminimovieshd.in" tvg-name="Gemini Movies HD" tvg-logo="https://watchindia.net/images/channels/telugu/Gemini_Movies_HD.png" group-title="SHAREEXT@ India ➾ Movie",Gemini Movies HD
+http://watchindia.net:8880/live/40972/04523/930.ts
+#EXTINF:-1 tvg-id="zeecinemaluhd.in" tvg-name="Zee Cinemalu HD" tvg-logo="https://watchindia.net/images/channels/telugu/Zee_Cinemalu.png" group-title="SHAREEXT@ India ➾ Movie",Zee Cinemalu HD
+http://watchindia.net:8880/live/40972/04523/941.ts
+#EXTINF:-1 tvg-id="zeeteluguhd.in" tvg-name="Zee Telugu HD" tvg-logo="https://watchindia.net/images/channels/telugu/Zee.png" group-title="SHAREEXT@ India ➾ Movie",Zee Telugu HD
+http://watchindia.net:8880/live/40972/04523/940.ts
+#EXTINF:-1 tvg-id="udayamovies.in" tvg-name="Udaya Movies" tvg-logo="https://watchindia.net/images/channels/kannada/Udaya_Movies.png" group-title="SHAREEXT@ India ➾ Movie",Udaya Movies
+http://watchindia.net:8880/live/40972/04523/1004.ts
+#EXTINF:-1 tvg-id="jalshamovieshd.in" tvg-name="Jalsha Movies" tvg-logo="https://watchindia.net/images/channels/bengali/Jalsha_Movies.png" group-title="SHAREEXT@ India ➾ Movie",Jalsha Movies
+http://watchindia.net:8880/live/40972/04523/2282.ts
+#EXTINF:-1 tvg-id="suryamovies.in" tvg-name="Surya Movies" tvg-logo="https://watchindia.net/images/channels/malayalam/Surya_Movies.png" group-title="SHAREEXT@ India ➾ Movie",Surya Movies
+http://watchindia.net:8880/live/40972/04523/298.ts
+#EXTINF:-1 tvg-id="asianetmovies.in" tvg-name="Asianet Movies (1)" tvg-logo="https://watchindia.net/images/channels/malayalam/Asianet_Movies.png" group-title="SHAREEXT@ India ➾ Movie",Asianet Movies (1)
+http://watchindia.net:8880/live/40972/04523/278.ts
+#EXTINF:-1 tvg-id="asianetmovies.in" tvg-name="Asianet Movies (2)" tvg-logo="https://watchindia.net/images/channels/malayalam/Asianet_Movies.png" group-title="SHAREEXT@ India ➾ Movie",Asianet Movies (2)
+http://watchindia.net:8880/live/40972/04523/2217.ts
 
 
 

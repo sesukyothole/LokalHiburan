@@ -1220,6 +1220,44 @@ https://streaming.indihometv.com/atm/DASH/indikids/manifest.mpd
 
 
 
+
+
+
+#EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://picture.dens.tv/poster/files/lands/CENTRAL PARK@3x.jpg" group-title="Shareext@MOVIES", Central Park
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv
+https://op-svod.dens.tv/04/MVTRL00076/index5.m3u8
+
+#EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://picture.dens.tv/poster/files/port/vod_122x182/Punish-Evil549x825@3x.jpg" group-title="Shareext@MOVIES", Punish Evil
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv
+https://op-svod.dens.tv/04/MVKIX00176/index5.m3u8
+
+#EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://picture.dens.tv/poster/files/port/vod_170x252/My Cinema Asia 3@3x.jpg" group-title="Shareext@MOVIES", Shadowless Sword
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv
+https://op-svod.dens.tv/04/MVCIA00041a/index5.m3u8
+
+#EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://picture.dens.tv/poster/files/port/vod_122x182/SAA025443.jpg" group-title="Shareext@MOVIES", Steel Will
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv
+https://op-svod.dens.tv/04/MVSRT00612/index5.m3u8
+
+#EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://picture.dens.tv/poster/files/port\/vod_122x182/My Cinema Asia 4@3x.jpg" group-title="Shareext@MOVIES", JEON WOOCHI
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv
+https://op-svod.dens.tv/04/MVCIA00042/index5.m3u8
+
+#EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://picture.dens.tv/poster/files/port/vod_122x182/Enter-the-Girl-Dragon549x825@3x.jpg" group-title="Shareext@MOVIES", Enter the Girl Dragon
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv
+https://op-svod.dens.tv/04/MVKIX00175a/index5.m3u8
+
+#EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://op-picture.dens.tv/poster/files/port/vod_122x182/the-perfect-weapon549x825.jpg" group-title="Shareext@MOVIES", The Perfect Weapon
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv
+https://op-svod.dens.tv/01/MVCIN00160/index5.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7Y5LPGd/HBOshare-Ext-Group.jpg" group-title="Shareext@MOVIES",BOO.(televizo) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O

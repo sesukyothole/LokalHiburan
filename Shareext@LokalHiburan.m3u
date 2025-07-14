@@ -5,6 +5,21 @@ https://www.dropbox.com/s/4rwbpj055sws4nm/savagelove_avengershareext.mp4?dl=1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/D8WHHTG/shareext-tvku-0nline.jpg" group-title="ShareExt@Relax",WELCOME@_SHAREEXT@!!!!
 https://www.dropbox.com/s/odrcf9c1jseu07a/ShareExt_adminGroup.mp4?dl=1
 
+#EXTINF:-1 tvg-id="Indosiar.id" group-title="Shareext@LOKAL_ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/1280px-Indosiar_2015.svg.png",•Indosiar HD
+#EXTVLCOPT:http-referrer=http://dens.tv
+https://tvking6282.cloud/k0detv2206/Lokal/Indosiar-HD.m3u8
+
+#EXTINF:-1 tvg-id="SCTV.id" group-title="Shareext@LOKAL_ID" tvg-logo="https://raw.githubusercontent.com/hud4156/mytv/main/png/sctv.png",•SCTV HD
+#EXTVLCOPT:http-referrer=http://dens.tv
+https://tvking6282.cloud/k0detv2206/Lokal/ScTv-HD.m3u8
+
+#EXTINF:-1 tvg-id="moji.id" group-title="Shareext@LOKAL_ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/640px-Moji_blue.svg.png",•Moji
+#EXTVLCOPT:http-referrer=http://dens.tv
+https://tvking6282.cloud/k0detv2206/Lokal/Moji-HD.m3u8
+
+#EXTINF:-1 tvg-id="mentaritv.id" group-title="Shareext@LOKAL_ID" tvg-logo="https://images.indihometv.com/logogrey/grey_logo_mentaritv_small.png",•Mentari TV 
+https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
+
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -3082,6 +3097,96 @@ https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg0
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5xY6c78/Picsart-24-02-25-18-58-20-258.png" group-title="SHAREEXT@ India ➾ Movie",Sony Kal HD
 https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="[IN] Pictures | HD" tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@ India ➾ Movie",Pictures | HD
+http://supersonictv.live:8080/Allen123/Allen123/85437
+#EXTINF:-1 tvg-id="" tvg-name="[IN] Zee Salaam" tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@ India ➾ Movie",Zee Salaam
+http://supersonictv.live:8080/Allen123/Allen123/85439
+#EXTINF:-1 tvg-id="" tvg-name="[IN] And Flix | HD" tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@ India ➾ Movie",And Flix | HD
+http://supersonictv.live:8080/Allen123/Allen123/85440
+#EXTINF:-1 tvg-id="" tvg-name="[IN] And Prive HD" tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@ India ➾ Movie",And Prive HD
+http://supersonictv.live:8080/Allen123/Allen123/85442
+#EXTINF:-1 tvg-id="" tvg-name="[IN] Zee Classic" tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@ India ➾ Movie",Zee Classic
+http://supersonictv.live:8080/Allen123/Allen123/85443
+#EXTINF:-1 tvg-id="" tvg-name="[IN] Zee Tv | SD" tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@ India ➾ Movie",ZeeTv | SD
+http://supersonictv.live:8080/Allen123/Allen123/85444
+#EXTINF:-1 tvg-id="" tvg-name="[IN] Zee Cinema | HD" tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@ India ➾ Movie",ZeeCinema | HD
+http://supersonictv.live:8080/Allen123/Allen123/85446
+#EXTINF:-1 tvg-id="" tvg-name="[IN] Zee Cinemalu | SD" tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@ India ➾ Movie",Zee Cinemalu | SD
+http://supersonictv.live:8080/Allen123/Allen123/85447
+#EXTINF:-1 tvg-id="" tvg-name="[IN] Zee Cafe | SD" tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@ India ➾ Movie",Zee Cafe | SD
+http://supersonictv.live:8080/Allen123/Allen123/85448
+#EXTINF:-1 tvg-id="" tvg-name="[IN] Zee anmol" tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@ India ➾ Movie",Zee anmol
+http://supersonictv.live:8080/Allen123/Allen123/85454
+#EXTINF:-1 tvg-id="" tvg-name="[IN] Zing" tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@ India ➾ Movie",Zing
+http://supersonictv.live:8080/Allen123/Allen123/85455
+#EXTINF:-1 tvg-id="" tvg-name="[IN] Zee Magic" tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@ India ➾ Movie",Zee Magic
+http://supersonictv.live:8080/Allen123/Allen123/85456
+#EXTINF:-1 tvg-id="" tvg-name="[IN] Zee Marati | HD" tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@ India ➾ Movie",Zee Marati | HD
+http://supersonictv.live:8080/Allen123/Allen123/85457
+#EXTINF:-1 tvg-id="" tvg-name="[IN] Zee Yuva" tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@ India ➾ Movie",Zee Yuva
+http://supersonictv.live:8080/Allen123/Allen123/85458
+#EXTINF:-1 tvg-id="" tvg-name="[IN] Zee Bangla | HD" tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@ India ➾ Movie",Zee Bangla | HD
+http://supersonictv.live:8080/Allen123/Allen123/85462
+#EXTINF:-1 tvg-id="" tvg-name="[IN] Zee Punjabi" tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@ India ➾ Movie",Zee Punjabi
+http://supersonictv.live:8080/Allen123/Allen123/85463
+#EXTINF:-1 tvg-id="" tvg-name="[IN] Zee Tamil" tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@ India ➾ Movie",Zee Tamil
+http://supersonictv.live:8080/Allen123/Allen123/85464
+#EXTINF:-1 tvg-id="" tvg-name="[IN] & TV | HD" tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@ India ➾ Movie",& TV | HD
+http://supersonictv.live:8080/Allen123/Allen123/85474
+#EXTINF:-1 tvg-id="" tvg-name="[IN] STAR GOLD HD" tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@ India ➾ Movie",STAR GOLD HD
+http://supersonictv.live:8080/Allen123/Allen123/85545
+#EXTINF:-1 tvg-id="" tvg-name="[IN] Sony Mix HD" tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@ India ➾ Movie",Sony Mix HD
+http://supersonictv.live:8080/Allen123/Allen123/85546
+#EXTINF:-1 tvg-id="" tvg-name="[IN] SAB TV HD" tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@ India ➾ Movie",SAB TV HD
+http://supersonictv.live:8080/Allen123/Allen123/85547
+#EXTINF:-1 tvg-id="" tvg-name="[IN] SONY MAX 2" tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@ India ➾ Movie",SONY MAX 2
+http://supersonictv.live:8080/Allen123/Allen123/85548
+#EXTINF:-1 tvg-id="" tvg-name="[IN] STAR MOVIES FHD" tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@ India ➾ Movie",STAR MOVIES FHD
+http://supersonictv.live:8080/Allen123/Allen123/85549
+#EXTINF:-1 tvg-id="" tvg-name="[IN] BOLLYWOOD PREMIER FHD" tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@ India ➾ Movie",BOLLYWOOD PREMIER FHD
+http://supersonictv.live:8080/Allen123/Allen123/85550
+#EXTINF:-1 tvg-id="" tvg-name="[IN] COLORS CINEPLEX HD" tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@ India ➾ Movie",COLORS CINEPLEX HD
+http://supersonictv.live:8080/Allen123/Allen123/85551
+#EXTINF:-1 tvg-id="" tvg-name="[IN] ZEE BOLLYWOOD" tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@ India ➾ Movie",ZEE BOLLYWOOD
+http://supersonictv.live:8080/Allen123/Allen123/85552
+#EXTINF:-1 tvg-id="" tvg-name="[IN] ZEE ETC" tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@ India ➾ Movie",ZEE ETC
+http://supersonictv.live:8080/Allen123/Allen123/85553
+#EXTINF:-1 tvg-id="" tvg-name="[IN] B4U Plus" tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@ India ➾ Movie",B4U Plus
+http://supersonictv.live:8080/Allen123/Allen123/85554
+#EXTINF:-1 tvg-id="" tvg-name="[IN] B4U Movies" tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@ India ➾ Movie",B4U Movies
+http://supersonictv.live:8080/Allen123/Allen123/85555
+#EXTINF:-1 tvg-id="" tvg-name="[IN] STAR VIJAY FHD" tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@ India ➾ Movie",STAR VIJAY FHD
+http://supersonictv.live:8080/Allen123/Allen123/85568
+#EXTINF:-1 tvg-id="" tvg-name="[IN]  IN STAR WORLD PREMIERE FHD" tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@ India ➾ Movie",STAR WORLD PREMIERE FHD
+http://supersonictv.live:8080/Allen123/Allen123/85569
+#EXTINF:-1 tvg-id="" tvg-name="[IN]  COLORS BANGLA HD" tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@ India ➾ Movie",COLORS BANGLA HD
+http://supersonictv.live:8080/Allen123/Allen123/85570
+#EXTINF:-1 tvg-id="" tvg-name="[IN]  COLORS GUJARATI" tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@ India ➾ Movie",COLORS GUJARATI
+http://supersonictv.live:8080/Allen123/Allen123/85571
+#EXTINF:-1 tvg-id="" tvg-name="[IN]  COLORS HD" tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@ India ➾ Movie",COLORS HD
+http://supersonictv.live:8080/Allen123/Allen123/85572
+#EXTINF:-1 tvg-id="" tvg-name="[IN]  COLORS KANNADA HD" tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@ India ➾ Movie",COLORS KANNADA HD
+http://supersonictv.live:8080/Allen123/Allen123/85573
+#EXTINF:-1 tvg-id="" tvg-name="[IN]  COLORS MARATHI HD" tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@ India ➾ Movie",COLORS MARATHI HD
+http://supersonictv.live:8080/Allen123/Allen123/85574
+#EXTINF:-1 tvg-id="" tvg-name="[IN]  COLORS ORIYA" tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@ India ➾ Movie",COLORS ORIYA
+http://supersonictv.live:8080/Allen123/Allen123/85575
+#EXTINF:-1 tvg-id="" tvg-name="[IN]  COLORS TAMIL HD" tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@ India ➾ Movie",COLORS TAMIL HD
+http://supersonictv.live:8080/Allen123/Allen123/85576
+#EXTINF:-1 tvg-id="" tvg-name="[IN]  COMEDY CENTRAL HD" tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@ India ➾ Movie",COMEDY CENTRAL HD
+http://supersonictv.live:8080/Allen123/Allen123/85577
+#EXTINF:-1 tvg-id="" tvg-name="[IN]  FLOWERS TV" tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@ India ➾ Movie",FLOWERS TV
+http://supersonictv.live:8080/Allen123/Allen123/85578
+#EXTINF:-1 tvg-id="" tvg-name="[IN]  JAYA MAX" tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@ India ➾ Movie",JAYA MAX
+http://supersonictv.live:8080/Allen123/Allen123/85587
+#EXTINF:-1 tvg-id="" tvg-name="[IN]  JAYA PLUS" tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@ India ➾ Movie",JAYA PLUS
+http://supersonictv.live:8080/Allen123/Allen123/85588
+#EXTINF:-1 tvg-id="" tvg-name="[IN]  JAYA TV HD" tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SHAREEXT@ India ➾ Movie",JAYA TV HD
+http://supersonictv.live:8080/Allen123/Allen123/85589
+
+
+
+
 
 
 
@@ -3367,8 +3472,38 @@ https://d2kziuzkf9oizb.cloudfront.net/rd005/chunklist.m3u8
 
 
 
-
-
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.v1.mk/logo/CCTV1.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv 1 (smart)
+http://live.catvod.com/smart.php?id=cctv1
+#EXTINF:-1 tvg-id="cctv2" tvg-name="cctv2" tvg-logo="https://epg.v1.mk/logo/cctv2.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv 2 (smart)
+http://live.catvod.com/smart.php?id=cctv2
+#EXTINF:-1 tvg-id="cctv3" tvg-name="cctv3" tvg-logo="https://epg.v1.mk/logo/cctv3.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv 3 (smart)
+http://live.catvod.com/smart.php?id=cctv3
+#EXTINF:-1 tvg-id="cctv4" tvg-name="cctv4" tvg-logo="https://epg.v1.mk/logo/cctv4.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv 4 (smart)
+http://live.catvod.com/smart.php?id=cctv4
+#EXTINF:-1 tvg-id="cctv5" tvg-name="cctv5" tvg-logo="https://epg.v1.mk/logo/cctv5.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv 5 (smart)
+http://live.catvod.com/smart.php?id=cctv5
+#EXTINF:-1 tvg-id="cctv5+" tvg-name="cctv5+" tvg-logo="https://epg.v1.mk/logo/cctv5+.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv5p (smart)
+http://live.catvod.com/smart.php?id=cctv5plus
+#EXTINF:-1 tvg-id="cctv6" tvg-name="cctv6" tvg-logo="https://epg.v1.mk/logo/cctv6.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv 6 (smart)
+http://live.catvod.com/smart.php?id=cctv6
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://epg.v1.mk/logo/CCTV7.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv 7 (smart)
+http://live.catvod.com/smart.php?id=cctv7
+#EXTINF:-1 tvg-id="cctv8" tvg-name="cctv8" tvg-logo="https://epg.v1.mk/logo/cctv8.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv 8 (smart)
+http://live.catvod.com/smart.php?id=cctv8
+#EXTINF:-1 tvg-id="cctv9" tvg-name="cctv9" tvg-logo="https://epg.v1.mk/logo/cctv9.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv 9 (smart)
+http://live.catvod.com/smart.php?id=cctv9
+#EXTINF:-1 tvg-id="cctv10" tvg-name="cctv10" tvg-logo="https://epg.v1.mk/logo/cctv10.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv 10 (smart)
+http://live.catvod.com/smart.php?id=cctv10
+#EXTINF:-1 tvg-id="cctv11" tvg-name="cctv11" tvg-logo="https://epg.v1.mk/logo/cctv11.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv 11 (smart)
+http://live.catvod.com/smart.php?id=cctv11
+#EXTINF:-1 tvg-id="cctv12" tvg-name="cctv12" tvg-logo="https://epg.v1.mk/logo/cctv12.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv 12 (smart)
+http://live.catvod.com/smart.php?id=cctv12
+#EXTINF:-1 tvg-id="cctv13" tvg-name="cctv13" tvg-logo="https://epg.v1.mk/logo/cctv13.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv 13 (smart)
+http://live.catvod.com/smart.php?id=cctv13
+#EXTINF:-1 tvg-id="cctv14" tvg-name="cctv14" tvg-logo="https://epg.v1.mk/logo/cctv14.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv 14 (smart)
+http://live.catvod.com/smart.php?id=cctv14
+#EXTINF:-1 tvg-id="cctv15" tvg-name="cctv15" tvg-logo="https://epg.v1.mk/logo/cctv15.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv 15 (smart)
+http://live.catvod.com/smart.php?id=cctv15
 
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.v1.mk/logo/CCTV1.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv 1
 http://111.43.126.240:9003/hls/13/index.m3u8

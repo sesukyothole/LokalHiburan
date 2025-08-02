@@ -417,6 +417,57 @@ http://iptvtree.net:8080/friptv/AwWjvV6QuXDY84xR5meJhk/298572
 
 
 
+
+#EXTINF:-1 tvg-id="HBO.id" tvg-name="HBO HD" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo.png" group-title="SHAREEXT@ DENZ TV",HBO HD
+https://nonton.site:8443/XtreamFlixID/w9RLHbWJY4/210
+#EXTINF:-1 tvg-id="HBOHits.id" tvg-name="HBO Hits HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="SHAREEXT@ DENZ TV",HBO Hits HD
+https://nonton.site:8443/XtreamFlixID/w9RLHbWJY4/591
+#EXTINF:-1 tvg-id="HBOFamily.id" tvg-name="HBO Family HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" group-title="SHAREEXT@ DENZ TV",HBO Family HD
+https://nonton.site:8443/XtreamFlixID/w9RLHbWJY4/592
+#EXTINF:-1 tvg-id="HBOSignature.id" tvg-name="HBO Signature HD" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_signature.png" group-title="SHAREEXT@ DENZ TV",HBO Signature HD
+https://nonton.site:8443/XtreamFlixID/w9RLHbWJY4/873
+#EXTINF:-1 tvg-id="BioskopIndonesia.id" tvg-name="Bioskop Indonesia" tvg-logo="https://www.useetv.com/assets/images/channel/logo_bioskopindonesia_small1.png" group-title="SHAREEXT@ DENZ TV",Bioskop Indonesia
+https://nonton.site:8443/XtreamFlixID/w9RLHbWJY4/908
+#EXTINF:-1 tvg-id="CineMax.id" tvg-name="Cinemax ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/611-cinemax.png/250px-611-cinemax.png" group-title="SHAREEXT@ DENZ TV",Cinemax ID
+https://nonton.site:8443/XtreamFlixID/w9RLHbWJY4/2156
+#EXTINF:-1 tvg-id="" tvg-name="ATV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Azad_Azerbaycan_TV_logosu.png/220px-Azad_Azerbaycan_TV_logosu.png" group-title="SHAREEXT@ DENZ TV",ATV
+https://nonton.site:8443/XtreamFlixID/w9RLHbWJY4/29899
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/SXV88k2/rcti.png" group-title="SHAREEXT@ DENZ TV", RCTI
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000143/1024.m3u8
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/949/49949-SNAPSHOT-l.png" group-title="SHAREEXT@ DENZ TV", MNCTV
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000106/1024.m3u8
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/951/49951-SNAPSHOT-l.png" group-title="SHAREEXT@ DENZ TV", GTV
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000113/1024.m3u8
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/952/49952-SNAPSHOT-l.png" group-title="SHAREEXT@ DENZ TV", INEWS
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000128/1024.m3u8
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_8.png" group-title="SHAREEXT@ DENZ TV", CINE EDGE
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000145/1024.m3u8
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_7.png" group-title="SHAREEXT@ DENZ TV", CINE XTRA
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000154/1024.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/superrix-uk.png" group-title="SHAREEXT@ DENZ TV", SUPERRIX
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000155/1024.m3u8
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_6.png" group-title="SHAREEXT@ DENZ TV", UNIQUEA
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000156/1024.m3u8
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_9.png" group-title="SHAREEXT@ DENZ TV", CINE ACTION
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000157/1024.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg" group-title="SHAREEXT@ DENZ TV", Z BIOSKOP
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000061/1024.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logo-tv/images/b/b1/Ent_%282020%29.png/revision/latest?cb=20210401065932" group-title="SHAREEXT@ DENZ TV", ENTERTAINMEND
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000013/1024.m3u8
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/185/656/png-transparent-universal-studios-logo-universal-orlando-universal-studios-hollywood-universal-s-logo-comcast-studio-miscellaneous-studio-globe.png" group-title="SHAREEXT@ DENZ TV", STUDIO UNIVERSAL
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000121/1024.m3u8
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/005/50005-SNAPSHOT-l.png" group-title="SHAREEXT@ DENZ TV", VISION PRIME
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000130/1024.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg" group-title="SHAREEXT@ DENZ TV", FUJIAN TV
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000017/1024.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg" group-title="SHAREEXT@ DENZ TV", XINGKONG (STARTV HK)
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000023/1024.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg" group-title="SHAREEXT@ DENZ TV", Sichuan tv
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000052/1024.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg" group-title="SHAREEXT@ DENZ TV", DRAGON TV
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000056/1024.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/wedo-tv-movies340x160@3x@3x.jpg" group-title="SHAREEXT@ DENZ TV", MOVIES
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
@@ -437,6 +488,16 @@ https://op-group1-swiftservehd-1.dens.tv/h/h244/index.m3u8
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 https://op-group1-swiftservehd-1.dens.tv/h/h236/index.m3u8
+
+#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar" tvg-logo="https://www.useetv.com/assets/images/channel/logo_indosiar_small1.png" group-title="SHAREEXT@ DENZ TV",Indosiar
+https://nonton.site:8443/XtreamFlixID/w9RLHbWJY4/1845
+#EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png" group-title="SHAREEXT@ DENZ TV",SCTV
+https://nonton.site:8443/XtreamFlixID/w9RLHbWJY4/32
+#EXTINF:-1 tvg-id="TransTV.id" tvg-name="Trans TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_transtv_small1.png" group-title="SHAREEXT@ DENZ TV",Trans TV
+https://nonton.site:8443/XtreamFlixID/w9RLHbWJY4/34
+#EXTINF:-1 tvg-id="Trans7.id" tvg-name="Trans 7" tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png" group-title="SHAREEXT@ DENZ TV",Trans 7
+https://nonton.site:8443/XtreamFlixID/w9RLHbWJY4/35
+
 #EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501492_tvchannels_v1.jpg" group-title="SHAREEXT@ DENZ TV", TV ONE
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
@@ -456,7 +517,8 @@ https://op-group1-swiftservehd-1.dens.tv/h/h128/index2.m3u8
 #EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501594_tvchannels_v1.jpg" group-title="SHAREEXT@ DENZ TV",  ANTV
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
-https://op-group1-swiftservehd-1.dens.tv/s/s07/index.m3u8
+https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/31.ts
+#https://op-group1-swiftservehd-1.dens.tv/s/s07/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501626_tvchannels_v1.jpg" group-title="SHAREEXT@ DENZ TV", NET TV
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
@@ -520,6 +582,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h216/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502984_tvchannels_v1.jpg" group-title="SHAREEXT@ DENZ TV", MY FAMILY CHANEL
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
+https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/14994.ts
 https://op-group1-swiftservehd-1.dens.tv/h/h194/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502977_tvchannels_v1.jpg" group-title="SHAREEXT@ DENZ TV", MY CINEMA EUROPA
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -540,11 +603,13 @@ https://op-group1-swiftservehd-1.dens.tv/h\/h193/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502928_tvchannels_v1.jpg" group-title="SHAREEXT@ DENZ TV", CCM
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
-https://op-group1-swiftservesd-1.dens.tv/s/s31/index.m3u8
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000028/1024.m3u8
+#https://op-group1-swiftservesd-1.dens.tv/s/s31/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502917_tvchannels_v1.jpg" group-title="SHAREEXT@ DENZ TV", CELESTIAL MOVIE
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
-https://op-group1-swiftservehd-1.dens.tv/h/h14/index.m3u8
+https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/5.ts
+#https://op-group1-swiftservehd-1.dens.tv/h/h14/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502909_tvchannels_v1.jpg" group-title="SHAREEXT@ DENZ TV", TVN MOVIE
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
@@ -3175,7 +3240,7 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000074/1024.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=1
-#EXTINF:-1 tvg-id="RCTI.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="" group-title="SHAREEXT@ VISION+ || TEVE",RCTI HD
+#EXTINF:-1 tvg-id="RCTI.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.ibb.co.com/SXV88k2/rcti.png" group-title="SHAREEXT@ VISION+ || TEVE",RCTI HD
 https://fta4-cdn-flr.visionplus.id/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/

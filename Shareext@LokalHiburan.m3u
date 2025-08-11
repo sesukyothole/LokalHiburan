@@ -14,10 +14,8 @@ http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64
 #EXTINF:-1 tvg-id="moji.id" group-title="Shareext@LOKAL_ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/640px-Moji_blue.svg.png",•Moji
-#EXTVLCOPT:http-referrer=http://dens.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://op-group1-swiftservesd-1.dens.tv/s/s41/index.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-
+http://iptvtree.net:8080/F15554/Tve5ZWQEd485/298550
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -74,99 +72,7 @@ https://gtv-cutv.rctiplus.id/gtv-sdi.m3u8
 https://inews-cutv.rctiplus.id/inews-sdi.m3u8
 #EXTINF:-1  group-title="Shareext@LOKAL_ID" tvg-logo="https://images.indihometv.com/logo_transtv_ver2.png",TRANSTV(stream)
 https://livestream.transtv.co.id/stream/live/ttv.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/antv.png" group-title="Shareext@LOKAL_ID", ANTV_HD
-https://raw.githubusercontent.com/warningfm/streams/master/live/m3u8/id/b630a001384603f.m3u8
 
-#EXTINF:-1 tvg-id="ANTV.id" tvg-name="ANTV" tvg-logo="https://images.useetv.com/logo_antv_big1.png" group-title="Shareext@LOKAL_ID",ANTV (nt)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
-https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/31.ts
-#EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png" group-title="Shareext@LOKAL_ID",SCTV (nt)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
-https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/32.ts
-#EXTINF:-1 tvg-id="TransTV.id" tvg-name="Trans TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_transtv_small1.png" group-title="Shareext@LOKAL_ID",Trans TV (nt)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
-https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/34.ts
-#EXTINF:-1 tvg-id="Trans7.id" tvg-name="Trans 7" tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png" group-title="Shareext@LOKAL_ID",Trans 7 (nt)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
-https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/35.ts
-#EXTINF:-1 tvg-id="ABC.au" tvg-name="Rajawali TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_rtv_small1.png" group-title="Shareext@LOKAL_ID",Rajawali TV (nt)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
-https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/37.ts
-#EXTINF:-1 tvg-id="ABC.au" tvg-name="DAAI TV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/e/e3/DAAI_TV_Jakarta.png/220px-DAAI_TV_Jakarta.png" group-title="Shareext@LOKAL_ID",DAAI TV (nt)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
-https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/21.ts
-#EXTINF:-1 tvg-id="NetTV.id" tvg-name="NET TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_net_small1.png" group-title="Shareext@LOKAL_ID",NET TV (nt)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
-https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/24.ts
-#EXTINF:-1 tvg-id="NetTV.id" tvg-name="NET TV FHD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_net_small1.png" group-title="Shareext@LOKAL_ID",NET TV FHD(nt)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
-https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/78.ts
-#EXTINF:-1 tvg-id="" tvg-name="JTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_jtv_small1.png" group-title="Shareext@LOKAL_ID",JTV (nt)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
-https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/135.ts
-#EXTINF:-1 tvg-id="" tvg-name="Bali TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_balitv_small1.png" group-title="Shareext@LOKAL_ID",Bali TV (nt)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
-https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/889.ts
-#EXTINF:-1 tvg-id="" tvg-name="Dunia Lain" tvg-logo="https://www.transvision.co.id/img/channel/dunia_lain.png" group-title="Shareext@LOKAL_ID",Dunia Lain(nt)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
-https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/910.ts
-#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar" tvg-logo="https://www.useetv.com/assets/images/channel/logo_indosiar_small1.png" group-title="Shareext@LOKAL_ID",Indosiar (nt)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
-https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/1845.ts
-#EXTINF:-1 tvg-id="" tvg-name="Hope Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/b/b2/Hope_Channel.png/320px-Hope_Channel.png" group-title="Shareext@LOKAL_ID",Hope Channel (nt)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
-https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/30183.ts
-#EXTINF:-1 tvg-id="" tvg-name="Antara TV" tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg" group-title="Shareext@LOKAL_ID",Antara TV (nt)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
-https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/32586.ts
-#EXTINF:-1 tvg-id="TVOne.id" tvg-name="TV ONE" tvg-logo="https://images.useetv.com/logo_tvone_big1.png" group-title="Shareext@LOKAL_ID",TV ONE (nt)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
-https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/29.ts
-#EXTINF:-1 tvg-id="KompasTv.id" tvg-name="Kompas TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_kompastv_small.png" group-title="Shareext@LOKAL_ID",Kompas TV(nt)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
-https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/30.ts
-#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI" tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvri_small1.png" group-title="Shareext@LOKAL_ID",TVRI(nt)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
-https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/36.ts
-#EXTINF:-1 tvg-id="MetroTV.id" tvg-name="Metro TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_metrotv_small1.png" group-title="Shareext@LOKAL_ID",Metro TV (nt)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
-https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/52.ts
-#EXTINF:-1 tvg-id="FOX.id" tvg-name="Discovery Channel HD" tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg" group-title="Shareext@LOKAL_ID",Discovery Channel HD (nt)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
-https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/95.ts
-#EXTINF:-1 tvg-id="" tvg-name="Lingua Channel" tvg-logo="https://www.klikwarta.com/sites/default/files/inline-images/image003.png" group-title="Shareext@LOKAL_ID",Lingua Channel (nt)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
-https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/14944.ts
-#EXTINF:-1 tvg-id="" tvg-name="Smithsonian Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Smithsonian_Channel.png/220px-Smithsonian_Channel.png" group-title="Shareext@LOKAL_ID",Smithsonian Channel (nt)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
-https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/35998.ts
-#EXTINF:-1 tvg-id="" tvg-name="Da Vinci Learning" tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg" group-title="Shareext@LOKAL_ID",Da Vinci Learning (nt)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
-https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/36729.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jqNYjGu.png?v=1.0.0.1" group-title="Shareext@LOKAL_ID", NET..
 http://khano.nng.cloudns.us/live/m3u8/id/6cdb3402d11f58d.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -241,10 +147,6 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/in
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTINF:-1 group-title="Shareext@LOKAL_ID" tvg-url="tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/net.png",MDTV HD (dens)
 https://warningfm.github.io/v3/live/str/id/6cdb3402d11f58d.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/antv.png" group-title="Shareext@LOKAL_ID",ANTV (dens)
-https://raw.githubusercontent.com/quuen2024/delay/refs/heads/queen/antv.m3u8
 
 #EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/rtv.png" group-title="Shareext@LOKAL_ID",RTV (dens)
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
@@ -336,102 +238,110 @@ https://hgmtv.com:19360/garudatvlivestreaming/1080p.m3u8
 #EXTINF:-1 tvg-id="Daai TV.id" group-title="Shareext@LOKAL_ID" tvg-logo="https://pictr.com/images/2025/01/23/xpwbaY.jpg",DaaiTV_HD
 https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg" group-title="Shareext@LOKAL_ID", ANTV (3)
-http://iptvtree.net:8080/friptv/AwWjvV6QuXDY84xR5meJhk/165072
+http://iptvtree.net:8080/F15554/Tve5ZWQEd485/165072
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg" group-title="Shareext@LOKAL_ID", RCTI (3)
-http://iptvtree.net:8080/friptv/AwWjvV6QuXDY84xR5meJhk/157591
+http://iptvtree.net:8080/F15554/Tve5ZWQEd485/157591
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg" group-title="Shareext@LOKAL_ID", TVOne (3)
-http://iptvtree.net:8080/friptv/AwWjvV6QuXDY84xR5meJhk/266808
+http://iptvtree.net:8080/F15554/Tve5ZWQEd485/266808
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg" group-title="Shareext@LOKAL_ID", MNC TV (3)
-http://iptvtree.net:8080/friptv/AwWjvV6QuXDY84xR5meJhk/165054
+http://iptvtree.net:8080/F15554/Tve5ZWQEd485/165054
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg" group-title="Shareext@LOKAL_ID", Moji (3)
-http://iptvtree.net:8080/friptv/AwWjvV6QuXDY84xR5meJhk/298550
+http://iptvtree.net:8080/F15554/Tve5ZWQEd485/298550
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg" group-title="Shareext@LOKAL_ID", GTV (3)
-http://iptvtree.net:8080/friptv/AwWjvV6QuXDY84xR5meJhk/157578
+http://iptvtree.net:8080/F15554/Tve5ZWQEd485/157578
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg" group-title="Shareext@LOKAL_ID", Indi Kids (3)
-http://iptvtree.net:8080/friptv/AwWjvV6QuXDY84xR5meJhk/298539
+http://iptvtree.net:8080/F15554/Tve5ZWQEd485/298539
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg" group-title="Shareext@LOKAL_ID", Indosiar (3)
-http://iptvtree.net:8080/friptv/AwWjvV6QuXDY84xR5meJhk/162138
+http://iptvtree.net:8080/F15554/Tve5ZWQEd485/162138
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg" group-title="Shareext@LOKAL_ID", INews (3)
-http://iptvtree.net:8080/friptv/AwWjvV6QuXDY84xR5meJhk/157579
+http://iptvtree.net:8080/F15554/Tve5ZWQEd485/157579
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg" group-title="Shareext@LOKAL_ID", Trans 7 (3)
-http://iptvtree.net:8080/friptv/AwWjvV6QuXDY84xR5meJhk/162502
+http://iptvtree.net:8080/F15554/Tve5ZWQEd485/162502
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg" group-title="Shareext@LOKAL_ID", Trans TV (3)
-http://iptvtree.net:8080/friptv/AwWjvV6QuXDY84xR5meJhk/162503
+http://iptvtree.net:8080/F15554/Tve5ZWQEd485/162503
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg" group-title="Shareext@LOKAL_ID", TV 9 Nusantara (3)
-http://iptvtree.net:8080/friptv/AwWjvV6QuXDY84xR5meJhk/162509
+http://iptvtree.net:8080/F15554/Tve5ZWQEd485/162509
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg" group-title="Shareext@LOKAL_ID", TV Mu (3)
-http://iptvtree.net:8080/friptv/AwWjvV6QuXDY84xR5meJhk/196459
+http://iptvtree.net:8080/F15554/Tve5ZWQEd485/196459
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg" group-title="Shareext@LOKAL_ID", TV Tabalong (3)
-http://iptvtree.net:8080/friptv/AwWjvV6QuXDY84xR5meJhk/306481
+http://iptvtree.net:8080/F15554/Tve5ZWQEd485/306481
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg" group-title="Shareext@LOKAL_ID", Izzah TV (3)
-http://iptvtree.net:8080/friptv/AwWjvV6QuXDY84xR5meJhk/275984
+http://iptvtree.net:8080/F15554/Tve5ZWQEd485/275984
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg" group-title="Shareext@LOKAL_ID", Jak TV (3)
-http://iptvtree.net:8080/friptv/AwWjvV6QuXDY84xR5meJhk/157601
+http://iptvtree.net:8080/F15554/Tve5ZWQEd485/157601
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg" group-title="Shareext@LOKAL_ID", Jambi TV (3)
-http://iptvtree.net:8080/friptv/AwWjvV6QuXDY84xR5meJhk/275985
+http://iptvtree.net:8080/F15554/Tve5ZWQEd485/275985
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg" group-title="Shareext@LOKAL_ID", JTV (3)
-http://iptvtree.net:8080/friptv/AwWjvV6QuXDY84xR5meJhk/165091
+http://iptvtree.net:8080/F15554/Tve5ZWQEd485/165091
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg" group-title="Shareext@LOKAL_ID", Kompas TV (3)
-http://iptvtree.net:8080/friptv/AwWjvV6QuXDY84xR5meJhk/165060
+http://iptvtree.net:8080/F15554/Tve5ZWQEd485/165060
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg" group-title="Shareext@LOKAL_ID", Net (3)
-http://iptvtree.net:8080/friptv/AwWjvV6QuXDY84xR5meJhk/80292
+http://iptvtree.net:8080/F15554/Tve5ZWQEd485/80292
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg" group-title="Shareext@LOKAL_ID", Rajawali TV (3)
-http://iptvtree.net:8080/friptv/AwWjvV6QuXDY84xR5meJhk/196457
+http://iptvtree.net:8080/F15554/Tve5ZWQEd485/196457
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg" group-title="Shareext@LOKAL_ID", RRI Net (3)
-http://iptvtree.net:8080/friptv/AwWjvV6QuXDY84xR5meJhk/266816
+http://iptvtree.net:8080/F15554/Tve5ZWQEd485/266816
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg" group-title="Shareext@LOKAL_ID", SCTV (3)
-http://iptvtree.net:8080/friptv/AwWjvV6QuXDY84xR5meJhk/162141
+http://iptvtree.net:8080/F15554/Tve5ZWQEd485/162141
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg" group-title="Shareext@LOKAL_ID", SEA Today (3)
-http://iptvtree.net:8080/friptv/AwWjvV6QuXDY84xR5meJhk/298568
+http://iptvtree.net:8080/F15554/Tve5ZWQEd485/298568
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg" group-title="Shareext@LOKAL_ID", Sindonews TV (3)
-http://iptvtree.net:8080/friptv/AwWjvV6QuXDY84xR5meJhk/299485
+http://iptvtree.net:8080/F15554/Tve5ZWQEd485/299485
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg" group-title="Shareext@LOKAL_ID", Ayu TVCC (3)
-http://iptvtree.net:8080/friptv/AwWjvV6QuXDY84xR5meJhk/306452
+http://iptvtree.net:8080/F15554/Tve5ZWQEd485/306452
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg" group-title="Shareext@LOKAL_ID", Animax (3)
-http://iptvtree.net:8080/friptv/AwWjvV6QuXDY84xR5meJhk/165081
+http://iptvtree.net:8080/F15554/Tve5ZWQEd485/165081
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg" group-title="Shareext@LOKAL_ID", AniPlus (3)
-http://iptvtree.net:8080/friptv/AwWjvV6QuXDY84xR5meJhk/298504
+http://iptvtree.net:8080/F15554/Tve5ZWQEd485/298504
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg" group-title="Shareext@LOKAL_ID", Da Ai TV (3)
-http://iptvtree.net:8080/friptv/AwWjvV6QuXDY84xR5meJhk/165061
+http://iptvtree.net:8080/F15554/Tve5ZWQEd485/165061
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg" group-title="Shareext@LOKAL_ID", DreamWorks (3)
-http://iptvtree.net:8080/friptv/AwWjvV6QuXDY84xR5meJhk/157610
+http://iptvtree.net:8080/F15554/Tve5ZWQEd485/157610
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg" group-title="Shareext@LOKAL_ID", Dunia Anak (3)
-http://iptvtree.net:8080/friptv/AwWjvV6QuXDY84xR5meJhk/264753
+http://iptvtree.net:8080/F15554/Tve5ZWQEd485/264753
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg" group-title="Shareext@LOKAL_ID", Dunia Lain (3)
-http://iptvtree.net:8080/friptv/AwWjvV6QuXDY84xR5meJhk/298524
+http://iptvtree.net:8080/F15554/Tve5ZWQEd485/298524
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg" group-title="Shareext@LOKAL_ID", Eat&Go (3)
-http://iptvtree.net:8080/friptv/AwWjvV6QuXDY84xR5meJhk/264765
+http://iptvtree.net:8080/F15554/Tve5ZWQEd485/264765
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg" group-title="Shareext@LOKAL_ID", I AM Channel (3)
-http://iptvtree.net:8080/friptv/AwWjvV6QuXDY84xR5meJhk/287423
+http://iptvtree.net:8080/F15554/Tve5ZWQEd485/287423
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg" group-title="Shareext@LOKAL_ID", Metro TV (3)
-http://iptvtree.net:8080/friptv/AwWjvV6QuXDY84xR5meJhk/165059
+http://iptvtree.net:8080/F15554/Tve5ZWQEd485/165059
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg" group-title="Shareext@LOKAL_ID", MNC News (3)
-http://iptvtree.net:8080/friptv/AwWjvV6QuXDY84xR5meJhk/165058
+http://iptvtree.net:8080/F15554/Tve5ZWQEd485/165058
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg" group-title="Shareext@LOKAL_ID", Nusantara TV (3)
-http://iptvtree.net:8080/friptv/AwWjvV6QuXDY84xR5meJhk/166410
+http://iptvtree.net:8080/F15554/Tve5ZWQEd485/166410
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg" group-title="Shareext@LOKAL_ID", Riau TV (3)
-http://iptvtree.net:8080/friptv/AwWjvV6QuXDY84xR5meJhk/306478
+http://iptvtree.net:8080/F15554/Tve5ZWQEd485/306478
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg" group-title="Shareext@LOKAL_ID", Tech Storm (3)
-http://iptvtree.net:8080/friptv/AwWjvV6QuXDY84xR5meJhk/298572
+http://iptvtree.net:8080/F15554/Tve5ZWQEd485/298572
 
 
 
 
 
 #EXTINF:-1 tvg-id="HBO.id" tvg-name="HBO HD" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo.png" group-title="SHAREEXT@ DENZ TV",HBO HD
-https://nonton.site:8443/XtreamFlixID/w9RLHbWJY4/210
+http://iptvtree.net:8080/F15554/Tve5ZWQEd485/306484
 #EXTINF:-1 tvg-id="HBOHits.id" tvg-name="HBO Hits HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="SHAREEXT@ DENZ TV",HBO Hits HD
-https://nonton.site:8443/XtreamFlixID/w9RLHbWJY4/591
+http://iptvtree.net:8080/F15554/Tve5ZWQEd485/306486
 #EXTINF:-1 tvg-id="HBOFamily.id" tvg-name="HBO Family HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" group-title="SHAREEXT@ DENZ TV",HBO Family HD
-https://nonton.site:8443/XtreamFlixID/w9RLHbWJY4/592
+http://iptvtree.net:8080/F15554/Tve5ZWQEd485/306485
 #EXTINF:-1 tvg-id="HBOSignature.id" tvg-name="HBO Signature HD" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_signature.png" group-title="SHAREEXT@ DENZ TV",HBO Signature HD
-https://nonton.site:8443/XtreamFlixID/w9RLHbWJY4/873
+http://iptvtree.net:8080/F15554/Tve5ZWQEd485/306483
 #EXTINF:-1 tvg-id="BioskopIndonesia.id" tvg-name="Bioskop Indonesia" tvg-logo="https://www.useetv.com/assets/images/channel/logo_bioskopindonesia_small1.png" group-title="SHAREEXT@ DENZ TV",Bioskop Indonesia
-https://nonton.site:8443/XtreamFlixID/w9RLHbWJY4/908
+http://iptvtree.net:8080/F15554/Tve5ZWQEd485/264801
 #EXTINF:-1 tvg-id="CineMax.id" tvg-name="Cinemax ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/611-cinemax.png/250px-611-cinemax.png" group-title="SHAREEXT@ DENZ TV",Cinemax ID
-https://nonton.site:8443/XtreamFlixID/w9RLHbWJY4/2156
-#EXTINF:-1 tvg-id="" tvg-name="ATV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Azad_Azerbaycan_TV_logosu.png/220px-Azad_Azerbaycan_TV_logosu.png" group-title="SHAREEXT@ DENZ TV",ATV
-https://nonton.site:8443/XtreamFlixID/w9RLHbWJY4/29899
+http://iptvtree.net:8080/F15554/Tve5ZWQEd485/197964
+#EXTINF:-1 tvg-id="" tvg-name="ID: Ent" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/aae56ad9266b920e324b5de943da25ae.png" group-title="SHAREEXT@ DENZ TV",ID: Ent
+http://iptvtree.net:8080/F15554/Tve5ZWQEd485/157581
+#EXTINF:-1 tvg-id="" tvg-name="ID: ETV BIOSKOP 01" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="SHAREEXT@ DENZ TV",ID: ETV BIOSKOP 01
+http://iptvtree.net:8080/F15554/Tve5ZWQEd485/298526
+#EXTINF:-1 tvg-id="" tvg-name="ID: ETV BIOSKOP 02" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="SHAREEXT@ DENZ TV",ID: ETV BIOSKOP 02
+http://iptvtree.net:8080/F15554/Tve5ZWQEd485/298513
+#EXTINF:-1 tvg-id="" tvg-name="ID: ETV BIOSKOP 03" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="SHAREEXT@ DENZ TV",ID: ETV BIOSKOP 03
+http://iptvtree.net:8080/F15554/Tve5ZWQEd485/298514
+#EXTINF:-1 tvg-id="" tvg-name="ID: ETV BIOSKOP 04" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="SHAREEXT@ DENZ TV",ID: ETV BIOSKOP 04
+http://iptvtree.net:8080/F15554/Tve5ZWQEd485/298529
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/SXV88k2/rcti.png" group-title="SHAREEXT@ DENZ TV", RCTI
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000143/1024.m3u8
@@ -489,14 +399,18 @@ https://op-group1-swiftservehd-1.dens.tv/h/h244/index.m3u8
 #EXTVLCOPT:http-referrer=http://dens.tv
 https://op-group1-swiftservehd-1.dens.tv/h/h236/index.m3u8
 
-#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar" tvg-logo="https://www.useetv.com/assets/images/channel/logo_indosiar_small1.png" group-title="SHAREEXT@ DENZ TV",Indosiar
-https://nonton.site:8443/XtreamFlixID/w9RLHbWJY4/1845
-#EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png" group-title="SHAREEXT@ DENZ TV",SCTV
-https://nonton.site:8443/XtreamFlixID/w9RLHbWJY4/32
-#EXTINF:-1 tvg-id="TransTV.id" tvg-name="Trans TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_transtv_small1.png" group-title="SHAREEXT@ DENZ TV",Trans TV
-https://nonton.site:8443/XtreamFlixID/w9RLHbWJY4/34
-#EXTINF:-1 tvg-id="Trans7.id" tvg-name="Trans 7" tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png" group-title="SHAREEXT@ DENZ TV",Trans 7
-https://nonton.site:8443/XtreamFlixID/w9RLHbWJY4/35
+#EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="SHAREEXT@ DENZ TV", Indosiar
+http://iptvtree.net:8080/F15554/Tve5ZWQEd485/162138
+#EXTINF:-1 tvg-id="" tvg-name="ID: SCTV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/127dd049bd05a9d07b266c1d8883ca8b.png" group-title="SHAREEXT@ DENZ TV", SCTV
+http://iptvtree.net:8080/F15554/Tve5ZWQEd485/162141
+#EXTINF:-1 tvg-id="" tvg-name="ID: Sakti TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-05/d1d31ef77c60f810da63fe78cc41c0df.png" group-title="SHAREEXT@ DENZ TV", Sakti TV
+http://iptvtree.net:8080/F15554/Tve5ZWQEd485/307069
+#EXTINF:-1 tvg-id="" tvg-name="ID: Trans 7" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/0994a7413bfc1f57f5c00a777a8b2a34.png" group-title="SHAREEXT@ DENZ TV", Trans 7
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000008/1024.m3u8
+#http://iptvtree.net:8080/F15554/Tve5ZWQEd485/162502
+#EXTINF:-1 tvg-id="" tvg-name="ID: Trans TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/924d40ca9187329b206629697e2cfeb4.png" group-title="SHAREEXT@ DENZ TV", Trans TV
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000009/1024.m3u8
+#http://iptvtree.net:8080/F15554/Tve5ZWQEd485/162503
 
 #EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501492_tvchannels_v1.jpg" group-title="SHAREEXT@ DENZ TV", TV ONE
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -517,8 +431,8 @@ https://op-group1-swiftservehd-1.dens.tv/h/h128/index2.m3u8
 #EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501594_tvchannels_v1.jpg" group-title="SHAREEXT@ DENZ TV",  ANTV
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
-https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/31.ts
-#https://op-group1-swiftservehd-1.dens.tv/s/s07/index.m3u8
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000022/1024.m3u8
+#http://iptvtree.net:8080/F15554/Tve5ZWQEd485/165072
 #EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501626_tvchannels_v1.jpg" group-title="SHAREEXT@ DENZ TV", NET TV
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
@@ -1235,34 +1149,6 @@ https://streaming.indihometv.com/atm/DASH/indikids/manifest.mpd
 
 
 
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="HBO.id" tvg-name="HBO HD" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo.png" group-title="Shareext@MOVIES",HBO HD (nt)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
-https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/210.ts
-
-#EXTINF:-1 tvg-id="HBOHits.id" tvg-name="HBO Hits HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="Shareext@MOVIES",HBO Hits HD (nt)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
-https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/591.ts
-
-#EXTINF:-1 tvg-id="HBOFamily.id" tvg-name="HBO Family HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" group-title="Shareext@MOVIES",HBO Family HD (nt)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
-https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/592.ts
-
-#EXTINF:-1 tvg-id="HBOSignature.id" tvg-name="HBO Signature HD" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_signature.png" group-title="Shareext@MOVIES",HBO Signature HD (nt)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
-https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/873.ts
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7Y5LPGd/HBOshare-Ext-Group.jpg" group-title="Shareext@MOVIES", BOO (my)
 http://rfye55.xyz/live/98:06:3c:98:da:fa/881A863F2BD7/1052387.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7Y5LPGd/HBOshare-Ext-Group.jpg" group-title="Shareext@MOVIES", HBO (my)
@@ -1285,141 +1171,6 @@ http://rfye55.xyz/live/98:06:3c:98:da:fa/881A863F2BD7/1052400.ts
 http://rfye55.xyz/live/98:06:3c:98:da:fa/881A863F2BD7/1052413.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7Y5LPGd/HBOshare-Ext-Group.jpg" group-title="Shareext@MOVIES", CITRA (my)
 http://rfye55.xyz/live/98:06:3c:98:da:fa/881A863F2BD7/1052391.ts
-
-#EXTINF:-1 tvg-id="BioskopIndonesia.id" tvg-name="Bioskop Indonesia" tvg-logo="https://www.useetv.com/assets/images/channel/logo_bioskopindonesia_small1.png" group-title="Shareext@MOVIES",Bioskop Indonesia (nt)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
-https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/908.ts
-
-#EXTINF:-1 tvg-id="BabyTV.uk" tvg-name="Paramount Network" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_409.png" group-title="Shareext@MOVIES",Paramount Network (nt)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
-https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/98.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="FLIK HD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_flik_small1.png" group-title="Shareext@MOVIES",FLIK HD (nt)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
-https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/29592.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="Galaxy Premium SD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxy_small1.png" group-title="Shareext@MOVIES",Galaxy Premium (nt)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
-https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/29603.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="Galaxy SD" tvg-logo="https://2.bp.blogspot.com/-1zfZ3rEhu5s/V9OB0jOkU7I/AAAAAAAAfUQ/A9F_Fl1q51k_ONOLTVDyIT8sU3WS2nxhACLcB/s1600/galaxy-channel-tv-logo.png" group-title="Shareext@MOVIES",Galaxy (nt)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
-https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/29604.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="ATV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Azad_Azerbaycan_TV_logosu.png/220px-Azad_Azerbaycan_TV_logosu.png" group-title="Shareext@MOVIES",ATV(nt)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
-https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/29899.ts
-
-#EXTINF:-1 tvg-id="Thrill.id" tvg-name="Thrill" tvg-logo="https://www.useetv.com/assets/images/channel/logo_thrill_small.png" group-title="Shareext@MOVIES",Thrill (nt)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
-https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/4.ts
-
-#EXTINF:-1 tvg-id="CelestialMovies.id" tvg-name="Celestial Movies" tvg-logo="https://www.useetv.com/assets/images/channel/logo_celestialmovie_small.png" group-title="Shareext@MOVIES",Celestial Movies (nt)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
-https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/5.ts
-
-#EXTINF:-1 tvg-id="KIX.id" tvg-name="KIX HD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_kix_small.png" group-title="Shareext@MOVIES",KIX HD (nt)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
-https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/8.ts
-
-#EXTINF:-1 tvg-id="AXN.id" tvg-name="AXN" tvg-logo="https://www.useetv.com/assets/images/channel/logo_axn_small.png" group-title="Shareext@MOVIES",AXN(nt)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
-https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/9.ts
-
-#EXTINF:-1 tvg-id="FoxLife.id" tvg-name="HITS" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/082015/fox-life_0.png" group-title="Shareext@MOVIES",HITS (nt)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
-https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/94.ts
-
-#EXTINF:-1 tvg-id="FOXActionMovies.id" tvg-name="Hits Movies HD" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_411.png" group-title="Shareext@MOVIES",Hits Movies HD(nt)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
-https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/99.ts
-
-#EXTINF:-1 tvg-id="WarnerTV.id" tvg-name="Warner TV ID HD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_warner_small.png" group-title="Shareext@MOVIES",Warner TV ID HD (nt)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
-https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/1533.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="My Cinema Asia" tvg-logo="https://www.infotelevisi.com/asset/images/tv/star_chinese_movies_legend.png" group-title="Shareext@MOVIES",My Cinema Asia (nt)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
-https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/1859.ts
-
-#EXTINF:-1 tvg-id="CineMax.id" tvg-name="Cinemax ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/611-cinemax.png/250px-611-cinemax.png" group-title="Shareext@MOVIES",Cinemax ID (nt)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
-https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/2156.ts
-
-#EXTINF:-1 tvg-id="ANIPlus.id" tvg-name="Aniplus" tvg-logo="https://www.useetv.com/assets/images/channel/logo_aniplus_small1.png" group-title="Shareext@MOVIES",Aniplus (nt)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
-https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/2.ts
-
-#EXTINF:-1 tvg-id="Animax.id" tvg-name="Animax" tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple49/v4/3b/f7/73/3bf773db-d79d-24d4-8007-9fa48aeca225/pr_source.png/246x0w.png" group-title="Shareext@MOVIES",Animax (nt)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
-https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/3.ts
-
-#EXTINF:-1 tvg-id="AnimalPlanet.id" tvg-name="My Kidz" tvg-logo="https://mncvision.id/userfiles/image/channel/disney_junior.png" group-title="Shareext@MOVIES",My Kidz (nt)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
-https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/213.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="Citra Drama" tvg-logo="https://i.ibb.co.com/7Y5LPGd/HBOshare-Ext-Group.jpg" group-title="Shareext@MOVIES",Citra Drama (nt)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
-https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/905.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="Rock Action HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Blue_ant_entertainment_logo.png" group-title="Shareext@MOVIES",Rock Action HD (nt)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
-https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/1506.ts
-
-#EXTINF:-1 tvg-id="Kplus.id" tvg-name="K Plus" tvg-logo="http://images2.useetv.com/logo_kplus_big1.png?v=1.0.0.0" group-title="Shareext@MOVIES",K Plus (nt)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
-https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/18.ts
-
-#EXTINF:-1 tvg-id="SonyOne.id" tvg-name="Sony ONE" tvg-logo="http://images2.useetv.com/logo_sone_big1.png?v=1.0.0.0" group-title="Shareext@MOVIES",Sony ONE (nt)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
-https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/19.ts
-
-#EXTINF:-1 tvg-id="ABC.au" tvg-name="TVN ID" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/395_300.png" group-title="Shareext@MOVIES",TVN ID (nt)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
-https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/767.ts
-
-#EXTINF:-1 tvg-id="AnimalPlanet.id" tvg-name="S GEM HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpM4ePgskZ0MwYEYal1_C-4H9NYHSwFl5ZHbhvWuoTzdDKYM0s" group-title="Shareext@MOVIES",S GEM HD (nt)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
-https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/770.ts
-
-#EXTINF:-1 tvg-id="TVNMovies.id" tvg-name="tVN Movies HD" tvg-logo="https://pbs.twimg.com/profile_images/805623069490364416/S08BM74i_400x400.jpg" group-title="Shareext@MOVIES",tVN Movies HD (nt)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
-https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/927.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="KBS World HD" tvg-logo="https://i.ibb.co.com/7Y5LPGd/HBOshare-Ext-Group.jpg" group-title="Shareext@MOVIES",KBS World HD (nt)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
-https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/15057.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="Drama Korea LBS" tvg-logo="https://i.ibb.co.com/7Y5LPGd/HBOshare-Ext-Group.jpg" group-title="Shareext@MOVIES",Drama Korea LBS(nt)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
-https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/35769.ts
 
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
@@ -1462,73 +1213,73 @@ http://125.227.210.55:8153/VideoInput/play.ts
 http://125.227.210.55:8151/VideoInput/play.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7Y5LPGd/HBOshare-Ext-Group.jpg" group-title="Shareext@MOVIES", HBO (3)
-http://iptvtree.net:8080/friptv/AwWjvV6QuXDY84xR5meJhk/306484
+http://iptvtree.net:8080/F15554/Tve5ZWQEd485/306484
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7Y5LPGd/HBOshare-Ext-Group.jpg" group-title="Shareext@MOVIES", HBO Family (3)
-http://iptvtree.net:8080/friptv/AwWjvV6QuXDY84xR5meJhk/306485
+http://iptvtree.net:8080/F15554/Tve5ZWQEd485/306485
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7Y5LPGd/HBOshare-Ext-Group.jpg" group-title="Shareext@MOVIES", HBO Hits (3)
-http://iptvtree.net:8080/friptv/AwWjvV6QuXDY84xR5meJhk/306486
+http://iptvtree.net:8080/F15554/Tve5ZWQEd485/306486
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7Y5LPGd/HBOshare-Ext-Group.jpg" group-title="Shareext@MOVIES", HBO Signature (3)
-http://iptvtree.net:8080/friptv/AwWjvV6QuXDY84xR5meJhk/306483
+http://iptvtree.net:8080/F15554/Tve5ZWQEd485/306483
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7Y5LPGd/HBOshare-Ext-Group.jpg" group-title="Shareext@MOVIES", Hits (3)
-http://iptvtree.net:8080/friptv/AwWjvV6QuXDY84xR5meJhk/165085
+http://iptvtree.net:8080/F15554/Tve5ZWQEd485/165085
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7Y5LPGd/HBOshare-Ext-Group.jpg" group-title="Shareext@MOVIES", Hits Movies (3)
-http://iptvtree.net:8080/friptv/AwWjvV6QuXDY84xR5meJhk/221947
+http://iptvtree.net:8080/F15554/Tve5ZWQEd485/221947
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7Y5LPGd/HBOshare-Ext-Group.jpg" group-title="Shareext@MOVIES", Macau Lotus TV (3)
-http://iptvtree.net:8080/friptv/AwWjvV6QuXDY84xR5meJhk/304362
+http://iptvtree.net:8080/F15554/Tve5ZWQEd485/304362
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7Y5LPGd/HBOshare-Ext-Group.jpg" group-title="Shareext@MOVIES", My Cinema (3)
-http://iptvtree.net:8080/friptv/AwWjvV6QuXDY84xR5meJhk/298553
+http://iptvtree.net:8080/F15554/Tve5ZWQEd485/298553
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7Y5LPGd/HBOshare-Ext-Group.jpg" group-title="Shareext@MOVIES", My Cinema Asia (3)
-http://iptvtree.net:8080/friptv/AwWjvV6QuXDY84xR5meJhk/298554
+http://iptvtree.net:8080/F15554/Tve5ZWQEd485/298554
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7Y5LPGd/HBOshare-Ext-Group.jpg" group-title="Shareext@MOVIES", My Family Channel (3)
-http://iptvtree.net:8080/friptv/AwWjvV6QuXDY84xR5meJhk/298555
+http://iptvtree.net:8080/F15554/Tve5ZWQEd485/298555
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7Y5LPGd/HBOshare-Ext-Group.jpg" group-title="Shareext@MOVIES", My Kidz (3)
-http://iptvtree.net:8080/friptv/AwWjvV6QuXDY84xR5meJhk/298556
+http://iptvtree.net:8080/F15554/Tve5ZWQEd485/298556
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7Y5LPGd/HBOshare-Ext-Group.jpg" group-title="Shareext@MOVIES", Rock Action (3)
-http://iptvtree.net:8080/friptv/AwWjvV6QuXDY84xR5meJhk/298490
+http://iptvtree.net:8080/F15554/Tve5ZWQEd485/298490
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7Y5LPGd/HBOshare-Ext-Group.jpg" group-title="Shareext@MOVIES", Rock Entertaiment (3)
-http://iptvtree.net:8080/friptv/AwWjvV6QuXDY84xR5meJhk/298565
+http://iptvtree.net:8080/F15554/Tve5ZWQEd485/298565
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7Y5LPGd/HBOshare-Ext-Group.jpg" group-title="Shareext@MOVIES", Thrill (3)
-http://iptvtree.net:8080/friptv/AwWjvV6QuXDY84xR5meJhk/157580
+http://iptvtree.net:8080/F15554/Tve5ZWQEd485/157580
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7Y5LPGd/HBOshare-Ext-Group.jpg" group-title="Shareext@MOVIES", TVN (3)
-http://iptvtree.net:8080/friptv/AwWjvV6QuXDY84xR5meJhk/144886
+http://iptvtree.net:8080/F15554/Tve5ZWQEd485/144886
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7Y5LPGd/HBOshare-Ext-Group.jpg" group-title="Shareext@MOVIES", TVN Movies (3)
-http://iptvtree.net:8080/friptv/AwWjvV6QuXDY84xR5meJhk/157596
+http://iptvtree.net:8080/F15554/Tve5ZWQEd485/157596
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7Y5LPGd/HBOshare-Ext-Group.jpg" group-title="Shareext@MOVIES", Vision Prime (3)
-http://iptvtree.net:8080/friptv/AwWjvV6QuXDY84xR5meJhk/197958
+http://iptvtree.net:8080/F15554/Tve5ZWQEd485/197958
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7Y5LPGd/HBOshare-Ext-Group.jpg" group-title="Shareext@MOVIES", Warner TV (3)
-http://iptvtree.net:8080/friptv/AwWjvV6QuXDY84xR5meJhk/157594
+http://iptvtree.net:8080/F15554/Tve5ZWQEd485/157594
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7Y5LPGd/HBOshare-Ext-Group.jpg" group-title="Shareext@MOVIES", Zee Bioskop (3)
-http://iptvtree.net:8080/friptv/AwWjvV6QuXDY84xR5meJhk/157584
+http://iptvtree.net:8080/F15554/Tve5ZWQEd485/157584
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7Y5LPGd/HBOshare-Ext-Group.jpg" group-title="Shareext@MOVIES", Bioskop Indonesia (3)
-http://iptvtree.net:8080/friptv/AwWjvV6QuXDY84xR5meJhk/264801
+http://iptvtree.net:8080/F15554/Tve5ZWQEd485/264801
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7Y5LPGd/HBOshare-Ext-Group.jpg" group-title="Shareext@MOVIES", AXN (3)
-http://iptvtree.net:8080/friptv/AwWjvV6QuXDY84xR5meJhk/165079
+http://iptvtree.net:8080/F15554/Tve5ZWQEd485/165079
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7Y5LPGd/HBOshare-Ext-Group.jpg" group-title="Shareext@MOVIES", Chinese Drama (3)
-http://iptvtree.net:8080/friptv/AwWjvV6QuXDY84xR5meJhk/298516
+http://iptvtree.net:8080/F15554/Tve5ZWQEd485/298516
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7Y5LPGd/HBOshare-Ext-Group.jpg" group-title="Shareext@MOVIES", CinemaWorld (3)
-http://iptvtree.net:8080/friptv/AwWjvV6QuXDY84xR5meJhk/165082
+http://iptvtree.net:8080/F15554/Tve5ZWQEd485/165082
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7Y5LPGd/HBOshare-Ext-Group.jpg" group-title="Shareext@MOVIES", Cinemax (3)
-http://iptvtree.net:8080/friptv/AwWjvV6QuXDY84xR5meJhk/197964
+http://iptvtree.net:8080/F15554/Tve5ZWQEd485/197964
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7Y5LPGd/HBOshare-Ext-Group.jpg" group-title="Shareext@MOVIES", ETV BIOSKOP 01 (3)
-http://iptvtree.net:8080/friptv/AwWjvV6QuXDY84xR5meJhk/298526
+http://iptvtree.net:8080/F15554/Tve5ZWQEd485/298526
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7Y5LPGd/HBOshare-Ext-Group.jpg" group-title="Shareext@MOVIES", ETV BIOSKOP 02 (3)
-http://iptvtree.net:8080/friptv/AwWjvV6QuXDY84xR5meJhk/298513
+http://iptvtree.net:8080/F15554/Tve5ZWQEd485/298513
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7Y5LPGd/HBOshare-Ext-Group.jpg" group-title="Shareext@MOVIES", ETV BIOSKOP 03 (3)
-http://iptvtree.net:8080/friptv/AwWjvV6QuXDY84xR5meJhk/298514
+http://iptvtree.net:8080/F15554/Tve5ZWQEd485/298514
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7Y5LPGd/HBOshare-Ext-Group.jpg" group-title="Shareext@MOVIES", ETV BIOSKOP 04 (3)
-http://iptvtree.net:8080/friptv/AwWjvV6QuXDY84xR5meJhk/298529
+http://iptvtree.net:8080/F15554/Tve5ZWQEd485/298529
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7Y5LPGd/HBOshare-Ext-Group.jpg" group-title="Shareext@MOVIES", FLIK (3)
-http://iptvtree.net:8080/friptv/AwWjvV6QuXDY84xR5meJhk/165095
+http://iptvtree.net:8080/F15554/Tve5ZWQEd485/165095
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7Y5LPGd/HBOshare-Ext-Group.jpg" group-title="Shareext@MOVIES", Galaxy (3)
-http://iptvtree.net:8080/friptv/AwWjvV6QuXDY84xR5meJhk/264773
+http://iptvtree.net:8080/F15554/Tve5ZWQEd485/264773
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7Y5LPGd/HBOshare-Ext-Group.jpg" group-title="Shareext@MOVIES", Galaxy Premium (3)
-http://iptvtree.net:8080/friptv/AwWjvV6QuXDY84xR5meJhk/264774
+http://iptvtree.net:8080/F15554/Tve5ZWQEd485/264774
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7Y5LPGd/HBOshare-Ext-Group.jpg" group-title="Shareext@MOVIES", Citra Drama (3)
-http://iptvtree.net:8080/friptv/AwWjvV6QuXDY84xR5meJhk/264748
+http://iptvtree.net:8080/F15554/Tve5ZWQEd485/264748
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7Y5LPGd/HBOshare-Ext-Group.jpg" group-title="Shareext@MOVIES", CCM (3)
-http://iptvtree.net:8080/friptv/AwWjvV6QuXDY84xR5meJhk/165103
+http://iptvtree.net:8080/F15554/Tve5ZWQEd485/165103
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7Y5LPGd/HBOshare-Ext-Group.jpg" group-title="Shareext@MOVIES", Celestial Movies (3)
-http://iptvtree.net:8080/friptv/AwWjvV6QuXDY84xR5meJhk/165065
+http://iptvtree.net:8080/F15554/Tve5ZWQEd485/165065
 
 #EXTINF:-1 tvg-id="HBO" tvg-url="https://bit.ly/AstroEpg" tvg-logo="https://seeklogo.com/images/H/hbo-logo-9BCB43E157-seeklogo.com.png" group-title="Shareext@MOVIES",HBO_SG(ott.navigator)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -5550,7 +5301,7 @@ http://stream2.xiancity.cn/xatv3/playlist.m3u8
 https://smart.pendy.dpdns.org/Smart.php?id=cctv1
 #EXTINF:-1 tvg-id="cctv2" tvg-name="cctv2" tvg-logo="https://epg.v1.mk/logo/cctv2.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv 2 (smart)
 https://smart.pendy.dpdns.org/Smart.php?id=cctv2
-#EXTINF:-1 tvg-id="cctv3" tvg-name="cctv3" tvg-logo="https://epg.v1.mk/logo/cctv3.png" group-title="@CHINA_STATION/央视频道",cctv 3 (smart)
+#EXTINF:-1 tvg-id="cctv3" tvg-name="cctv3" tvg-logo="https://epg.v1.mk/logo/cctv3.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv 3 (smart)
 https://smart.pendy.dpdns.org/Smart.php?id=cctv3
 #EXTINF:-1 tvg-id="cctv4" tvg-name="cctv4" tvg-logo="https://epg.v1.mk/logo/cctv4.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv 4 (smart)
 https://smart.pendy.dpdns.org/Smart.php?id=cctv4
@@ -5828,82 +5579,6 @@ https://d3ctbhz5tcf42v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRAH4602000A_20230322T010922SQUARE.png_20230322010923.png" group-title="SHAREEXT@Television_South Korea",  현대홈쇼핑+Shop
 https://dtvstreaming.hyundaihmall.com/newcjp3/_definst_/newcjpstream.smil/playlist.m3u8
 
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@JAPAN™STATION", Star°Channel 2
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS201&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-logo="https://i.ibb.co/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@JAPAN™STATION", BS°SkyPerfecTV!
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS241&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-logo="https://i.ibb.co/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@JAPAN™STATION", Lala°TV
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS314&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-logo="https://i.ibb.co/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@JAPAN™STATION", BS°Asahi
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS151&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-logo="https://i.ibb.co/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@JAPAN™STATION", Channel°Neco
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS223&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-logo="https://i.ibb.co/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@JAPAN™STATION", Sky°A
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS250&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-logo="https://i.ibb.co/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@JAPAN™STATION", Fox°Japan
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS312&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-logo="https://i.ibb.co/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@JAPAN™STATION", Nittere°G+
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS257&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-logo="https://i.ibb.co/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@JAPAN™STATION", J°Sports 3
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS244&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-logo="https://i.ibb.co/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@JAPAN™STATION", Family°Gekijo
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS293&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-logo="https://i.ibb.co/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@JAPAN™STATION", Movie°Plus
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS240&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-logo="https://i.ibb.co/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@JAPAN™STATION", J°Sports 1
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS242&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-logo="https://i.ibb.co/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@JAPAN™STATION", Nippon°Eiga°Senmon Channel
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS255&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-logo="https://i.ibb.co/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@JAPAN™STATION", Kids°Station
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS330&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-logo="https://i.ibb.co/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@JAPAN™STATION", BS°TV°Tokyo
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS171&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-logo="https://i.ibb.co/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@JAPAN™STATION", Super!°Drama TV
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS310&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-logo="https://i.ibb.co/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@JAPAN™STATION", BS°Fuji
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS181&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-logo="https://i.ibb.co/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@JAPAN™STATION", J=Sports 4
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-logo="https://i.ibb.co/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@JAPAN™STATION", WOWOW°Live
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS192&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-logo="https://i.ibb.co/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@JAPAN™STATION", Star°Channel 3
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS202&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-logo="https://i.ibb.co/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@JAPAN™STATION", BS°TBS
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS161&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-logo="https://i.ibb.co/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@JAPAN™STATION", WOWOW°Cinema
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS193&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-logo="https://i.ibb.co/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@JAPAN™STATION", Nittere°News 24
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS349&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-logo="https://i.ibb.co/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@JAPAN™STATION", J°Sports 2
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS243&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-logo="https://i.ibb.co/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@JAPAN™STATION", Golf°Network
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS262&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-logo="https://i.ibb.co/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@JAPAN™STATION", WOWOW°Prime
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS191&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-logo="https://i.ibb.co/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@JAPAN™STATION", NHK°BS1
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS101&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-logo="https://i.ibb.co/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@JAPAN™STATION", Music°On! TV
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS325&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-logo="https://i.ibb.co/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@JAPAN™STATION", Channel°Ginga
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS305&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-logo="https://i.ibb.co/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@JAPAN™STATION", BS°Tsuri Vision
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS251&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-logo="https://i.ibb.co/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@JAPAN™STATION", BS°Nittere
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS141&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-logo="https://i.ibb.co/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@JAPAN™STATION", Star°Channel 1
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS200&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-logo="https://i.ibb.co/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@JAPAN™STATION", Jidaigeki°Senmon Channel
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS292&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-logo="https://i.ibb.co/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@JAPAN™STATION", Gaora°Sports
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS254&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-logo="https://i.ibb.co/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@JAPAN™STATION", BS°Animax
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS236&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-logo="https://i.ibb.co/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@JAPAN™STATION", Toei°Channel
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS218&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-logo="https://i.ibb.co/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@JAPAN™STATION", NHK°BS°Premium
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS103&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
 
 

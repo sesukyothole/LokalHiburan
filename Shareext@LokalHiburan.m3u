@@ -537,7 +537,6 @@ https://op-group1-swiftservehd-1.dens.tv/h/h216/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502984_tvchannels_v1.jpg" group-title="SHAREEXT@ DENZ TV", MY FAMILY CHANEL
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
-https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/14994.ts
 https://op-group1-swiftservehd-1.dens.tv/h/h194/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502977_tvchannels_v1.jpg" group-title="SHAREEXT@ DENZ TV", MY CINEMA EUROPA
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -564,7 +563,6 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000028/1024.m3u8
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000032/1024.m3u8
-#https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/5.ts
 #https://op-group1-swiftservehd-1.dens.tv/h/h14/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502909_tvchannels_v1.jpg" group-title="SHAREEXT@ DENZ TV", TVN MOVIE
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -1169,7 +1167,14 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/daaitv/manifest.mpd
 
 
 
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7Y5LPGd/HBOshare-Ext-Group.jpg" group-title="Shareext@MOVIES", LotusMacau_澳門蓮花衛視
+http://1033946631.cloudvdn.com/a.m3u8?domain=live-hdl.macaulotustv.com&player=1&streamid=lotustv:lotustv/macaulotustv&v3=1
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7Y5LPGd/HBOshare-Ext-Group.jpg" group-title="Shareext@MOVIES", LotusMacau
+https://fenghuang.tv12.xyz/187.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7Y5LPGd/HBOshare-Ext-Group.jpg" group-title="Shareext@MOVIES", Cctv14(movie)
+http://8.138.7.223/tv/lotustv.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7Y5LPGd/HBOshare-Ext-Group.jpg" group-title="Shareext@MOVIES", PopC
+https://live.tvfix.org/live/popc/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="Shareext@MOVIES",美亚电影(MeiyaMovie_twn)
 http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=meiyamovie_twn
@@ -1197,29 +1202,6 @@ http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Xinhe
 http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Tvbclassic
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="Shareext@MOVIES",TVB Entertain_MY(娱乐新闻台)
 http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Tvbentertainment
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7Y5LPGd/HBOshare-Ext-Group.jpg" group-title="Shareext@MOVIES", BOO (my)
-http://rfye55.xyz/live/98:06:3c:98:da:fa/881A863F2BD7/1052387.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7Y5LPGd/HBOshare-Ext-Group.jpg" group-title="Shareext@MOVIES", HBO (my)
-http://rfye55.xyz/live/98:06:3c:98:da:fa/881A863F2BD7/1052508.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7Y5LPGd/HBOshare-Ext-Group.jpg" group-title="Shareext@MOVIES", HBO.HITS (my)
-http://rfye55.xyz/live/98:06:3c:98:da:fa/881A863F2BD7/1052513.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7Y5LPGd/HBOshare-Ext-Group.jpg" group-title="Shareext@MOVIES", HBO.FAMILY (my)
-http://rfye55.xyz/live/98:06:3c:98:da:fa/881A863F2BD7/1052504.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7Y5LPGd/HBOshare-Ext-Group.jpg" group-title="Shareext@MOVIES", IQYI (my)
-http://rfye55.xyz/live/98:06:3c:98:da:fa/881A863F2BD7/1052530.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7Y5LPGd/HBOshare-Ext-Group.jpg" group-title="Shareext@MOVIES", SHOWCASE (my)
-http://rfye55.xyz/live/98:06:3c:98:da:fa/881A863F2BD7/1052584.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7Y5LPGd/HBOshare-Ext-Group.jpg" group-title="Shareext@MOVIES", CERIA (my)
-http://rfye55.xyz/live/98:06:3c:98:da:fa/881A863F2BD7/1052390.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7Y5LPGd/HBOshare-Ext-Group.jpg" group-title="Shareext@MOVIES", HUA.HE.TAI (my)
-http://rfye55.xyz/live/98:06:3c:98:da:fa/881A863F2BD7/1052397.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7Y5LPGd/HBOshare-Ext-Group.jpg" group-title="Shareext@MOVIES", OASIS (my)
-http://rfye55.xyz/live/98:06:3c:98:da:fa/881A863F2BD7/1052400.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7Y5LPGd/HBOshare-Ext-Group.jpg" group-title="Shareext@MOVIES", BOOLYWOOD (my)
-http://rfye55.xyz/live/98:06:3c:98:da:fa/881A863F2BD7/1052413.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7Y5LPGd/HBOshare-Ext-Group.jpg" group-title="Shareext@MOVIES", CITRA (my)
-http://rfye55.xyz/live/98:06:3c:98:da:fa/881A863F2BD7/1052391.ts
 
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1

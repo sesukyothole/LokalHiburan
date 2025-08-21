@@ -1240,8 +1240,6 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CinemaxHD/mpd/CinemaxHD.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7Y5LPGd/HBOshare-Ext-Group.jpg" group-title="Shareext@MOVIES", HBO.HD_tw
 http://125.227.210.55:8153/VideoInput/play.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7Y5LPGd/HBOshare-Ext-Group.jpg" group-title="Shareext@MOVIES", CINEMAX_tw
-http://125.227.210.55:8151/VideoInput/play.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7Y5LPGd/HBOshare-Ext-Group.jpg" group-title="Shareext@MOVIES", HBO (3)
 http://iptvtree.net:8080/F15554/Tve5ZWQEd485/306484
@@ -5301,10 +5299,86 @@ https://d2kziuzkf9oizb.cloudfront.net/rd005/chunklist.m3u8
 https://live3.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8
 #EXTINF:-1 tvg-id="BaichengTV.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/baicheng.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道", 白城新闻综合 [Geo-blocked]
 https://stream2.jlntv.cn/baicheng1/sd/live.m3u8
-#EXTINF:-1 tvg-id="XianSilkRoadChannel.cn" tvg-logo="https://i.imgur.com/52i1Qnz.png" group-title="SHAREEXT@CHINA_STATION/央视频道", 西安丝路 (404p) [Not 24/7]
-http://stream2.xiancity.cn/xatv5/playlist.m3u8
-#EXTINF:-1 tvg-id="XianBusinessInformationChannel.cn" tvg-logo="https://i.imgur.com/dzdiY4O.png" group-title="SHAREEXT@CHINA_STATION/央视频道", 西安商务资讯 (180p) [Not 24/7]
-http://stream2.xiancity.cn/xatv3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",西安新聞綜合
+https://xatv-yt.xiancity.cn/live/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",西安都市頻道
+https://xatv-yt.xiancity.cn/live/2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",西安商務資訊
+https://xatv-yt.xiancity.cn/live/3/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",西安影視頻道
+https://xatv-yt.xiancity.cn/live/4/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",西安絲路頻道
+https://xatv-yt.xiancity.cn/live/5/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",西安樂購頻道
+https://xatv-yt.xiancity.cn/live/6/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",西安移動頻道
+https://xatv-yt.xiancity.cn/live/7/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",緯來體育
+rtmp://f13h.mine.nu/sat/tv721
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",台視
+rtmp://f13h.mine.nu/sat/tv071
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",中視,rtmp://f13h.mine.nu/sat/tv091
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",華視
+rtmp://f13h.mine.nu/sat/tv111
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",民視
+rtmp://f13h.mine.nu/sat/tv051
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",LotusMacau_澳門蓮花衛視
+http://1033946631.cloudvdn.com/a.m3u8?domain=live-hdl.macaulotustv.com&player=1&streamid=lotustv:lotustv/macaulotustv&v3=1
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",LotusMacau
+https://fenghuang.tv12.xyz/187.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",Cctv14(movie)
+http://8.138.7.223/tv/lotustv.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",PopC
+https://live.tvfix.org/live/popc/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",東森超視美洲台
+http://38.64.72.148:80/hls/modn/list/2013/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",東森美洲衛視
+http://38.64.72.148:80/hls/modn/list/2015/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",東森美洲HD
+http://38.64.72.148:80/hls/modn/list/2016/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",華視
+http://125.227.210.55:8163/VideoInput/play.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",CN卡通
+http://125.227.210.55:8167/VideoInput/play.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",HBO HD(美國華納兄弟探索家庭票房頻道)
+http://125.227.210.55:8153/VideoInput/play.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",Discovery亞洲台(美國華納兄弟探索頻道亞洲台)
+http://125.227.210.55:8154/VideoInput/play.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",CNBC News (美國全國廣播公司商業頻道)
+http://125.227.210.55:8152/VideoInput/play.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",Bloomberg(美國彭博新聞社)
+http://125.227.210.55:8161/VideoInput/play.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",BBC News(英國廣播公司新聞頻道)
+http://125.227.210.55:8165/VideoInput/play.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",CNN News(美國有線電視新聞網)
+http://125.227.210.55:8166/VideoInput/play.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",TV5(法國電視國際五台)
+http://125.227.210.55:15533/VideoInput/play.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",KBS Word(韓國放送公社國際頻道)
+http://125.227.210.55:17478/VideoInput/play.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",NHK Word(日本放送協會國際頻道)
+http://125.227.210.55:35802/VideoInput/play.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",鳳凰衛視中文台
+http://125.227.210.55:39004/VideoInput/play.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",CCTV-4
+http://125.227.210.55:8175/VideoInput/play.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",SPOTV2
+http://125.227.210.55:8176/VideoInput/play.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",CCTV-5+
+http://125.227.210.55:8177/VideoInput/play.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",DW(德國之聲新聞台)
+http://125.227.210.55:42534/VideoInput/play.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",Arirang（韓國阿里郎國際放送）
+http://125.227.210.55:48553/VideoInput/play.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",NHK BS(日本放送協會衛星頻道)
+http://125.227.210.55:8210/VideoInput/play.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",BSテレ東
+http://125.227.210.55:8215/VideoInput/play.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",NET
+http://125.227.210.55:8172/VideoInput/play.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",Ntv
+http://125.227.210.55:8173/VideoInput/play.ts
 
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.v1.mk/logo/CCTV1.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv 1 (smart)
 https://smart.pendy.dpdns.org/Smart.php?id=cctv1
@@ -5462,6 +5536,85 @@ https://0472.org/hls/cgtnf.m3u8
 https://0472.org/hls/cgtnx.m3u8
 #EXTINF:-1 tvg-name="CGTN阿语" tvg-logo="https://live.fanmingming.cn/tv/CGTN阿语.png" group-title="SHAREEXT@CHINA_STATION/央视频道",CGTN阿语
 https://0472.org/hls/cgtna.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/RGXJRYp0/SHAREEXT-JAPAN-LOGO.jpg" group-title="SHAREEXT@ JAPANES || STATION",NHK G
+https://mt01.utako.moe/NHK_G/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/RGXJRYp0/SHAREEXT-JAPAN-LOGO.jpg" group-title="SHAREEXT@ JAPANES || STATION",NHK E
+https://mt01.utako.moe/NHK_E/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/RGXJRYp0/SHAREEXT-JAPAN-LOGO.jpg" group-title="SHAREEXT@ JAPANES || STATION",NTV
+https://mt01.utako.moe/Nippon_TV/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/RGXJRYp0/SHAREEXT-JAPAN-LOGO.jpg" group-title="SHAREEXT@ JAPANES || STATION",TBS
+https://mt01.utako.moe/TBS/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/RGXJRYp0/SHAREEXT-JAPAN-LOGO.jpg" group-title="SHAREEXT@ JAPANES || STATION",Fuji TV
+https://mt01.utako.moe/Fuji_TV/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/RGXJRYp0/SHAREEXT-JAPAN-LOGO.jpg" group-title="SHAREEXT@ JAPANES || STATION",TV Asahi
+https://mt01.utako.moe/TV_Asahi/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/RGXJRYp0/SHAREEXT-JAPAN-LOGO.jpg" group-title="SHAREEXT@ JAPANES || STATION",TV Tokyo
+https://mt01.utako.moe/TV_Tokyo/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/RGXJRYp0/SHAREEXT-JAPAN-LOGO.jpg" group-title="SHAREEXT@ JAPANES || STATION",TOKYO MX1
+https://mt01.utako.moe/Tokyo_MX1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/RGXJRYp0/SHAREEXT-JAPAN-LOGO.jpg" group-title="SHAREEXT@ JAPANES || STATION",TOKYO MX2
+https://mt01.utako.moe/Tokyo_MX2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/RGXJRYp0/SHAREEXT-JAPAN-LOGO.jpg" group-title="SHAREEXT@ JAPANES || STATION",MBS
+https://mt01.utako.moe/mbs/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/RGXJRYp0/SHAREEXT-JAPAN-LOGO.jpg" group-title="SHAREEXT@ JAPANES || STATION",ABC
+https://mt01.utako.moe/abc/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/RGXJRYp0/SHAREEXT-JAPAN-LOGO.jpg" group-title="SHAREEXT@ JAPANES || STATION",TV Osaka
+https://mt01.utako.moe/tvo/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/RGXJRYp0/SHAREEXT-JAPAN-LOGO.jpg" group-title="SHAREEXT@ JAPANES || STATION",Kansai TV
+https://mt01.utako.moe/kansaitv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/RGXJRYp0/SHAREEXT-JAPAN-LOGO.jpg" group-title="SHAREEXT@ JAPANES || STATION",ytv
+https://mt01.utako.moe/ytv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/RGXJRYp0/SHAREEXT-JAPAN-LOGO.jpg" group-title="SHAREEXT@ JAPANES || STATION",KBS
+https://mt01.utako.moe/kbs/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/RGXJRYp0/SHAREEXT-JAPAN-LOGO.jpg" group-title="SHAREEXT@ JAPANES || STATION",SUN
+https://mt01.utako.moe/suntv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/RGXJRYp0/SHAREEXT-JAPAN-LOGO.jpg" group-title="SHAREEXT@ JAPANES || STATION",NHK BS
+https://mt01.utako.moe/NHK_BS/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/RGXJRYp0/SHAREEXT-JAPAN-LOGO.jpg" group-title="SHAREEXT@ JAPANES || STATION",BS NTV
+https://mt01.utako.moe/bsntv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/RGXJRYp0/SHAREEXT-JAPAN-LOGO.jpg" group-title="SHAREEXT@ JAPANES || STATION",BS Asahi
+https://mt01.utako.moe/bsasahi/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/RGXJRYp0/SHAREEXT-JAPAN-LOGO.jpg" group-title="SHAREEXT@ JAPANES || STATION",BS TBS
+https://mt01.utako.moe/bstbs/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/RGXJRYp0/SHAREEXT-JAPAN-LOGO.jpg" group-title="SHAREEXT@ JAPANES || STATION",BS TV Tokyo
+https://mt01.utako.moe/bstvtokyo/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/RGXJRYp0/SHAREEXT-JAPAN-LOGO.jpg" group-title="SHAREEXT@ JAPANES || STATION",BS Fuji
+https://mt01.utako.moe/bsfuji/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/RGXJRYp0/SHAREEXT-JAPAN-LOGO.jpg" group-title="SHAREEXT@ JAPANES || STATION",BS10
+https://mt01.utako.moe/bs10/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/RGXJRYp0/SHAREEXT-JAPAN-LOGO.jpg" group-title="SHAREEXT@ JAPANES || STATION",BS11
+https://mt01.utako.moe/BS11/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/RGXJRYp0/SHAREEXT-JAPAN-LOGO.jpg" group-title="SHAREEXT@ JAPANES || STATION",BS12
+https://mt01.utako.moe/bs12/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/RGXJRYp0/SHAREEXT-JAPAN-LOGO.jpg" group-title="SHAREEXT@ JAPANES || STATION",NHK BS4K
+https://mt01.utako.moe/bsp4k/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/RGXJRYp0/SHAREEXT-JAPAN-LOGO.jpg" group-title="SHAREEXT@ JAPANES || STATION",BS TV Tokyo 4K (test)
+https://mt01.utako.moe/bstx4k/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/RGXJRYp0/SHAREEXT-JAPAN-LOGO.jpg" group-title="SHAREEXT@ JAPANES || STATION",WOWOW Prime
+https://mt01.utako.moe/wprime/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/RGXJRYp0/SHAREEXT-JAPAN-LOGO.jpg" group-title="SHAREEXT@ JAPANES || STATION",WOWOW Cinema
+https://mt01.utako.moe/wcinema/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/RGXJRYp0/SHAREEXT-JAPAN-LOGO.jpg" group-title="SHAREEXT@ JAPANES || STATION",WOWOW Live
+https://mt01.utako.moe/wlive/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/RGXJRYp0/SHAREEXT-JAPAN-LOGO.jpg" group-title="SHAREEXT@ JAPANES || STATION",BS 10 Star Channel
+https://mt01.utako.moe/bs10_star/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/RGXJRYp0/SHAREEXT-JAPAN-LOGO.jpg" group-title="SHAREEXT@ JAPANES || STATION",JSport 1
+https://mt01.utako.moe/js1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/RGXJRYp0/SHAREEXT-JAPAN-LOGO.jpg" group-title="SHAREEXT@ JAPANES || STATION",JSport 2
+https://mt01.utako.moe/js2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/RGXJRYp0/SHAREEXT-JAPAN-LOGO.jpg" group-title="SHAREEXT@ JAPANES || STATION",JSport 3
+https://mt01.utako.moe/js3/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/RGXJRYp0/SHAREEXT-JAPAN-LOGO.jpg" group-title="SHAREEXT@ JAPANES || STATION",JSport 4
+https://mt01.utako.moe/js4/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/RGXJRYp0/SHAREEXT-JAPAN-LOGO.jpg" group-title="SHAREEXT@ JAPANES || STATION",Green Channel
+https://mt01.utako.moe/green/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/RGXJRYp0/SHAREEXT-JAPAN-LOGO.jpg" group-title="SHAREEXT@ JAPANES || STATION",Gaora Sports
+https://mt01.utako.moe/gaora/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/RGXJRYp0/SHAREEXT-JAPAN-LOGO.jpg" group-title="SHAREEXT@ JAPANES || STATION",AT-X
+https://mt01.utako.moe/AT-X/index.m3u8
 
 
 

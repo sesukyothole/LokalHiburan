@@ -4699,7 +4699,8 @@ https://xatv-yt.xiancity.cn/live/7/index.m3u8
 rtmp://f13h.mine.nu/sat/tv721
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",台視
 rtmp://f13h.mine.nu/sat/tv071
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",中視,rtmp://f13h.mine.nu/sat/tv091
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",中視
+rtmp://f13h.mine.nu/sat/tv091
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",華視
 rtmp://f13h.mine.nu/sat/tv111
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",民視
@@ -4763,37 +4764,37 @@ http://125.227.210.55:8172/VideoInput/play.ts
 http://125.227.210.55:8173/VideoInput/play.ts
 
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.v1.mk/logo/CCTV1.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv 1 (smart)
-https://smart.pendy.dpdns.org/Smart.php?id=cctv1
+
 #EXTINF:-1 tvg-id="cctv2" tvg-name="cctv2" tvg-logo="https://epg.v1.mk/logo/cctv2.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv 2 (smart)
-https://smart.pendy.dpdns.org/Smart.php?id=cctv2
+
 #EXTINF:-1 tvg-id="cctv3" tvg-name="cctv3" tvg-logo="https://epg.v1.mk/logo/cctv3.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv 3 (smart)
-https://smart.pendy.dpdns.org/Smart.php?id=cctv3
+
 #EXTINF:-1 tvg-id="cctv4" tvg-name="cctv4" tvg-logo="https://epg.v1.mk/logo/cctv4.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv 4 (smart)
-https://smart.pendy.dpdns.org/Smart.php?id=cctv4
+
 #EXTINF:-1 tvg-id="cctv5" tvg-name="cctv5" tvg-logo="https://epg.v1.mk/logo/cctv5.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv 5 (smart)
-https://smart.pendy.dpdns.org/Smart.php?id=cctv5
+
 #EXTINF:-1 tvg-id="cctv5+" tvg-name="cctv5+" tvg-logo="https://epg.v1.mk/logo/cctv5+.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv5p (smart)
-https://smart.pendy.dpdns.org/Smart.php?id=cctv5plus
+
 #EXTINF:-1 tvg-id="cctv6" tvg-name="cctv6" tvg-logo="https://epg.v1.mk/logo/cctv6.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv 6 (smart)
-https://smart.pendy.dpdns.org/Smart.php?id=cctv6
+
 #EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://epg.v1.mk/logo/CCTV7.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv 7 (smart)
-https://smart.pendy.dpdns.org/Smart.php?id=cctv7
+
 #EXTINF:-1 tvg-id="cctv8" tvg-name="cctv8" tvg-logo="https://epg.v1.mk/logo/cctv8.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv 8 (smart)
-https://smart.pendy.dpdns.org/Smart.php?id=cctv8
+
 #EXTINF:-1 tvg-id="cctv9" tvg-name="cctv9" tvg-logo="https://epg.v1.mk/logo/cctv9.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv 9 (smart)
-https://smart.pendy.dpdns.org/Smart.php?id=cctv9
+
 #EXTINF:-1 tvg-id="cctv10" tvg-name="cctv10" tvg-logo="https://epg.v1.mk/logo/cctv10.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv 10 (smart)
-https://smart.pendy.dpdns.org/Smart.php?id=cctv10
+
 #EXTINF:-1 tvg-id="cctv11" tvg-name="cctv11" tvg-logo="https://epg.v1.mk/logo/cctv11.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv 11 (smart)
-https://smart.pendy.dpdns.org/Smart.php?id=cctv11
+
 #EXTINF:-1 tvg-id="cctv12" tvg-name="cctv12" tvg-logo="https://epg.v1.mk/logo/cctv12.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv 12 (smart)
-https://smart.pendy.dpdns.org/Smart.php?id=cctv12
+
 #EXTINF:-1 tvg-id="cctv13" tvg-name="cctv13" tvg-logo="https://epg.v1.mk/logo/cctv13.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv 13 (smart)
-https://smart.pendy.dpdns.org/Smart.php?id=cctv13
+
 #EXTINF:-1 tvg-id="cctv14" tvg-name="cctv14" tvg-logo="https://epg.v1.mk/logo/cctv14.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv 14 (smart)
-https://smart.pendy.dpdns.org/Smart.php?id=cctv14
+
 #EXTINF:-1 tvg-id="cctv15" tvg-name="cctv15" tvg-logo="https://epg.v1.mk/logo/cctv15.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv 15 (smart)
-https://smart.pendy.dpdns.org/Smart.php?id=cctv15
+
 
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.v1.mk/logo/CCTV1.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv 1
 http://111.43.126.240:9003/hls/13/index.m3u8
@@ -5381,7 +5382,32 @@ https://qp-pldt-live-grp-08-prod.akamaized.net/out/u/travel_channel_sd.mpd
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GWkV43J/Thaiiilanddd-Logo.jpg" group-title="SHAREEXT@THAiLandTv", CNN indonesia
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/TqmZsKsb/shareext-logo-Thailand.png" group-title="SHAREEXT@THAiLandTv", MVMall Best
+https://lb1-live-mv.v2h-cdn.com/hls/ffee/mvmall_best/mvmall_best.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/TqmZsKsb/shareext-logo-Thailand.png" group-title="SHAREEXT@THAiLandTv", MVMall Heathly
+https://lb1-live-mv.v2h-cdn.com/hls/fdff/mvmallhelth/mvmallhelth.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/TqmZsKsb/shareext-logo-Thailand.png" group-title="SHAREEXT@THAiLandTv", MVLAO
+https://lb1-live-mv.v2h-cdn.com/hls/ffaa/mvlao/mvlao.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/TqmZsKsb/shareext-logo-Thailand.png" group-title="SHAREEXT@THAiLandTv", MVM
+https://lb1-live-mv.v2h-cdn.com/hls/feff/mvm/mvm.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/TqmZsKsb/shareext-logo-Thailand.png" group-title="SHAREEXT@THAiLandTv", MVMall Plus
+https://lb1-live-mv.v2h-cdn.com/hls/fded/mvmallplus/mvmallplus.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/TqmZsKsb/shareext-logo-Thailand.png" group-title="SHAREEXT@THAiLandTv", สยาม
+https://lb1-live-mv.v2h-cdn.com/live_vod/siam.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/TqmZsKsb/shareext-logo-Thailand.png" group-title="SHAREEXT@THAiLandTv", โด้"
+https://lb1-live-mv.v2h-cdn.com/live_vod/lido.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/TqmZsKsb/shareext-logo-Thailand.png" group-title="SHAREEXT@THAiLandTv", สกาล่า
+https://lb1-live-mv.v2h-cdn.com/live_vod/scala.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/TqmZsKsb/shareext-logo-Thailand.png" group-title="SHAREEXT@THAiLandTv", MVMall DD
+https://lb1-live-mv.v2h-cdn.com/hls/fdee/mvmalldd/mvmalldd.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/TqmZsKsb/shareext-logo-Thailand.png" group-title="SHAREEXT@THAiLandTv", มูเตล
+https://lb1-live-mv.v2h-cdn.com/live_vod/ttd25.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/TqmZsKsb/shareext-logo-Thailand.png" group-title="SHAREEXT@THAiLandTv", MVTV ท้องถิ่นไทย
+https://lb1-live-mv.v2h-cdn.com/hls/ffff/mvtv75/mvtv75.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/TqmZsKsb/shareext-logo-Thailand.png" group-title="SHAREEXT@THAiLandTv", CNN indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1649997259_b384000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/asB5w3v.png" group-title="SHAREEXT@THAiLandTv", DLTV 13
 https://cdn-live.dltv.ac.th/dltv13.m3u8
@@ -5417,17 +5443,17 @@ https://cdn-live.dltv.ac.th/dltv03.m3u8
 https://cdn-live.dltv.ac.th/dltv07.m3u8
 #EXTINF:-1 tvg-logo="https://iptv36.my.to/logo/topnews.png" group-title="SHAREEXT@THAiLandTv", Top News
 https://live.topnews.co.th/hls/topnews_a_720.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GWkV43J/Thaiiilanddd-Logo.jpg" group-title="SHAREEXT@THAiLandTv", Yateem TV (New!)
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/TqmZsKsb/shareext-logo-Thailand.png" group-title="SHAREEXT@THAiLandTv", Yateem TV (New!)
 https://vdo.plathong.net/wowza/muslimonair1/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GWkV43J/Thaiiilanddd-Logo.jpg" group-title="SHAREEXT@THAiLandTv", WhiteChannel
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/TqmZsKsb/shareext-logo-Thailand.png" group-title="SHAREEXT@THAiLandTv", WhiteChannel
 http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GWkV43J/Thaiiilanddd-Logo.jpg" group-title="SHAREEXT@THAiLandTv", News1
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/TqmZsKsb/shareext-logo-Thailand.png" group-title="SHAREEXT@THAiLandTv", News1
 http://news1.live14.com/stream/news1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NNxzCPk.png" group-title="SHAREEXT@THAiLandTv", ASTV News 1
 http://news1.live14.com/stream/news1.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GWkV43J/Thaiiilanddd-Logo.jpg" group-title="SHAREEXT@THAiLandTv", Thai PBS 3
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/TqmZsKsb/shareext-logo-Thailand.png" group-title="SHAREEXT@THAiLandTv", Thai PBS 3
 https://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GWkV43J/Thaiiilanddd-Logo.jpg" group-title="SHAREEXT@THAiLandTv", Thai PBS 3 HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/TqmZsKsb/shareext-logo-Thailand.png" group-title="SHAREEXT@THAiLandTv", Thai PBS 3 HD
 https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
 #EXTINF:-1 tvg-logo="https://media-mvtv-app.imgix.net/channel/152_y_zynZw6RpjUoxHbGMh28eCKk9BlqIXJAa.png" group-title="SHAREEXT@THAiLandTv", CNA
 https://d2e1asnsl7br7b.cloudfront.net/4e4e0baa3d7b4c129b4f5655219e083d/index.m3u8

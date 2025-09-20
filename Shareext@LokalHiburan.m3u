@@ -1652,7 +1652,41 @@ https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6857fe540a1018060b41
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="SHAREEXT@ INDIHOME || TEVE", Indosiar
+
+
+
+#EXTINF:-1 group-title="SHAREEXT@ INDIHOME || TEVE" tvg-logo="https://images.indihometv.com/logo_tvonenew_big.png", TvOne (inditv)
+https://cdn10jtedge.indihometv.com/atm/DASH/tvone/manifest.mpd
+#EXTINF:-1 group-title="SHAREEXT@ INDIHOME || TEVE" tvg-logo="https://raw.githubusercontent.com/iplist-dev/Ch/refs/heads/main/indosiar.png", Indosiar (inditv)
+https://cdn10jtedge.indihometv.com/atm/DASH/indosiar/manifest.mpd
+#EXTINF:-1 group-title="SHAREEXT@ INDIHOME || TEVE" tvg-logo="https://raw.githubusercontent.com/iplist-dev/Ch/refs/heads/main/transtv.png", Trans TV (inditv)
+https://cdn10jtedge.indihometv.com/atm/DASH/transtv/manifest.mpd
+#EXTINF:-1 group-title="SHAREEXT@ INDIHOME || TEVE" tvg-logo="https://raw.githubusercontent.com/iplist-dev/Ch/refs/heads/main/trans7.png", Trans 7 (inditv)
+https://cdn10jtedge.indihometv.com/atm/DASH/trans7/manifest.mpd
+#EXTINF:-1 tvg-logo="https://iptvsystem.my.id/img/sctv.png" group-title="SHAREEXT@ INDIHOME || TEVE", SCTV (inditv)
+https://cdn10jtedge.indihometv.com/atm/DASH/sctv/manifest.mpd
+#EXTINF:-1 group-title="SHAREEXT@ INDIHOME || TEVE" tvg-logo="https://images.indihometv.com/logo_ochannel_ver1.png", Moji TV (inditv)
+https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
+#EXTINF:-1 group-title="SHAREEXT@ INDIHOME || TEVE" tvg-logo="https://images.indihometv.com/logo_mentaritv_big.png",Mentari TV (inditv)
+https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Logo_ntv.png/1200px-Logo_ntv.png" group-title="SHAREEXT@ INDIHOME || TEVE", NUSANTARA TV (inditv)
+https://cdn10jtedge.indihometv.com/atm/DASH/nusantaratv/manifest.mpd
+#EXTINF:-1 group-title="SHAREEXT@ INDIHOME || TEVE" tvg-logo="https://images.indihometv.com/logo_bloomberg_big1.png",BLOOMBERG (inditv)
+https://cdn10jtedge.indihometv.com/atm/DASH/BLOOMBERG/manifest.mpd
+#EXTINF:-1 group-title="SHAREEXT@ INDIHOME || TEVE"  tvg-logo="https://images.indihometv.com/assets/THUMBNAIL-88-SINDONEWSTV.png", Sindonews (inditv)
+https://cdn10jtedge.indihometv.com/atm/DASH/mncnews/manifest.mpd
+#EXTINF:-1 group-title="SHAREEXT@ INDIHOME || TEVE"  tvg-logo="https://images.indihometv.com/logo_inews_big.png", Inews (inditv)
+https://cdn10jtedge.indihometv.com/atm/DASH/inews/manifest.mpd
+#EXTINF:-1 tvg-logo="https://iili.io/Jmny7Pj.png" group-title="SHAREEXT@ INDIHOME || TEVE", Musik Indonesia (inditv)
+https://cdn08jtedge.indihometv.com/dassdvr/134/musikindo720/manifest.mpd
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/UelxJ7N.png?v=1.0.0.1" group-title="SHAREEXT@ INDIHOME || TEVE", Citra Dangdut (inditv)
+https://cdn08jtedge.indihometv.com/dassdvr/130/citradangdut/manifest.mpd
+#EXTINF:-1 group-title="SHAREEXT@ INDIHOME || TEVE" tvg-id="KIX.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/001/50001-SNAPSHOT-l.png",KIX (inditv)
+https://cdn10jtedge.indihometv.com/atm/DASH/kix/manifest.mpd
+#EXTINF:-1 tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.mncvision.id/userfiles/image/channel/thrill_150x150px.jpg" group-title="SHAREEXT@ INDIHOME || TEVE",Thriil (inditv)
+https://cdn10jtedge.indihometv.com/atm/DASH/thrill/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="SHAREEXT@ INDIHOME || TEVE", Indosiar 
 http://iptvtree.net:8080/F28312/cc1dc138/162138
 #EXTINF:-1 tvg-id="" tvg-name="ID: SCTV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/127dd049bd05a9d07b266c1d8883ca8b.png" group-title="SHAREEXT@ INDIHOME || TEVE", SCTV
 http://iptvtree.net:8080/F28312/cc1dc138/162141

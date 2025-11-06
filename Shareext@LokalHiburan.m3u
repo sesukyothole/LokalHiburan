@@ -684,6 +684,121 @@ https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
  
+#EXTINF:-1 tvg-id="tvNMovies.id" tvg-name="tvN Movies" tvg-logo="https://mimipipi22.github.io/logo/movies/tvnmovies.jpg" group-title="SHAREEXT@ DENZ TV",TVN 
+http://203.77.246.58:4500/udp/239.1.3.64:5000
+#EXTINF:-1 tvg-id="tvNMovies.id" tvg-name="tvN Movies" tvg-logo="https://mimipipi22.github.io/logo/movies/tvnmovies.jpg" group-title="SHAREEXT@ DENZ TV",TVN MOVIES 
+http://203.77.246.58:4500/udp/239.1.3.62:5000
+#EXTINF:-1 tvg-id="ONE.id" tvg-name="ONE" tvg-logo="https://mimipipi22.github.io/logo/entertainment/one.jpg" group-title="SHAREEXT@ DENZ TV",ONE (udp)
+http://203.77.246.58:4500/udp/239.1.5.10:5000
+#EXTINF:-1 tvg-id="ONE.id" tvg-name="ONE" tvg-logo="https://mimipipi22.github.io/logo/entertainment/one.jpg" group-title="SHAREEXT@ DENZ TV",ONE (B)
+http://203.77.246.58:4500/udp/239.1.2.236:5000
+#EXTINF:-1 tvg-id="HBO.id" tvg-name="HBO" tvg-logo="https://mimipipi22.github.io/logo/movies/hbo.jpg" group-title="SHAREEXT@ DENZ TV",HBO(udp)
+http://203.77.246.58:4500/udp/239.1.3.84:5000
+#EXTINF:-1 tvg-id="HBO Hits.id" tvg-name="HBO Hits" tvg-logo="https://mimipipi22.github.io/logo/movies/hbohits.jpg" group-title="SHAREEXT@ DENZ TV",HBO HITS (udp)
+http://203.77.246.58:4500/udp/239.1.3.82:5000
+#EXTINF:-1 tvg-id="HBO.id" tvg-name="HBO" tvg-logo="https://mimipipi22.github.io/logo/movies/hbo.jpg" group-title="SHAREEXT@ DENZ TV",HBO_twn
+http://51.89.166.17:3002/index.php?id=Hbo
+#EXTINF:-1 tvg-id="HBO Hits.id" tvg-name="HBO Hits" tvg-logo="https://mimipipi22.github.io/logo/movies/hbohits.jpg" group-title="SHAREEXT@ DENZ TV",HBO HITS_twn
+http://51.89.166.17:3002/index.php?id=Hbohitshd
+#EXTINF:-1 tvg-id="HBO Signature.id" tvg-name="HBOSignature1" tvg-logo="https://mimipipi22.github.io/logo/movies/hbosig.jpg" group-title="SHAREEXT@ DENZ TV",HBO SIGNATURE (udp)
+http://203.77.246.58:4500/udp/239.1.3.74:5000
+#EXTINF:-1 tvg-id="HBO Signature.id" tvg-name="HBOSignature1" tvg-logo="https://mimipipi22.github.io/logo/movies/hbosig.jpg" group-title="SHAREEXT@ DENZ TV",HBO SIGNATURE_twn
+http://51.89.166.17:3002/index.php?id=Hbosignature
+#EXTINF:-1 tvg-id="HBO Family.id" tvg-name="HBO Family" tvg-logo="https://mimipipi22.github.io/logo/movies/hbofam.jpg" group-title="SHAREEXT@ DENZ TV",HBO FAMILY (udp)
+http://203.77.246.58:4500/udp/239.1.3.76:5000
+#EXTINF:-1 tvg-id="HBO Family.id" tvg-name="HBO Family" tvg-logo="https://mimipipi22.github.io/logo/movies/hbofam.jpg" group-title="SHAREEXT@ DENZ TV",HBO FAMILY_twn
+http://51.89.166.17:3002/index.php?id=Hbofamily
+#EXTINF:-1 tvg-id="Cinemax.id" tvg-name="Cinemax" tvg-logo="https://mimipipi22.github.io/logo/movies/cinemax.jpg" group-title="SHAREEXT@ DENZ TV",CINEMAX_twn
+http://51.89.166.17:3002/index.php?id=Cinemax
+#EXTINF:-1 tvg-id="ROCKAction.id" tvg-name="ROCK Action" tvg-logo="https://mimipipi22.github.io/logo/movies/rockaction.jpg" group-title="SHAREEXT@ DENZ TV",ROCK ACTION (udp)
+http://203.77.246.58:4500/udp/239.1.5.18:5000
+#EXTINF:-1 tvg-id="ROCKEntertainment.id" tvg-name="ROCK Entertainment" tvg-logo="https://mimipipi22.github.io/logo/entertainment/rockent.jpg" group-title="SHAREEXT@ DENZ TV",ROCK ENTERTAINMENT (udp)
+http://203.77.246.58:4500/udp/239.1.5.14:5000
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=cfbae59795044563b5b9b4927a79a76e:ce57c9490bd772b390d78b9fedaf8d36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="GALAXY.id" tvg-name="GALAXY" tvg-logo="https://mimipipi22.github.io/logo/movies/galaxy.jpg" group-title="SHAREEXT@ DENZ TV",GALAXY (ott)
+https://fta4-cdn-flr.visionplus.id/out/v1/751a0982779f4edd904205eb351e220d/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0d9539db24004da9ac36ea49a09e255c:30304533b5008ad7f33c25f225506bc0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="GALAXYPremium.id" tvg-name="GALAXY Premium.id" tvg-logo="https://mimipipi22.github.io/logo/movies/galaxypremium.jpg" group-title="SHAREEXT@ DENZ TV",GALAXY PREMIUM (ott)
+https://live-channel4-cdn.visionplus.id/out/v1/45c0752c6b6b4397b80243ac9fed96fd/index.mpd
+
+#EXTINF:-1 tvg-id="CelestialMovies.id" tvg-name="Celestial Movies" tvg-logo="https://mimipipi22.github.io/logo/movies/celestialmovies.jpg" group-title="SHAREEXT@ DENZ TV",CELESTIAL MOVIES(udp)
+http://203.77.246.58:4500/udp/239.1.2.142:5000
+#EXTINF:-1 tvg-id="CelestialMovies.id" tvg-name="Celestial Movies" tvg-logo="https://mimipipi22.github.io/logo/movies/celestialmovies.jpg" group-title="SHAREEXT@ DENZ TV",CELESTIAL MOVIES (B)
+http://203.77.246.58:4500/udp/239.1.2.162:5000
+#EXTINF:-1 tvg-id="Thrill.id" tvg-name="Thrill" tvg-logo="https://mimipipi22.github.io/logo/movies/thrill.jpg" group-title="SHAREEXT@ DENZ TV",THRILL (udp)
+http://203.77.246.58:4500/udp/239.1.2.216:5000
+#EXTINF:-1 tvg-id="AXN.id" tvg-name="AXN" tvg-logo="https://mimipipi22.github.io/logo/entertainment/axn.jpg" group-title="SHAREEXT@ DENZ TV",AXN
+http://203.77.246.58:4500/udp/239.1.5.2:5000
+#EXTINF:-1 tvg-id="AXN.id" tvg-name="AXN" tvg-logo="https://mimipipi22.github.io/logo/entertainment/axn.jpg" group-title="SHAREEXT@ DENZ TV",AXN (B)
+http://203.77.246.58:4500/udp/239.1.2.234:5000
+#EXTINF:-1 tvg-id="Warner.id" tvg-name="Warner" tvg-logo="https://mimipipi22.github.io/logo/entertainment/warner.jpg" group-title="SHAREEXT@ DENZ TV",WARNER TV
+http://203.77.246.58:4500/udp/239.1.2.156:5000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/Star Movies HD.png" group-title="SHAREEXT@ DENZ TV",STAR MOVIES
+http://51.89.166.17:3002/index.php?id=starmovies_raj
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/好萊塢電影台.png" group-title="SHAREEXT@ DENZ TV",HOLLYWOOD MOVIES
+http://51.89.166.17:3002/index.php?id=hollywoodmovies_twn
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/CATCHPLAY.png" group-title="SHAREEXT@ DENZ TV",CATCHPLAY
+http://51.89.166.17:3002/index.php?id=catchplay_twn
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/東森電影.png" group-title="SHAREEXT@ DENZ TV",ETTV MOVIES
+http://51.89.166.17:3002/index.php?id=ettvmovie
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/美亞電影.png" group-title="SHAREEXT@ DENZ TV",MEIYA MOVIES
+http://51.89.166.17:3002/index.php?id=meiyamovie_twn
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI" tvg-logo="https://mimipipi22.github.io/logo/nasional/rcti.jpg" group-title="SHAREEXT@ DENZ TV", RCTI
+http://203.77.246.58:4500/udp/239.1.3.80:5000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="MNCTV.id" tvg-name="MNCTV" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/mnctv.jpg" group-title="SHAREEXT@ DENZ TV",MNCTV
+http://203.77.246.58:4500/udp/239.1.3.78:5000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="GTV.id" tvg-name="GTV" tvg-logo="https://mimipipi22.github.io/logo/nasional/gtv.jpg" group-title="SHAREEXT@ DENZ TV",GTV
+http://203.77.246.58:4500/udp/239.1.3.68:5000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/sctv.jpg" group-title="SHAREEXT@ DENZ TV",SCTV (udp)
+http://203.77.246.58:4500/udp/239.1.1.108:5000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/indosiar.jpg" group-title="SHAREEXT@ DENZ TV",INDOSIAR DIGITAL (udp)
+http://203.77.246.58:4500/udp/239.1.1.110:5000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/transtv.jpg" group-title="SHAREEXT@ DENZ TV",TRANS TV (udp)
+http://203.77.246.58:4500/udp/239.1.2.218:5000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/antv.jpg" group-title="SHAREEXT@ DENZ TV",ANTV (udp)
+http://203.77.246.58:4500/udp/239.1.1.104:5000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/tvone.jpg" group-title="SHAREEXT@ DENZ TV",TVONE (udp)
+http://203.77.246.58:4500/udp/239.1.3.88:5000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/kompastv.jpg" group-title="SHAREEXT@ DENZ TV",KOMPAS TV (udp)
+http://203.77.246.58:4500/udp/239.1.1.6:5000
+#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/cctv2.png" group-title="SHAREEXT@ DENZ TV",Cctv 2
+http://203.77.246.58:4500/udp/239.1.2.166:5000
+#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/cctv10.png" group-title="SHAREEXT@ DENZ TV",CCTV 10
+http://203.77.246.58:4500/udp/239.1.2.170:5000
+#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/cctv11.png" group-title="SHAREEXT@ DENZ TV",CCTV 11
+http://203.77.246.58:4500/udp/239.1.2.172:5000
+#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/cctv12.png" group-title="SHAREEXT@ DENZ TV",CCTV 12
+http://203.77.246.58:4500/udp/239.1.2.174:5000
+#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/cctv13.png" group-title="SHAREEXT@ DENZ TV",CCTV 13
+http://203.77.246.58:4500/udp/239.1.2.178:5000
+#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/cctv14.png" group-title="SHAREEXT@ DENZ TV",CCTV 14
+http://203.77.246.58:4500/udp/239.1.2.180:5000
+#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/cctv17.png" group-title="SHAREEXT@ DENZ TV",CCTV 17
+http://203.77.246.58:4500/udp/239.1.2.168:5000
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ DENZ TV",Hgtv
+http://203.77.246.58:4500/udp/239.1.2.146:5000
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ DENZ TV",Cartoonito
+http://203.77.246.58:4500/udp/239.1.2.158:5000
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ DENZ TV",Discovery
+http://203.77.246.58:4500/udp/239.1.2.134:5000
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ DENZ TV",Animal Planet
+http://203.77.246.58:4500/udp/239.1.2.136:5000
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ DENZ TV",Tlc
+http://203.77.246.58:4500/udp/239.1.2.140:5000
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ DENZ TV",Afn
+http://203.77.246.58:4500/udp/239.1.2.138:5000
+
 #EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502977_tvchannels_v1.jpg" group-title="SHAREEXT@ DENZ TV", MY CINEMA EUROPA
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv

@@ -325,243 +325,6 @@ http://103.170.33.11:9981/stream/channelid/1874075905?profile=pass
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION",tvMu (Play.1)
 http://103.170.33.11:9981/stream/channelid/1992433020?profile=pass
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION",AFN (Play.2)
-http://103.66.62.83:8000/play/a042/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION",ANHUI (Play.2)
-http://103.66.62.83:8000/play/a04c/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION",ANIMAL PLANET (Play.2)
-http://103.66.62.83:8000/play/a02z/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION",ANIMAX (Play.2)
-http://103.66.62.83:8000/play/a02y/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION",ANIPLUS (Play.2)
-http://103.66.62.83:8000/play/a04l/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION",ANTV (Play.2)
-http://103.66.62.83:8000/play/a02k/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION",AXN (Play.2)
-http://103.66.62.83:8000/play/a01g/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION",BBC NEWS (Play.2)
-http://103.66.62.83:8000/play/a04v/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION",SPOTV HD (Play.2)
-http://103.66.62.83:8000/play/a036/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION",BIOSKOP INDONESIA (Play.2)
-http://103.66.62.83:8000/play/a04m/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION",BLOOMBERG (Play.2)
-http://103.66.62.83:8000/play/a041/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION",MOJI HD (Play.2)
-http://103.66.62.83:8000/play/a02q/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION",CCTV 10 (Play.2)
-http://103.66.62.83:8000/play/a04a/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION",CCTV 15 (Play.2)
-http://103.66.62.83:8000/play/a049/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION",CCTV 2 (Play.2)
-http://103.66.62.83:8000/play/a047/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION",CCTV 4 (Play.2)
-http://103.66.62.83:8000/play/a048/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION",CELESTIAL CLASSIC MOVIES (Play.2)
-http://103.66.62.83:8000/play/a03k/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION",CELESTIAL MOVIES (Play.2)
-http://103.66.62.83:8000/play/a03j/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION",CGTN DOC (Play.2)
-http://103.66.62.83:8000/play/a033/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION",CHANNEL-8 (SGP) (Play.2)
-http://103.66.62.83:8000/play/a004/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION",CHINESE DRAMA (Play.2)
-http://103.66.62.83:8000/play/a04h/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION",CINEMAX (Play.2)
-http://103.66.62.83:8000/play/a04g/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION",CNA (Play.2)
-http://103.66.62.83:8000/play/a04u/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION",CNBC INDO (Play.2)
-http://103.66.62.83:8000/play/a025/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION",CNN INDO (Play.2)
-http://103.66.62.83:8000/play/a024/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION",DAAI TV (Play.2)
-http://103.66.62.83:8000/play/a02p/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION",DISCOVERY CHANNEL (Play.2)
-http://103.66.62.83:8000/play/a030/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION",DISNEY (Play.2)
-http://103.66.62.83:8000/play/a02w/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION",DISNEY JR (Play.2)
-http://103.66.62.83:8000/play/a02x/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION",DREAMWORK (Play.2)
-http://103.66.62.83:8000/play/a04j/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION",FASHION TV (Play.2)
-http://103.66.62.83:8000/play/a04i/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION",FATWA (Play.2)
-http://103.66.62.83:8000/play/a04p/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION",FIGHT TV (Play.2)
-http://103.66.62.83:8000/play/a03d/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION",FLIK (Play.2)
-http://103.66.62.83:8000/play/a04q/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION",FORMOSA TV (Play.2)
-http://103.66.62.83:8000/play/a03x/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION",GALAXY (Play.2)
-http://103.66.62.83:8000/play/a03o/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION",GALAXY PREMIUM (Play.2)
-http://103.66.62.83:8000/play/a03p/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION",GTV (Play.2)
-http://103.66.62.83:8000/play/a02m/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION",HBO (Play.2)
-http://103.66.62.83:8000/play/a03e/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION",HBO FAMILY (Play.2)
-http://103.66.62.83:8000/play/a03f/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION",HBO HITS (Play.2)
-http://103.66.62.83:8000/play/a03h/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION",HITS (Play.2)
-http://103.66.62.83:8000/play/a040/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION",INDOSIAR (Play.2)
-http://103.66.62.83:8000/play/a001/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION",JAMBI-TV (Play.2)
-http://103.66.62.83:8000/play/a02h/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION",K+ (Play.2)
-http://103.66.62.83:8000/play/a03u/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION",KANGBA (Play.2)
-http://103.66.62.83:8000/play/a04b/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION",KBS WORLD (Play.2)
-http://103.66.62.83:8000/play/a03w/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION",KIX (Play.2)
-http://103.66.62.83:8000/play/a01d/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION",KOMPAS TV (Play.2)
-http://103.66.62.83:8000/play/a023/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION",Love Nature HD (Play.2)
-http://103.66.62.83:8000/play/a01l/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION",MAGNA (Play.2)
-http://103.66.62.83:8000/play/a026/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION",MD TV (Play.2)
-http://103.66.62.83:8000/play/a02j/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION",METRO TV (Play.2)
-http://103.66.62.83:8000/play/a02t/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION",MIC TV (Play.2)
-http://103.66.62.83:8000/play/a02b/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION",MKIDZ (Play.2)
-http://103.66.62.83:8000/play/a04k/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION",MNCTV-JBV (Play.2)
-http://103.66.62.83:8000/play/a062/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION",MNCTV (Play.2)
-http://103.66.62.83:8000/play/a02n/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION",MOJI (Play.2)
-http://103.66.62.83:8000/play/a065/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION",OUTDOOR (Play.2)
-http://103.66.62.83:8000/play/a04f/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION",NUSANTARA TV (Play.2)
-http://103.66.62.83:8000/play/a04t/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION",Nick Jr (Play.2)
-http://103.66.62.83:8000/play/a01e/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION",Nickelodeon (Play.2)
-http://103.66.62.83:8000/play/a01f/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION",PBS KIDS (Play.2)
-http://103.66.62.83:8000/play/a027/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION",PHOENIX CH (Play.2)
-http://103.66.62.83:8000/play/a044/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION",PHOENIX NEWS (Play.2)
-http://103.66.62.83:8000/play/a045/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION",QURAN TV (Play.2)
-http://103.66.62.83:8000/play/a02v/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION",RCTI (Play.2)
-http://103.66.62.83:8000/play/a02o/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION",REDBULL TV (Play.2)
-http://103.66.62.83:8000/play/a03c/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION",ROCK ACTION (Play.2)
-http://103.66.62.83:8000/play/a03n/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION",ROCK ENTERTAINMET (Play.2)
-http://103.66.62.83:8000/play/a03q/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION",RODJA TV (Play.2)
-http://103.66.62.83:8000/play/a02u/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION",RTV (Play.2)
-http://103.66.62.83:8000/play/a02l/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION",SCTV (Play.2)
-http://103.66.62.83:8000/play/a01t/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION",SICHUAN (Play.2)
-http://103.66.62.83:8000/play/a04e/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION",SONY ONE (Play.2)
-http://103.66.62.83:8000/play/a03z/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION",SPOTV (Play.2)
-http://103.66.62.83:8000/play/a034/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION",SPOTV 2 (Play.2)
-http://103.66.62.83:8000/play/a035/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION",THRILL (Play.2)
-http://103.66.62.83:8000/play/a03s/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION",TRANS 7 (Play.2)
-http://103.66.62.83:8000/play/a022/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION",TRANS TV (Play.2)
-http://103.66.62.83:8000/play/a020/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION",TV 9 NUSANTARA (Play.2)
-http://103.66.62.83:8000/play/a031/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION",TV ONE (Play.2)
-http://103.66.62.83:8000/play/a02s/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION",TVRI NASIONAL (Play.2)
-http://103.66.62.83:8000/play/a02r/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION",TVRI WORLD (Play.2)
-http://103.66.62.83:8000/play/a04s/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION",TVRI-JAMBI (Play.2)
-http://103.66.62.83:8000/play/a02i/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION",TVRI-SPORT (Play.2)
-http://103.66.62.83:8000/play/a00n/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION",TZU CHI (Play.2)
-http://103.66.62.83:8000/play/a032/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION",SCTV HD. (Play.2)
-http://103.66.62.83:8000/play/a068/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION",GTV HD. (Play.2)
-http://103.66.62.83:8000/play/a06h/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION",TRANSTV HD. (Play.2)
-http://103.66.62.83:8000/play/a06i/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION",MNCTV HD. (Play.2)
-http://103.66.62.83:8000/play/a06j/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION",RCTI HD. (Play.2)
-http://103.66.62.83:8000/play/a06k/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION",TRANS 7 HD. (Play.2)
-http://103.66.62.83:8000/play/a06l/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION",KOMPASTV HD. (Play.2)
-http://103.66.62.83:8000/play/a06m/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION",TVONE HD. (Play.2)
-http://103.66.62.83:8000/play/a06n/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION",ANTV HD. (Play.2)
-http://103.66.62.83:8000/play/a06o/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION",TVRI HD. (Play.2)
-http://103.66.62.83:8000/play/a06p/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION",TVRI WORLD. (Play.2)
-http://103.66.62.83:8000/play/a06q/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION",INDOSIAR HD. (Play.2)
-http://103.66.62.83:8000/play/a069/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION",TVRI SPORTS HD. (Play.2)
-http://103.66.62.83:8000/play/a06r/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION",TVRI JAMBI. (Play.2)
-http://103.66.62.83:8000/play/a06s/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION",JAMBITV HD. (Play.2)
-http://103.66.62.83:8000/play/a06t/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION",MDTV HD. (Play.2)
-http://103.66.62.83:8000/play/a06u/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION",RTV HD. (Play.2)
-http://103.66.62.83:8000/play/a06v/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION",MOJI.HD. (Play.2)
-http://103.66.62.83:8000/play/a06a/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION",MENTARI.HD. (Play.2)
-http://103.66.62.83:8000/play/a06b/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION",METROTV.HD. (Play.2)
-http://103.66.62.83:8000/play/a06c/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION",CNBC.HD. (Play.2)
-http://103.66.62.83:8000/play/a06d/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION",CCN.HD. (Play.2)
-http://103.66.62.83:8000/play/a06e/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION",INEWS.HD. (Play.2)
-http://103.66.62.83:8000/play/a06f/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION",VTV.HD. (Play.2)
-http://103.66.62.83:8000/play/a06g/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION",WB (Play.2)
-http://103.66.62.83:8000/play/a03t/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION",WORLD FISHING-SPORT (Play.2)
-http://103.66.62.83:8000/play/a03b/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION",ZEE BIOSKOP (Play.2)
-http://103.66.62.83:8000/play/a04n/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION",ZHEJIANG (Play.2)
-http://103.66.62.83:8000/play/a04d/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION",ZooMoo (Play.2)
-http://103.66.62.83:8000/play/a01j/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION",tvN (Play.2)
-http://103.66.62.83:8000/play/a00z/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION",tvN MOVIES (Play.2)
-http://103.66.62.83:8000/play/a03i/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION",HBO (ID)
 http://aromatv.co/live/Enjy3637/4JFEBAs359/444177.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION",HBO HITS (ID)
@@ -644,6 +407,17 @@ http://aromatv.co/live/Enjy3637/4JFEBAs359/444176.ts
 
 
 
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://c.dlnws.com/image/upload/c_limit,f_auto,q_auto,w_1800/v1503592425/Blog/HBO_2.jpg" group-title="SHAREEXT@ DENZ TV",HBO (cubmu)
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -684,6 +458,17 @@ https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
  
+#EXTINF:-1 tvg-logo="https://c.dlnws.com/image/upload/c_limit,f_auto,q_auto,w_1800/v1503592425/Blog/HBO_2.jpg" group-title="SHAREEXT@ DENZ TV", HBO (id)
+https://s.id/Shareext_hbo-m3u8
+#EXTINF:-1 tvg-logo="https://vmp-cms.telkomsel.com/sites/default/files/entry/0_v0ahj8gp/banner_hdpi.jpg" group-title="SHAREEXT@ DENZ TV", Hbo Family (id)
+https://s.id/Shareext_hbofamily-m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYRrgJyVxiORjqkL9Wo_HBGNHI6CTWAMtMeQ&s" group-title="SHAREEXT@ DENZ TV", Hbo Hits (id)
+https://s.id/Shareext_hbohits-m3u8
+#EXTINF:-1 tvg-logo="https://assets.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/2022/08/02/169353198.jpg" group-title="SHAREEXT@ DENZ TV", Hbo Signature (id)
+https://s.id/Shareext_hbosig-m3u8
+#EXTINF:-1 tvg-id="GALAXYPremium.id" tvg-name="GALAXY Premium.id" tvg-logo="https://mimipipi22.github.io/logo/movies/galaxypremium.jpg" group-title="SHAREEXT@ DENZ TV", Galaxy Premium (id)
+https://s.id/Shareext_galaxypremium-m3u8
+
 #EXTINF:-1 tvg-id="tvNMovies.id" tvg-name="tvN Movies" tvg-logo="https://mimipipi22.github.io/logo/movies/tvnmovies.jpg" group-title="SHAREEXT@ DENZ TV",TVN 
 http://203.77.246.58:4500/udp/239.1.3.64:5000
 #EXTINF:-1 tvg-id="tvNMovies.id" tvg-name="tvN Movies" tvg-logo="https://mimipipi22.github.io/logo/movies/tvnmovies.jpg" group-title="SHAREEXT@ DENZ TV",TVN MOVIES 

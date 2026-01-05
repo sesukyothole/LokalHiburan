@@ -18,6 +18,36 @@ http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8|user-agent=Mozilla/5.0 (W
 https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/trans%207.png" group-title="Shareext@LOKAL_ID",TRANS7_dt
 https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TRANS TV" tvg-logo="https://tv.cic.net.id/uploads/TRANSTV.png" group-title="Shareext@LOKAL_ID",TRANS TV (K7)
+http://iptv.kilas7.com:80/kaukia/asdfrewq/3
+#EXTINF:-1 tvg-id="" tvg-name="TRANS 7" tvg-logo="https://tv.cic.net.id/uploads/TRANS7.png" group-title="Shareext@LOKAL_ID",TRANS 7 (K7)
+http://iptv.kilas7.com:80/kaukia/asdfrewq/4
+#EXTINF:-1 tvg-id="" tvg-name="TV ONE" tvg-logo="https://tv.cic.net.id/uploads/TVONE_TV.png" group-title="Shareext@LOKAL_ID",TV ONE (K7)
+http://iptv.kilas7.com:80/kaukia/asdfrewq/5
+#EXTINF:-1 tvg-id="" tvg-name="METRO TV" tvg-logo="https://tv.cic.net.id/uploads/METRO.png" group-title="Shareext@LOKAL_ID",METRO TV (K7)
+http://iptv.kilas7.com:80/kaukia/asdfrewq/6
+#EXTINF:-1 tvg-id="" tvg-name="ANTV" tvg-logo="https://tv.cic.net.id/uploads/AN_TV.png" group-title="Shareext@LOKAL_ID",ANTV (K7)
+http://iptv.kilas7.com:80/kaukia/asdfrewq/7
+#EXTINF:-1 tvg-id="" tvg-name="TVRI" tvg-logo="https://tv.cic.net.id/uploads/TV_RI.png" group-title="Shareext@LOKAL_ID",TVRI (K7)
+http://iptv.kilas7.com:80/kaukia/asdfrewq/8
+#EXTINF:-1 tvg-id="" tvg-name="KOMPAS TV" tvg-logo="https://tv.cic.net.id/uploads/KOMPAS.png" group-title="Shareext@LOKAL_ID",KOMPAS TV (K7)
+http://iptv.kilas7.com:80/kaukia/asdfrewq/10
+#EXTINF:-1 tvg-id="" tvg-name="DA AI" tvg-logo="https://tv.cic.net.id/uploads/DAAI.png" group-title="Shareext@LOKAL_ID",DA AI (K7)
+http://iptv.kilas7.com:80/kaukia/asdfrewq/11
+#EXTINF:-1 tvg-id="" tvg-name="CNN INDONESIA" tvg-logo="https://tv.cic.net.id/uploads/CNN_INDO.png" group-title="Shareext@LOKAL_ID",CNN INDONESIA (K7)
+http://iptv.kilas7.com:80/kaukia/asdfrewq/12
+#EXTINF:-1 tvg-id="" tvg-name="CNBC INDONESIA" tvg-logo="https://tv.cic.net.id/uploads/CNBC.png" group-title="Shareext@LOKAL_ID",CNBC INDONESIA (K7)
+http://iptv.kilas7.com:80/kaukia/asdfrewq/13
+#EXTINF:-1 tvg-id="" tvg-name="NET TV" tvg-logo="https://tv.cic.net.id/uploads/NET.png" group-title="Shareext@LOKAL_ID",NET TV (K7)
+http://iptv.kilas7.com:80/kaukia/asdfrewq/14
+#EXTINF:-1 tvg-id="" tvg-name="RRI-NET" tvg-logo="https://tv.cic.net.id/uploads/RRINET.png" group-title="Shareext@LOKAL_ID",RRI-NET (K7)
+http://iptv.kilas7.com:80/kaukia/asdfrewq/15
+#EXTINF:-1 tvg-id="" tvg-name="KILAS 7" tvg-logo="https://tv.cic.net.id/uploads/KILAS7.png" group-title="Shareext@LOKAL_ID",KILAS 7 (K7)
+http://iptv.kilas7.com:80/kaukia/asdfrewq/16
+#EXTINF:-1 tvg-id="" tvg-name="PBTV" tvg-logo="https://tv.cic.net.id/uploads/PB_TV.png" group-title="Shareext@LOKAL_ID",PBTV (K7)
+http://iptv.kilas7.com:80/kaukia/asdfrewq/17
+
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/gtv.png" group-title="Shareext@LOKAL_ID", GTV+(2023)
 https://allcutv.rctiplus.id/gtv2023.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/qjg9wCC/mnctv.png" group-title="Shareext@LOKAL_ID", MNCTV+(2023)
@@ -370,7 +400,17 @@ https://fta1-cdn-flr.visionplus.id/out/v1/6dc5412d26ea4e65961c825d866f2a34/index
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5 
 #EXTINF:-1 tvg-id="tvN.id" tvg-name="tvN" tvg-logo="https://mimipipi22.github.io/logo/entertainment/tvn.jpg" group-title="SHAREEXT@ DENZ TV",TVN (CBM) 
 https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c6857e04fca5017e9052a68542f9/manifest.mpd 
- 
+
+#EXTINF:-1 tvg-id="ONE.id" tvg-name="ONE" tvg-logo="https://mimipipi22.github.io/logo/entertainment/one.jpg" group-title="SHAREEXT@ DENZ TV",ONE (cas)
+http://tv.casindo.org/hls/37/37.m3u8
+#EXTINF:-1 tvg-id="tvN.id" tvg-name="tvN" tvg-logo="https://mimipipi22.github.io/logo/entertainment/tvn.jpg" group-title="SHAREEXT@ DENZ TV",TVN (cas)
+http://tv.casindo.org/hls/72/72.m3u8
+#EXTINF:-1 tvg-id="tvNMovies.id" tvg-name="tvN Movies" tvg-logo="https://mimipipi22.github.io/logo/movies/tvnmovies.jpg" group-title="SHAREEXT@ DENZ TV",TVN.MOVIES (cas)
+http://tv.casindo.org/hls/73/73.m3u8
+#EXTINF:-1 tvg-id="Kplus.id" tvg-name="Kplus.id" tvg-logo="https://mimipipi22.github.io/logo/entertainment/kplus.jpg" group-title="SHAREEXT@ DENZ TV",K.PLUS (cas)
+http://tv.casindo.org/hls/83/83.m3u8
+#EXTINF:-1 tvg-id="tvN.id" tvg-name="tvN" tvg-logo="https://mimipipi22.github.io/logo/entertainment/tvn.jpg" group-title="SHAREEXT@ DENZ TV",TVN (udp)
+http://202.169.224.202:8800/udp/239.9.1.20:1234
 #EXTINF:-1 tvg-id="tvN.id" tvg-name="tvN" tvg-logo="https://mimipipi22.github.io/logo/entertainment/tvn.jpg" group-title="SHAREEXT@ DENZ TV",TVN (🇵🇭) 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
@@ -381,7 +421,7 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_tvnpre/default/index.mp
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=be886ebe45024d4b80110269211b3adb:91b1858f34ece95c8377366fb87d99c4 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like
 #EXTINF:-1 tvg-id="ONE.id" tvg-name="ONE" tvg-logo="https://mimipipi22.github.io/logo/entertainment/one.jpg" group-title="SHAREEXT@ DENZ TV",ONE (VS+) 
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/9ec31bcce34848d69d4771270ff23ab9/index.mpd 
 
@@ -3271,6 +3311,76 @@ https://catholictvhd-lh.akamaized.net/hls/live/2043390/CTVLiveHD/playlist_1.m3u8
 
 
 
+
+
+#EXTINF:-1 tvg-id="" tvg-name="TV 1 MALAYSIA" tvg-logo="https://tv.cic.net.id/uploads/TV1_MY.png" group-title="SHAREEXT@Television/MY/ASTRO",TV 1 (K7)
+http://iptv.kilas7.com:80/kaukia/asdfrewq/24
+#EXTINF:-1 tvg-id="" tvg-name="TV 2 MALAYSIA" tvg-logo="https://tv.cic.net.id/uploads/TV2_MY.png" group-title="SHAREEXT@Television/MY/ASTRO",TV 2 (K7)
+http://iptv.kilas7.com:80/kaukia/asdfrewq/25
+#EXTINF:-1 tvg-id="" tvg-name="TV 3 MALAYSIA" tvg-logo="https://tv.cic.net.id/uploads/TV3.png" group-title="SHAREEXT@Television/MY/ASTRO",TV 3 (K7)
+http://live.catvod.com/live.php?id=TV3_mega
+#http://iptv.kilas7.com:80/kaukia/asdfrewq/26
+#EXTINF:-1 tvg-id="" tvg-name="TV 7 MALAYSIA" tvg-logo="https://tv.cic.net.id/uploads/TV7_MY.png" group-title="SHAREEXT@Television/MY/ASTRO",TV 7 (K7)
+http://iptv.kilas7.com:80/kaukia/asdfrewq/27
+#EXTINF:-1 tvg-id="" tvg-name="TV 8 MALAYSIA" tvg-logo="https://tv.cic.net.id/uploads/TV8.png" group-title="SHAREEXT@Television/MY/ASTRO",TV 8 (K7)
+http://iptv.kilas7.com:80/kaukia/asdfrewq/28
+#EXTINF:-1 tvg-id="" tvg-name="TV 9 MALAYSIA" tvg-logo="https://tv.cic.net.id/uploads/TV9_MY.png" group-title="SHAREEXT@Television/MY/ASTRO",TV 9 (K7)
+http://iptv.kilas7.com:80/kaukia/asdfrewq/29
+#EXTINF:-1 tvg-id="" tvg-name="RTM BERITA" tvg-logo="https://tv.cic.net.id/uploads/RTM_NEWS_MY.png" group-title="SHAREEXT@Television/MY/ASTRO",RTM BERITA (K7)
+http://iptv.kilas7.com:80/kaukia/asdfrewq/30
+#EXTINF:-1 tvg-id="" tvg-name="RTM SPORT" tvg-logo="https://tv.cic.net.id/uploads/RTM_SPORT_MY.png" group-title="SHAREEXT@Television/MY/ASTRO",RTM SPORT(K7)
+http://iptv.kilas7.com:80/kaukia/asdfrewq/31
+#EXTINF:-1 tvg-id="" tvg-name="OKEY TV" tvg-logo="https://tv.cic.net.id/uploads/TV_OKEY_MY.png" group-title="SHAREEXT@Television/MY/ASTRO",OKEY TV(K7)
+http://iptv.kilas7.com:80/kaukia/asdfrewq/32
+#EXTINF:-1 tvg-id="" tvg-name="TV ALHIJRAH" tvg-logo="https://tv.cic.net.id/uploads/ALHIJRAH_MY.png" group-title="SHAREEXT@Television/MY/ASTRO",TV ALHIJRAH (K7)
+http://iptv.kilas7.com:80/kaukia/asdfrewq/33
+#EXTINF:-1 tvg-id="" tvg-name="BERNAMA TV" tvg-logo="https://tv.cic.net.id/uploads/BERNAMA_MY.png" group-title="SHAREEXT@Television/MY/ASTRO",BERNAMA TV (K7)
+http://iptv.kilas7.com:80/kaukia/asdfrewq/34
+#EXTINF:-1 tvg-id="" tvg-name="BETV" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO",BETV (K7)
+http://iptv.kilas7.com:80/kaukia/asdfrewq/263
+#EXTINF:-1 tvg-id="" tvg-name="RBTV" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO",RBTV (K7)
+http://iptv.kilas7.com:80/kaukia/asdfrewq/264
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png" group-title="SHAREEXT@Television/MY/ASTRO", Citra (php)
+http://live.catvod.com/live.php?id=Citra 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/400_144.png" group-title="SHAREEXT@Television/MY/ASTRO",Aura (php)
+http://live.catvod.com/live.php?id=Aura
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/401_144.png" group-title="SHAREEXT@Television/MY/ASTRO",Rania (php)
+http://live.catvod.com/live.php?id=Rania 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/315_144.png" group-title="SHAREEXT@Television/MY/ASTRO",Oasis (php)
+http://live.catvod.com/live.php?id=Oasis 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/386_144.png" group-title="SHAREEXT@Television/MY/ASTRO",Ceria (php)
+http://live.catvod.com/live.php?id=Ceria 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png" group-title="SHAREEXT@Television/MY/ASTRO",Ria (php)
+http://live.catvod.com/live.php?id=Ria-0 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png" group-title="SHAREEXT@Television/MY/ASTRO",Prima (php)
+http://live.catvod.com/live.php?id=Prima-0 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Astro_Sensasi_%28Dec_2024%29.png" group-title="SHAREEXT@Television/MY/ASTRO",Sensasi (php)
+http://live.catvod.com/live.php?id=Sensasi
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" group-title="SHAREEXT@Television/MY/ASTRO",TV3 
+http://link.zozotv.xyz:8080/live/ZZA21216/zxe36880/17.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/182_144.png" group-title="SHAREEXT@Television/MY/ASTRO",AEC (php)
+http://smt.1678520.xyz/smt3.2.1.php?id=AEC 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/172_144.png" group-title="SHAREEXT@Television/MY/ASTRO",AOD (php)
+http://smt.1678520.xyz/smt3.2.1.php?id=Aodhd 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/162_144.png" group-title="SHAREEXT@Television/MY/ASTRO",Hua Hee (php)
+http://smt.1678520.xyz/smt3.2.1.php?id=Huahee 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/158_144.png" group-title="SHAREEXT@Television/MY/ASTRO",QJ (php)
+http://smt.1678520.xyz/smt3.2.1.php?id=Quanjia 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/203_144.png" group-title="SHAREEXT@Television/MY/ASTRO",TVB Jade (php)
+http://smt.1678520.xyz/smt3.2.1.php?id=Tvbjade 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/427_144.png" group-title="SHAREEXT@Television/MY/ASTRO",TVB Entertainment (php)
+http://smt.1678520.xyz/smt3.2.1.php?id=Tvbentertainment 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/425_144.png" group-title="SHAREEXT@Television/MY/ASTRO",TVBClassic (php)
+http://smt.1678520.xyz/smt3.2.1.php?id=Tvbclassic 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/383_144.png" group-title="SHAREEXT@Television/MY/ASTRO",Xing He (php)
+http://smt.1678520.xyz/smt3.2.1.php?id=Xinhe 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/355_144.png" group-title="SHAREEXT@Television/MY/ASTRO",Qiyi (php)
+http://smt.1678520.xyz/smt3.2.1.php?id=Qiyi 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/454_144.png" group-title="SHAREEXT@Television/MY/ASTRO",Showcase (php)
+http://live.catvod.com/live.php?id=Showcase
+
 #EXTINF:-1 group-title="SHAREEXT@Television/MY/ASTRO" tvg-id="101.astro" tvg-logo="https://pictr.com/images/2025/01/14/x1tW45.png",TV1_mpd
 #KODIPROP:contentlookup=False
 #KODIPROP:inputstream=inputstream.adaptive
@@ -4052,7 +4162,68 @@ http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 
 
 
-
+#EXTINF:-1 tvg-id="" tvg-name="CHANNEL NEWS ASIA" tvg-logo="https://tv.cic.net.id/uploads/CNA.png" group-title="SHAREEXT@SINGSPORE_Brunei_Station",CHANNEL NEWS ASIA (K7)
+http://iptv.kilas7.com:80/kaukia/asdfrewq/18
+#EXTINF:-1 tvg-id="" tvg-name="CHANNEL 8" tvg-logo="https://tv.cic.net.id/uploads/CHANNEL_8_HD.png" group-title="SHAREEXT@SINGSPORE_Brunei_Station",CHANNEL 8 (K7)
+http://iptv.kilas7.com:80/kaukia/asdfrewq/19
+#EXTINF:-1 tvg-id="" tvg-name="VASHANTAM" tvg-logo="https://tv.cic.net.id/uploads/VAS.png" group-title="SHAREEXT@SINGSPORE_Brunei_Station",VASHANTAM (K7)
+http://iptv.kilas7.com:80/kaukia/asdfrewq/20
+#EXTINF:-1 tvg-id="" tvg-name="CHANNEL U" tvg-logo="https://tv.cic.net.id/uploads/CHANNEL_U.png" group-title="SHAREEXT@SINGSPORE_Brunei_Station",CHANNEL U(K7)
+http://iptv.kilas7.com:80/kaukia/asdfrewq/21
+#EXTINF:-1 tvg-id="" tvg-name="CHANNEL 5" tvg-logo="https://tv.cic.net.id/uploads/CHANNEL_5_HD.png" group-title="SHAREEXT@SINGSPORE_Brunei_Station",CHANNEL 5(K7)
+http://iptv.kilas7.com:80/kaukia/asdfrewq/22
+#EXTINF:-1 tvg-id="" tvg-name="SURIA" tvg-logo="https://tv.cic.net.id/uploads/SURIA_HD.png" group-title="SHAREEXT@SINGSPORE_Brunei_Station",SURIA (K7)
+http://iptv.kilas7.com:80/kaukia/asdfrewq/23
+#EXTINF:-1 tvg-id="" tvg-name="PHOENIX INFONEWS" tvg-logo="https://tv.cic.net.id/uploads/PHOENIX_INFO.png" group-title="SHAREEXT@SINGSPORE_Brunei_Station",PHOENIX INFONEWS (K7)
+http://iptv.kilas7.com:80/kaukia/asdfrewq/35
+#EXTINF:-1 tvg-id="" tvg-name="PHOENIX CHINESE" tvg-logo="https://tv.cic.net.id/uploads/PHOENIX_CH.png" group-title="SHAREEXT@SINGSPORE_Brunei_Station",PHOENIX CHINESE (K7)
+http://iptv.kilas7.com:80/kaukia/asdfrewq/36
+#EXTINF:-1 tvg-id="" tvg-name="PHOENIX HONGKONG" tvg-logo="https://tv.cic.net.id/uploads/PHOENIX_HK.png" group-title="SHAREEXT@SINGSPORE_Brunei_Station",PHOENIX HONGKONG (K7)
+http://iptv.kilas7.com:80/kaukia/asdfrewq/37
+#EXTINF:-1 tvg-id="" tvg-name="XING KONG" tvg-logo="https://tv.cic.net.id/uploads/XINGKONG.png" group-title="SHAREEXT@SINGSPORE_Brunei_Station",XING KONG(K7)
+http://iptv.kilas7.com:80/kaukia/asdfrewq/38
+#EXTINF:-1 tvg-id="" tvg-name="CHANNEL V CHINA" tvg-logo="https://tv.cic.net.id/uploads/CHANNEL-V.png" group-title="SHAREEXT@SINGSPORE_Brunei_Station",CHANNEL V CHINA (K7)
+http://iptv.kilas7.com:80/kaukia/asdfrewq/39
+#EXTINF:-1 tvg-id="" tvg-name="CCTV 4" tvg-logo="https://tv.cic.net.id/uploads/CCTV-4.png" group-title="SHAREEXT@SINGSPORE_Brunei_Station",CCTV 4 (K7)
+http://iptv.kilas7.com:80/kaukia/asdfrewq/40
+#EXTINF:-1 tvg-id="" tvg-name="CGTN" tvg-logo="https://tv.cic.net.id/uploads/CGTN.png" group-title="SHAREEXT@SINGSPORE_Brunei_Station",CGTN (K7)
+http://iptv.kilas7.com:80/kaukia/asdfrewq/41
+#EXTINF:-1 tvg-id="" tvg-name="CGTN DOCUMENTARY" tvg-logo="https://tv.cic.net.id/uploads/CGTN_DOCUMENTARY.png" group-title="SHAREEXT@SINGSPORE_Brunei_Station",CGTN DOCUMENTARY (K7)
+http://iptv.kilas7.com:80/kaukia/asdfrewq/42
+#EXTINF:-1 tvg-id="" tvg-name="ZHE JIANG" tvg-logo="https://tv.cic.net.id/uploads/ZHEJIANG.png" group-title="SHAREEXT@SINGSPORE_Brunei_Station",ZHE JIANG(K7)
+http://iptv.kilas7.com:80/kaukia/asdfrewq/43
+#EXTINF:-1 tvg-id="" tvg-name="ARIRANG" tvg-logo="https://tv.cic.net.id/uploads/ARIRANG_TV.png" group-title="SHAREEXT@SINGSPORE_Brunei_Station",ARIRANG (K7)
+http://iptv.kilas7.com:80/kaukia/asdfrewq/44
+#EXTINF:-1 tvg-id="" tvg-name="TV 5 MONDE" tvg-logo="https://tv.cic.net.id/uploads/TV5MONDE.png" group-title="SHAREEXT@SINGSPORE_Brunei_Station",TV 5 MONDE (K7)
+http://iptv.kilas7.com:80/kaukia/asdfrewq/45
+#EXTINF:-1 tvg-id="" tvg-name="ALJAZEERA" tvg-logo="https://tv.cic.net.id/uploads/ALJAZEERA.png" group-title="SHAREEXT@SINGSPORE_Brunei_Station",ALJAZEERA(K7)
+http://iptv.kilas7.com:80/kaukia/asdfrewq/46
+#EXTINF:-1 tvg-id="" tvg-name="DW" tvg-logo="https://tv.cic.net.id/uploads/DW.png" group-title="SHAREEXT@SINGSPORE_Brunei_Station",DW (K7)
+http://iptv.kilas7.com:80/kaukia/asdfrewq/47
+#EXTINF:-1 tvg-id="" tvg-name="RUSSIA TODAY" tvg-logo="https://tv.cic.net.id/uploads/RUSSIA_TODAY.png" group-title="SHAREEXT@SINGSPORE_Brunei_Station",RUSSIA TODAY (K7)
+http://iptv.kilas7.com:80/kaukia/asdfrewq/48
+#EXTINF:-1 tvg-id="" tvg-name="NHK WORLD" tvg-logo="https://tv.cic.net.id/uploads/NHK_WORLD.png" group-title="SHAREEXT@SINGSPORE_Brunei_Station",NHK WORLD(K7)
+http://iptv.kilas7.com:80/kaukia/asdfrewq/49
+#EXTINF:-1 tvg-id="" tvg-name="FASHION TV" tvg-logo="https://tv.cic.net.id/uploads/FASHION_TV_HD.png" group-title="SHAREEXT@SINGSPORE_Brunei_Station",FASHION TV (K7)
+http://iptv.kilas7.com:80/kaukia/asdfrewq/50
+#EXTINF:-1 tvg-id="" tvg-name="TOONMAX" tvg-logo="https://tv.cic.net.id/uploads/TOONMAX_TV.png" group-title="SHAREEXT@SINGSPORE_Brunei_Station",TOONMAX (K7)
+http://iptv.kilas7.com:80/kaukia/asdfrewq/71
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON TV" tvg-logo="https://tv.cic.net.id/uploads/DONGFANG_TV.png" group-title="SHAREEXT@SINGSPORE_Brunei_Station",DRAGON TV(K7)
+http://iptv.kilas7.com:80/kaukia/asdfrewq/72
+#EXTINF:-1 tvg-id="" tvg-name="HUNAN TV" tvg-logo="https://tv.cic.net.id/uploads/HUNAN.png" group-title="SHAREEXT@SINGSPORE_Brunei_Station",HUNAN TV (K7)
+http://iptv.kilas7.com:80/kaukia/asdfrewq/82
+#EXTINF:-1 tvg-id="" tvg-name="GOLDEN EAGLE CARTOON" tvg-logo="https://tv.cic.net.id/uploads/GOLDEN-EAGLE.png" group-title="SHAREEXT@SINGSPORE_Brunei_Station",GOLDEN EAGLE CARTOON (K7)
+http://iptv.kilas7.com:80/kaukia/asdfrewq/83
+#EXTINF:-1 tvg-id="" tvg-name="CCTV 11" tvg-logo="https://tv.cic.net.id/uploads/CCTV-11.png" group-title="SHAREEXT@SINGSPORE_Brunei_Station",CCTV 11 (K7)
+http://iptv.kilas7.com:80/kaukia/asdfrewq/89
+#EXTINF:-1 tvg-id="" tvg-name="CCTV 15" tvg-logo="https://tv.cic.net.id/uploads/CCTV-15.png" group-title="SHAREEXT@SINGSPORE_Brunei_Station",CCTV 15 (K7)
+http://iptv.kilas7.com:80/kaukia/asdfrewq/90
+#EXTINF:-1 tvg-id="" tvg-name="CCTV 13" tvg-logo="https://tv.cic.net.id/uploads/CCTV-13.png" group-title="SHAREEXT@SINGSPORE_Brunei_Station",CCTV 13 (K7)
+http://iptv.kilas7.com:80/kaukia/asdfrewq/91
+#EXTINF:-1 tvg-id="" tvg-name="ABC News" tvg-logo="https://tv.cic.net.id/uploads/abc-news.png" group-title="SHAREEXT@SINGSPORE_Brunei_Station",ABC News(K7)
+http://iptv.kilas7.com:80/kaukia/asdfrewq/94
+#EXTINF:-1 tvg-id="" tvg-name="bloomberg" tvg-logo="https://tv.cic.net.id/uploads/BLOOMBERG.png" group-title="SHAREEXT@SINGSPORE_Brunei_Station",bloomberg(K7)
+http://iptv.kilas7.com:80/kaukia/asdfrewq/96
 
 #EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-logo="https://pictr.com/images/2025/02/23/xLe03l.png" group-title="SHAREEXT@SINGSPORE_Brunei_Station", Mediacorp Entertainment English_MPD(ott.navigator)
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-english/manifest.m3u8

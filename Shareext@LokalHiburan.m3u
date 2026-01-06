@@ -199,7 +199,8 @@ https://hgmtv.com:19360/garudatvlivestreaming/1080p.m3u8
 https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
 
 
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ PLAYLISTTV || INDONESIA",SPOTV
+http://tv.casindo.org/hls/15/15.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ PLAYLISTTV || INDONESIA",SPOTV 2
 http://tv.casindo.org/hls/86/86.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ PLAYLISTTV || INDONESIA",VOLI TV
@@ -210,8 +211,6 @@ http://tv.casindo.org/hls/49/49.m3u8
 http://tv.casindo.org/hls/25/25.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ PLAYLISTTV || INDONESIA",Motor Sports
 http://tv.casindo.org/hls/24/24.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ PLAYLISTTV || INDONESIA",Motor GP
-http://tv.casindo.org/hls/15/15.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ PLAYLISTTV || INDONESIA",Fight Sports
 http://tv.casindo.org/hls/16/16.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ PLAYLISTTV || INDONESIA",W SPORTS

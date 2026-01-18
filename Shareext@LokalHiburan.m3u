@@ -202,7 +202,60 @@ https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
 
 
 
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION", TVRI National (php)
+http://96.44.160.246:9999/smt.php?id=TVRI
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION", RCTI (php)
+http://96.44.160.246:9999/smt.php?id=Rcti
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION", Kompass TV (php)
+http://96.44.160.246:9999/smt.php?id=Kompass
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION", Berita Satu (php)
+http://96.44.160.246:9999/smt.php?id=BeritaSatu_eko
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION", Indosiar HD (php)
+http://96.44.160.246:9999/smt.php?id=Indosiar
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION", AnTV (php)
+http://96.44.160.246:9999/smt.php?id=Antv
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION", MNC TV (php)
+http://96.44.160.246:9999/smt.php?id=Mnctv
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION", Trans 7 (php)
+http://96.44.160.246:9999/smt.php?id=Trans7_eko
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION", Transtv (php)
+http://96.44.160.246:9999/smt.php?id=Transtv
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION", JTV (php)
+http://96.44.160.246:9999/smt.php?id=JTV_eko
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION", Metro TV (php)
+http://96.44.160.246:9999/smt.php?id=metrotv_eko
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION", SCTV (php)
+http://96.44.160.246:9999/smt.php?id=SCTV
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION", Tvone (php)
+http://96.44.160.246:9999/smt.php?id=Tvone
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION", TVMU (php)
+http://96.44.160.246:9999/smt.php?id=TVMU_eko
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION", GTV (php)
+http://96.44.160.246:9999/smt.php?id=Gtv
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION", RTV (php)
+http://96.44.160.246:9999/smt.php?id=Rtv
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION", Jak TV (php)
+http://96.44.160.246:9999/smt.php?id=JakTV
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION", iNews TV (php)
+http://96.44.160.246:9999/smt.php?id=Inewstv
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION", Daai TV (php)
+http://96.44.160.246:9999/smt.php?id=DaaiTV
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION", Net TV (php)
+http://96.44.160.246:9999/smt.php?id=NetTV
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION", EWTN (php)
+http://96.44.160.246:9999/smt.php?id=Ewtn
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION", Tawaf TV (php)
+http://96.44.160.246:9999/smt.php?id=TawafTV
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION", Vision Prime (php)
+http://96.44.160.246:9999/smt.php?id=VisionPrime
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION", Muslim TV (php)
+http://96.44.160.246:9999/smt.php?id=MuslimTV
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION", Music TV (php)
+http://96.44.160.246:9999/smt.php?id=MusicTV
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION", Lifestyle&amp;Fashion (php)
+http://96.44.160.246:9999/smt.php?id=Lifestyle
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION", Sun TV HD (php)
+http://96.44.160.246:9999/smt.php?id=Suntv
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION", Indosiar (udp)
 http://202.169.224.202:8800/udp/239.9.1.25:1234
@@ -2278,6 +2331,81 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/daaitv/manifest.mpd
 
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7Y5LPGd/HBOshare-Ext-Group.jpg" group-title="Shareext@MOVIES",缇庝簹鐢靛奖(MeiyaMovie_twn)
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=meiyamovie_twn
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@ MOVIES",AOD_MY
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Aodhd
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@ MOVIES",AEC_MY
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=AEC
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@ MOVIES",Qiyi_MY(鐖卞鑹�)
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Qiyi
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@ MOVIES",QJ_MY
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Quanjia
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@ MOVIES",HuaHeeTai_MY(娆㈠枩鍙�)
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Huahee
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@ MOVIES",TV8_MY(鍏害绌洪棿)
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=TV8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@ MOVIES",TVB PLUS_twn
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=j2_twn
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@ MOVIES",XinHe_MY(TVB鏄熸渤)
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Xinhe
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@ MOVIES",TVB Classic_MY(鍗冪Η缁忓吀鍙�)
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Tvbclassic
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@ MOVIES",TVB Entertain_MY(濞变箰鏂伴椈鍙�)
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Tvbentertainment
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ MOVIES", Animax (php)
+http://96.44.160.246:9999/smt.php?id=Animax 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ MOVIES", Kplus (php)
+http://96.44.160.246:9999/smt.php?id=Kplus 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ MOVIES", Axn HD (php)
+http://96.44.160.246:9999/smt.php?id=Axn 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ MOVIES", Celestial Classic (php)
+http://96.44.160.246:9999/smt.php?id=Celestial2
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ MOVIES", Celestial Movies HD (php)
+http://96.44.160.246:9999/smt.php?id=Celestialindo
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7Y5LPGd/HBOshare-Ext-Group.jpg" group-title="SHAREEXT@ MOVIES", Cinemax (php)
+http://96.44.160.246:9999/smt.php?id=Cinemax
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ MOVIES", Dreamworks (php)
+http://96.44.160.246:9999/smt.php?id=Dreamworks 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7Y5LPGd/HBOshare-Ext-Group.jpg" group-title="SHAREEXT@ MOVIES", HBO HD (php)
+http://96.44.160.246:9999/smt.php?id=Hbo 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7Y5LPGd/HBOshare-Ext-Group.jpg" group-title="SHAREEXT@ MOVIES", HBO Family (php)
+http://96.44.160.246:9999/smt.php?id=Hbofamily 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7Y5LPGd/HBOshare-Ext-Group.jpg" group-title="SHAREEXT@ MOVIES", HBO Hits (php)
+http://96.44.160.246:9999/smt.php?id=Hbohitshd 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7Y5LPGd/HBOshare-Ext-Group.jpg" group-title="SHAREEXT@ MOVIES", HBO Signature (php)
+http://96.44.160.246:9999/smt.php?id=Hbosignature
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ MOVIES", Hits (php)
+http://96.44.160.246:9999/smt.php?id=Hits 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ MOVIES", Hits Movie (php)
+http://96.44.160.246:9999/smt.php?id=Hitsmovie 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ MOVIES", Movies Now HD (php)
+http://96.44.160.246:9999/smt.php?id=moviesnow_raj
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ MOVIES", One (php)
+http://96.44.160.246:9999/smt.php?id=One 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ MOVIES", Paramount Network (php)
+http://96.44.160.246:9999/smt.php?id=Paramountnetwork
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ MOVIES", Rock Actions (php)
+http://96.44.160.246:9999/smt.php?id=Rockaction 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ MOVIES", Rock Entertainment (php)
+http://96.44.160.246:9999/smt.php?id=Rockentertain
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ MOVIES", SCM (php)
+http://96.44.160.246:9999/smt.php?id=Weishimovie 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ MOVIES", Star Movies HD (php)
+http://96.44.160.246:9999/smt.php?id=starmovies_raj
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ MOVIES", Thrill (php)
+http://96.44.160.246:9999/smt.php?id=Thrill 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ MOVIES", tvN Movie (php)
+http://96.44.160.246:9999/smt.php?id=Tvnmovie 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ MOVIES", Warner TV (php)
+http://96.44.160.246:9999/smt.php?id=WarnerTV
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qq12QBhr/Marvel-Logo-shareext.jpg" group-title="SHAREEXT@DUNIA•MOVIES", Movie Sphere (UK)
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
@@ -3114,7 +3242,116 @@ https://catholictvhd-lh.akamaized.net/hls/live/2043390/CTVLiveHD/playlist_1.m3u8
 
 
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/158_144.png" group-title="SHAREEXT@Television/MY/ASTRO",QJ (xyz)
+https://o11.163189.xyz/stream/live/qj/
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/182_144.png" group-title="SHAREEXT@Television/MY/ASTRO",AEC (xyz)
+https://o11.163189.xyz/stream/live/aec/
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/172_144.png" group-title="SHAREEXT@Television/MY/ASTRO",AOD (xyz)
+https://o11.163189.xyz/stream/live/aod/
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", TV1 (php)
+http://96.44.160.246:9999/smt.php?id=TV1 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", TV1 backup (php)
+http://96.44.160.246:9999/smt.php?id=TV1_backup 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", TV2 (php)
+http://96.44.160.246:9999/smt.php?id=TV2 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", TV3 (php)
+http://96.44.160.246:9999/smt.php?id=TV3 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", TV3 SD (php)
+http://96.44.160.246:9999/smt.php?id=TV3_mega 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", NTV7 (php)
+http://96.44.160.246:9999/smt.php?id=NTV7 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", TV8 (php)
+http://96.44.160.246:9999/smt.php?id=TV8 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", TV9 (php)
+http://96.44.160.246:9999/smt.php?id=TV9 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", Ria (php)
+http://96.44.160.246:9999/smt.php?id=Ria-0 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", Ria-3 (php)
+http://96.44.160.246:9999/smt.php?id=Ria_backup 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", Al-Hijrah (php)
+http://96.44.160.246:9999/smt.php?id=Alhijrah 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", Al-Hijrah backup (php)
+http://96.44.160.246:9999/smt.php?id=Alhijrah_backup
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", Awani (php)
+http://96.44.160.246:9999/smt.php?id=Awani 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", Bernama (php)
+http://96.44.160.246:9999/smt.php?id=Bernama 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", Prima (php)
+http://96.44.160.246:9999/smt.php?id=Prima-0 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", Prima backup (php)
+http://96.44.160.246:9999/smt.php?id=AAprima1 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", Prima backup 2 (php)
+http://96.44.160.246:9999/smt.php?id=AAprima 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", Ceria (php)
+http://96.44.160.246:9999/smt.php?id=Ceria 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", Astro MTV (php)
+http://96.44.160.246:9999/smt.php?id=AstroMTV 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", Mecca Live HD (php)
+http://96.44.160.246:9999/smt.php?id=quran_mido
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", Madinah HD (php)
+http://96.44.160.246:9999/smt.php?id=sunnah_mido
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", Oasis (php)
+http://96.44.160.246:9999/smt.php?id=Oasis 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", Siar (php)
+http://96.44.160.246:9999/smt.php?id=Siar 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", Citra (php)
+http://96.44.160.246:9999/smt.php?id=AAcitra 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", Citra backup (php)
+http://96.44.160.246:9999/smt.php?id=AAcitra1 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", Sensasi (php)
+http://96.44.160.246:9999/smt.php?id=Sensasi 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", Aura (php)
+http://96.44.160.246:9999/smt.php?id=Aura 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", Rania (php)
+http://96.44.160.246:9999/smt.php?id=Rania 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", KBS World (php)
+http://96.44.160.246:9999/smt.php?id=KBS 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", Boo (php)
+http://96.44.160.246:9999/smt.php?id=Boo 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", Awesome TV (php)
+http://96.44.160.246:9999/smt.php?id=Dsangat 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", Astro Sonypix (php)
+http://96.44.160.246:9999/smt.php?id=Asonypix 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", Sony HD (php)
+http://96.44.160.246:9999/smt.php?id=SetOne 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", TvN (php)
+http://96.44.160.246:9999/smt.php?id=TVN 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", AEC (php)
+http://96.44.160.246:9999/smt.php?id=AEC 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", 华丽台 HD（Wah Lai Toi (php)
+http://96.44.160.246:9999/smt.php?id=Wlt 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", 欢喜台 HD（Hua Hee Tai (php)
+http://96.44.160.246:9999/smt.php?id=Huahee 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", Astro QJ (php)
+http://96.44.160.246:9999/smt.php?id=Quanjia 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", TVB Jade (php)
+http://96.44.160.246:9999/smt.php?id=Tvbjade 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", TVB Asia (php)
+http://96.44.160.246:9999/smt.php?id=Tvbasia 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", TVB Entertainment (php)
+http://96.44.160.246:9999/smt.php?id=Tvbentertainment TVB Classic (php)
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", http://96.44.160.246:9999/smt.php?id=Tvbclassic 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", AOD (php)
+http://96.44.160.246:9999/smt.php?id=Aodhd 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", TVB 星河台 Xing He (php)
+http://96.44.160.246:9999/smt.php?id=Xinhe 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", 爱奇艺 iQiyi (php)
+http://96.44.160.246:9999/smt.php?id=Qiyi 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", Goshop (php)
+http://96.44.160.246:9999/smt.php?id=Goshop 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", Celestial Movies HD (php)
+http://96.44.160.246:9999/smt.php?id=Celestial 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", Astro LOL (php)
+http://96.44.160.246:9999/smt.php?id=Astro_lol 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", Astro Rusi (php)
+http://96.44.160.246:9999/smt.php?id=Rusi 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", WION (php)
+http://96.44.160.246:9999/smt.php?id=Wion 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" group-title="SHAREEXT@Television/MY/ASTRO", RTM Asean (php)
+http://96.44.160.246:9999/smt.php?id=Rtmasean
 
 #EXTINF:-1 tvg-id="" tvg-name="TV 1 MALAYSIA" tvg-logo="https://tv.cic.net.id/uploads/TV1_MY.png" group-title="SHAREEXT@Television/MY/ASTRO",TV 1 (K7)
 http://iptv.kilas7.com:80/kaukia/asdfrewq/24
@@ -3924,6 +4161,32 @@ http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 
 
 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@SINGSPORE_Brunei_Station", Channel 5 (php)
+http://96.44.160.246:9999/smt.php?id=Channel5HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@SINGSPORE_Brunei_Station", Channel 8 (php)
+http://96.44.160.246:9999/smt.php?id=Channel8HD 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@SINGSPORE_Brunei_Station", Suria (php)
+http://96.44.160.246:9999/smt.php?id=Suria 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@SINGSPORE_Brunei_Station", Channel U (php)
+http://96.44.160.246:9999/smt.php?id=ChannelU
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@SINGSPORE_Brunei_Station", Vasantham (php)
+http://96.44.160.246:9999/smt.php?id=Vasantham 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@SINGSPORE_Brunei_Station", CNA twn (php)
+http://96.44.160.246:9999/smt.php?id=cna_twn 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@SINGSPORE_Brunei_Station", MeWatch Ch 5 (php)
+http://96.44.160.246:9999/smt.php?id=Mewatch_ch5
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@SINGSPORE_Brunei_Station", MeWatch Ch 8 (php)
+http://96.44.160.246:9999/smt.php?id=Mewatch_ch8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@SINGSPORE_Brunei_Station", MeWatch Ch U (php)
+http://96.44.160.246:9999/smt.php?id=Mewatch_chU
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@SINGSPORE_Brunei_Station", MeWatch Suria (php)
+http://96.44.160.246:9999/smt.php?id=Mewatch_Suria
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@SINGSPORE_Brunei_Station", MeWatch Vasantham (php)
+http://96.44.160.246:9999/smt.php?id=Mewatch_Vasantham 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@SINGSPORE_Brunei_Station", MeWatch CNA (php)
+http://96.44.160.246:9999/smt.php?id=Mewatch_cna
+
 #EXTINF:-1 tvg-id="" tvg-name="CHANNEL NEWS ASIA" tvg-logo="https://tv.cic.net.id/uploads/CNA.png" group-title="SHAREEXT@SINGSPORE_Brunei_Station",CHANNEL NEWS ASIA (K7)
 http://iptv.kilas7.com:80/kaukia/asdfrewq/18
 #EXTINF:-1 tvg-id="" tvg-name="CHANNEL 8" tvg-logo="https://tv.cic.net.id/uploads/CHANNEL_8_HD.png" group-title="SHAREEXT@SINGSPORE_Brunei_Station",CHANNEL 8 (K7)
@@ -4067,7 +4330,26 @@ https://d2kziuzkf9oizb.cloudfront.net/rd005/chunklist.m3u8
 
 
 
-
+#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/CCTV1.png" group-title="SHAREEXT@CHINA_STATION/央视频道", CCTV 1 (live)
+http://69.30.246.194/live/cctv1.m3u8
+#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/CCTV4.png" group-title="SHAREEXT@CHINA_STATION/央视频道", CCTV 4 (live)
+http://69.30.246.194/live/cctv4.m3u8
+#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/CCTV5+.png" group-title="SHAREEXT@CHINA_STATION/央视频道", CCTV 5+ (live)
+http://69.30.246.194/live/cctv5p.m3u8
+#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/CCTV11.png" group-title="SHAREEXT@CHINA_STATION/央视频道", CCTV 11 (live)
+http://69.30.246.194/live/cctv11.m3u8
+#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/CCTV12.png" group-title="SHAREEXT@CHINA_STATION/央视频道", CCTV 12 (live)
+http://69.30.246.194/live/cctv12.m3u8
+#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/CCTV13.png" group-title="SHAREEXT@CHINA_STATION/央视频道", CCTV 13 (live)
+http://69.30.246.194/live/cctv13.m3u8
+#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/CCTV14.png" group-title="SHAREEXT@CHINA_STATION/央视频道", CCTV 14 (live)
+http://69.30.246.194/live/cctv14.m3u8
+#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/CCTV15.png" group-title="SHAREEXT@CHINA_STATION/央视频道", CCTV 15 (live)
+http://69.30.246.194/live/cctv15.m3u8
+#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/CCTV16.png" group-title="SHAREEXT@CHINA_STATION/央视频道", CCTV 16 (live)
+http://69.30.246.194/live/cctv16.m3u8
+#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/CCTV17.png" group-title="SHAREEXT@CHINA_STATION/央视频道", CCTV 17 (live)
+http://69.30.246.194/live/cctv17.m3u8
 
 #EXTINF:-1 tvg-id="TDMSports.mo" tvg-logo="https://i.imgur.com/AsWLf8S.png" group-title="SHAREEXT@CHINA_STATION/央视频道", TDM Sports (720p)
 https://live3.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8

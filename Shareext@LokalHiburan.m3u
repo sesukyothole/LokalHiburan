@@ -202,60 +202,6 @@ https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION", TVRI National (php)
-https://live.catvod.com/live.php?id=TVRI
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION", RCTI (php)
-https://live.catvod.com/live.php?id=Rcti
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION", Kompass TV (php)
-https://live.catvod.com/live.php?id=Kompass
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION", Berita Satu (php)
-https://live.catvod.com/live.php?id=BeritaSatu_eko
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION", Indosiar HD (php)
-https://live.catvod.com/live.php?id=Indosiar
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION", AnTV (php)
-https://live.catvod.com/live.php?id=Antv
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION", MNC TV (php)
-https://live.catvod.com/live.php?id=Mnctv
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION", Trans 7 (php)
-https://live.catvod.com/live.php?id=Trans7_eko
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION", Transtv (php)
-https://live.catvod.com/live.php?id=Transtv
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION", JTV (php)
-https://live.catvod.com/live.php?id=JITV_eko
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION", Metro TV (php)
-https://live.catvod.com/live.php?id=metrotv_eko
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION", SCTV (php)
-https://live.catvod.com/live.php?id=SCTV
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION", Tvone (php)
-https://live.catvod.com/live.php?id=Tvone
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION", TVMU (php)
-https://live.catvod.com/live.php?id=TVMU_eko
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION", GTV (php)
-https://live.catvod.com/live.php?id=Gtv
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION", RTV (php)
-https://live.catvod.com/live.php?id=Rtv
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION", Jak TV (php)
-https://live.catvod.com/live.php?id=Jaktv
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION", iNews TV (php)
-https://live.catvod.com/live.php?id=Inewstv
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION", Daai TV (php)
-https://live.catvod.com/live.php?id=DaaiTV
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION", Net TV (php)
-https://live.catvod.com/live.php?id=NetTV
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION", EWTN (php)
-https://live.catvod.com/live.php?id=Ewtn
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION", Tawaf TV (php)
-https://live.catvod.com/live.php?id=TawafTV
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION", Vision Prime (php)
-https://live.catvod.com/live.php?id=VisionPrime
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION", Muslim TV (php)
-https://live.catvod.com/live.php?id=MuslimTV
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION", Music TV (php)
-https://live.catvod.com/live.php?id=MusicTV
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION", Lifestyle&amp;Fashion (php)
-https://live.catvod.com/live.php?id=Lifestyle
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION", Sun TV HD (php)
-https://live.catvod.com/live.php?id=Suntv
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION", Indosiar (udp)
 http://202.169.224.202:8800/udp/239.9.1.25:1234
@@ -3209,8 +3155,8 @@ https://o11.163189.xyz/stream/live/aod/
 http://iptv.kilas7.com:80/kaukia/asdfrewq/24
 #EXTINF:-1 tvg-id="" tvg-name="TV 2 MALAYSIA" tvg-logo="https://tv.cic.net.id/uploads/TV2_MY.png" group-title="SHAREEXT@Television/MY/ASTRO",TV 2 (K7)
 http://iptv.kilas7.com:80/kaukia/asdfrewq/25
-#EXTINF:-1 tvg-id="" tvg-name="TV 3 MALAYSIA" tvg-logo="https://tv.cic.net.id/uploads/TV3.png" group-title="SHAREEXT@Television/MY/ASTRO",TV 3 (K7)
-https://live.catvod.com/live.php?id=TV3
+#EXTINF:-1 tvg-id="" tvg-name="TV 3 MALAYSIA" tvg-logo="https://tv.cic.net.id/uploads/TV3.png" group-title="SHAREEXT@Television/MY/ASTRO",TV 3 (php)
+http://php.jdshipin.com/smt.php?id=TV3
 #EXTINF:-1 tvg-id="" tvg-name="TV 7 MALAYSIA" tvg-logo="https://tv.cic.net.id/uploads/TV7_MY.png" group-title="SHAREEXT@Television/MY/ASTRO",TV 7 (K7)
 http://iptv.kilas7.com:80/kaukia/asdfrewq/27
 #EXTINF:-1 tvg-id="" tvg-name="TV 8 MALAYSIA" tvg-logo="https://tv.cic.net.id/uploads/TV8.png" group-title="SHAREEXT@Television/MY/ASTRO",TV 8 (K7)
@@ -4014,30 +3960,6 @@ http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@SINGSPORE_Brunei_Station", Channel 5 (php)
-https://live.catvod.com/live.php?id=Channel5HD
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@SINGSPORE_Brunei_Station", Channel 8 (php)
-https://live.catvod.com/live.php?id=Channel8HD
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@SINGSPORE_Brunei_Station", Suria (php)
-https://live.catvod.com/live.php?id=Suria
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@SINGSPORE_Brunei_Station", Channel U (php)
-https://live.catvod.com/live.php?id=ChannelU
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@SINGSPORE_Brunei_Station", Vasantham (php)
-https://live.catvod.com/live.php?id=Vasantham
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@SINGSPORE_Brunei_Station", CNA twn (php)
-https://live.catvod.com/live.php?id=cna_twn
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@SINGSPORE_Brunei_Station", MeWatch Ch 5 (php)
-https://live.catvod.com/live.php?id=Mewatch_ch5
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@SINGSPORE_Brunei_Station", MeWatch Ch 8 (php)
-https://live.catvod.com/live.php?id=Mewatch_ch8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@SINGSPORE_Brunei_Station", MeWatch Ch U (php)
-https://live.catvod.com/live.php?id=Mewatch_chU
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@SINGSPORE_Brunei_Station", MeWatch Suria (php)
-https://live.catvod.com/live.php?id=Mewatch_Suria
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@SINGSPORE_Brunei_Station", MeWatch Vasantham (php)
-https://live.catvod.com/live.php?id=Mewatch_Vasantham
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@SINGSPORE_Brunei_Station", MeWatch CNA (php)
-https://live.catvod.com/live.php?id=Mewatch_cna
 
 #EXTINF:-1 tvg-id="" tvg-name="CHANNEL NEWS ASIA" tvg-logo="https://tv.cic.net.id/uploads/CNA.png" group-title="SHAREEXT@SINGSPORE_Brunei_Station",CHANNEL NEWS ASIA (K7)
 http://iptv.kilas7.com:80/kaukia/asdfrewq/18

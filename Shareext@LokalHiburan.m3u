@@ -2888,6 +2888,29 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/daaitv/manifest.mpd
 
 
 
+#EXTINF:-1 group-title="SHAREEXT@ MOVIES" tvg-logo="https://i.postimg.cc/8cpzMwGv/ezgif-496f658d6a8d21.png",LTV MOVIES
+http://v2h.veryfast.filegear-sg.me/live/lhyp/stream.m3u8
+#EXTINF:-1 group-title="SHAREEXT@ MOVIES" tvg-logo="https://i.postimg.cc/5N9XC99r/ezgif-42aafcb5e02f98.png",LTV DRAMA
+http://v2h.veryfast.filegear-sg.me/live/lhxj/stream.m3u8
+#EXTINF:-1 group-title="SHAREEXT@ MOVIES" tvg-logo="https://i.postimg.cc/RFfCQw1V/ezgif-577111a11bd498b7.png",LTV JAPAN KOREA
+http://v2h.veryfast.filegear-sg.me/live/lhrh/stream.m3u8
+#EXTINF:-1 group-title="SHAREEXT@ MOVIES" tvg-logo="https://i.postimg.cc/C5PrL65x/ezgif-468afc6e0a817f.png",LTV IDOL
+http://v2h.veryfast.filegear-sg.me/live/lhox/stream.m3u8
+#EXTINF:-1 group-title="SHAREEXT@ MOVIES" tvg-logo="https://i.postimg.cc/zGVrFn8y/ezgif-5eb251647a846b17.png",LTV ANIMATION
+http://v2h.veryfast.filegear-sg.me/live/lhkt/stream.m3u8
+#EXTINF:-1 group-title="SHAREEXT@ MOVIES" tvg-logo="https://i.postimg.cc/jd3BsCn4/ezgif-43b2379c01036f.png",LTV CLASSIC
+http://v2h.veryfast.filegear-sg.me/live/lhjd/stream.m3u8
+#EXTINF:-1 group-title="SHAREEXT@ MOVIES" tvg-logo="https://i.postimg.cc/50wMy1WN/ezgif-4735e3cd5608a8.png",LTV ASIA
+http://v2h.veryfast.filegear-sg.me/live/lhdy/stream.m3u8
+#EXTINF:-1 group-title="SHAREEXT@ MOVIES" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/chc-action-cn.png",CHC ACTION MOVIES
+http://69.30.245.50/live/chcdz.m3u8
+#EXTINF:-1 group-title="SHAREEXT@ MOVIES" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/chc-home-theater-cn.png",CHC HOME THEATER
+http://69.30.245.50/live/chcjt.m3u8
+#EXTINF:-1 group-title="SHAREEXT@ MOVIES" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/chc-fan-movies-cn.png",CHC FAN MOVIES
+http://69.30.245.50/live/chchd.m3u8
+#EXTINF:-1 group-title="SHAREEXT@ MOVIES" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/reviewing-classic-channel-cn.png",CHONGWEN CLASSIC CHANNEL
+http://69.30.246.194/live/cwjd.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ MOVIES",ASIAN ACTION (twn)
 http://vipkentken.top:8080/live/VIP01697172669118799/80fba95604f6/34847.ts 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ MOVIES",ELTA综合
@@ -4122,7 +4145,28 @@ http://supersonictv.live:8080/Allen123/Allen123/85589
 
 
 
-
+#EXTINF:-1 group-title="SHAREEXT@DOUYU_21 Cineplex" tvg-logo="https://i.postimg.cc/d00s4DvF/ezgif-6d643fe036d1f189.png",JACKIE CHAN MOVIES
+http://74.91.26.218:82/live/vlcl.m3u8
+#EXTINF:-1 group-title="SHAREEXT@DOUYU_21 Cineplex" tvg-logo="https://i.postimg.cc/d00s4DvF/ezgif-6d643fe036d1f189.png",JACKIE CHAN MOVIES (huya)
+http://www.douzhicloud.site:35455/huya/11342386
+#EXTINF:-1 group-title="SHAREEXT@DOUYU_21 Cineplex" tvg-logo="https://i.postimg.cc/tJJFb9h6/ezgif-64b0a9042764879e.png",ANDY LAU MOVIES
+http://74.91.26.218:82/live/vlldh.m3u8
+#EXTINF:-1 group-title="SHAREEXT@DOUYU_21 Cineplex" tvg-logo="https://i.postimg.cc/tJJFb9h6/ezgif-64b0a9042764879e.png",ANDY LAU MOVIES (huya)
+http://www.douzhicloud.site:35455/huya/11342424
+#EXTINF:-1 group-title="SHAREEXT@DOUYU_21 Cineplex" tvg-logo="https://i.postimg.cc/zGrSbY5r/ezgif-6f5c663123d19ef6.png",CHOW YUN-FAT MOVIES
+http://74.91.26.218:82/live/vlzrf.m3u8
+#EXTINF:-1 group-title="SHAREEXT@DOUYU_21 Cineplex" tvg-logo="https://i.postimg.cc/jqf7z3Ms/ezgif-62851c7f2ecebbb1.png",STEPHEN CHOW MOVIES
+http://74.91.26.218:82/live/vlzxc.m3u8
+#EXTINF:-1 group-title="SHAREEXT@DOUYU_21 Cineplex" tvg-logo="https://i.postimg.cc/jqf7z3Ms/ezgif-62851c7f2ecebbb1.png",STEPHEN CHOW MOVIES (huya)
+http://www.douzhicloud.site:35455/huya/11342412
+#EXTINF:-1 group-title="SHAREEXT@DOUYU_21 Cineplex" tvg-logo="https://i.postimg.cc/SNxrw2LJ/ezgif-5c4e00a32ad935c6.png",LOUIS KOO MOVIES
+http://www.douzhicloud.site:35455/huya/29982675
+#EXTINF:-1 group-title="SHAREEXT@DOUYU_21 Cineplex" tvg-logo="https://i.postimg.cc/FzMHgJNk/ezgif-579ead002f35eeed.png",JET LI MOVIES
+http://www.douzhicloud.site:35455/huya/11342390
+#EXTINF:-1 group-title="SHAREEXT@DOUYU_21 Cineplex" tvg-logo="https://i.postimg.cc/Gm5dkyK0/ezgif-550e48603e030b84.png",DONNIE YEN MOVIES
+http://www.douzhicloud.site:35455/huya/11352935
+#EXTINF:-1 group-title="SHAREEXT@DOUYU_21 Cineplex" tvg-logo="https://i.postimg.cc/43XN59hG/ezgif-566fb6d8e26c41b5.png",HUYA SPY MOVIES
+http://www.douzhicloud.site:35455/huya/21059585
 
 #EXTINF:-1 tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="SHAREEXT@DOUYU_21 Cineplex", BruceLee Movie
 http://supersonictv.live:8080/live/Allen123/Allen123/81942.ts

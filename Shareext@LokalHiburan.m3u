@@ -18,6 +18,16 @@ http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8|user-agent=Mozilla/5.0 (W
 https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/trans%207.png" group-title="Shareext@LOKAL_ID",TRANS7_dt
 https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg" group-title="Shareext@LOKAL_ID",TVN MOVIES (TRANS2)
+http://202.150.161.212:5000/live/channel30/playlist.m3u8
+#EXTINF:-1 group-title="Shareext@LOKAL_ID" tvg-url="tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/net.png",MDTV (TRANS2)
+http://202.150.161.212:5000/live/channel31/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg" group-title="Shareext@LOKAL_ID",BIOSKOP INDONESIA (TRANS2)
+http://202.150.161.212:5000/live/channel35/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg" group-title="Shareext@LOKAL_ID",JTV (TRANS2)
+http://202.150.161.212:5000/live/channel38/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/moji.png" group-title="Shareext@LOKAL_ID",MOJI (TRANS2)
+http://202.150.161.212:5000/live/channel39/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TRANS TV" tvg-logo="https://tv.cic.net.id/uploads/TRANSTV.png" group-title="Shareext@LOKAL_ID",TRANS TV (K7)
 http://iptv.kilas7.com:80/kaukia/asdfrewq/3
@@ -305,8 +315,25 @@ https://cdn10jtedge.indihometv.com/atm/DASH/cinemax/manifest.mpd
 #EXTINF:-1 tvg-id="tvNMovies.id" tvg-name="tvN Movies" tvg-logo="https://mimipipi22.github.io/logo/movies/tvnmovies.jpg" group-title="SHAREEXT@ DENZ TV",TVN MOVIES (vs+)
 https://d2tjypxxy769fn.cloudfront.net/out/v1/096d5cf064294e7ea3a7f59ee2899669/index.mpd 
 
+#EXTINF:-1 group-title="SHAREEXT@ DENZ TV" tvg-logo="https://mimipipi22.github.io/logo/entertainment/tvn.jpg",TVN (vs+2)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2e8cbd6f664b4ace966d3edfad94c18e:cff33777777f7e61078ae2ae41ed0636
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/6dc5412d26ea4e65961c825d866f2a34/index.mpd
+
+#EXTINF:-1 group-title="SHAREEXT@ DENZ TV" tvg-logo="https://mimipipi22.github.io/logo/movies/tvnmovies.jpg",TVN MOVIES (vs+2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=17fb563c784848f09d8a1ea88a2fa989:1d0bd94eab5d5f56a950b784d9345439
+https://fta2-cdn-flr.visionplus.id/out/v1/096d5cf064294e7ea3a7f59ee2899669/index.mpd
+
+#EXTINF:-1 tvg-id="tvNMovies.id" tvg-name="tvN Movies" tvg-logo="https://mimipipi22.github.io/logo/movies/tvnmovies.jpg" group-title="SHAREEXT@ DENZ TV",tvN (trans2)
+http://202.150.161.212:5000/live/channel30/playlist.m3u8
+
 #EXTINF:-1 tvg-id="tvNMovies.id" tvg-name="tvN Movies" tvg-logo="https://mimipipi22.github.io/logo/movies/tvnmovies.jpg" group-title="SHAREEXT@ DENZ TV",tvN (php)
-http://ma-yi.k.vu/mayi/697456c165396.php?id=Tvnmovie
+https://smt.tzh911.de5.net/Tvnmovie/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=2e8cbd6f664b4ace966d3edfad94c18e:cff33777777f7e61078ae2ae41ed0636 
@@ -319,8 +346,7 @@ https://fta1-cdn-flr.visionplus.id/out/v1/6dc5412d26ea4e65961c825d866f2a34/index
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://fcc.manggatv09.workers.dev/
-#KODIPROP:inputstream.adaptive.license_key=http://forsat.diskon.cloud/forsattv/forsatpro1900.php
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew2025.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c6857e04fca5017e9052a68542f9/manifest.mpd
 
@@ -345,7 +371,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/9ec31bcce34848d69d4771270ff23ab9/ind
 #EXTINF:-1 tvg-id="Kplus.id" tvg-name="Kplus.id" tvg-logo="https://mimipipi22.github.io/logo/entertainment/kplus.jpg" group-title="SHAREEXT@ DENZ TV",K-PLUS (INDI) 
 https://cdn10jtedge.indihometv.com/atm/DASH/kplus/manifest.mpd 
 #EXTINF:-1 tvg-id="Kplus.id" tvg-name="Kplus.id" tvg-logo="https://mimipipi22.github.io/logo/entertainment/kplus.jpg" group-title="SHAREEXT@ DENZ TV",Kplus (php)
-http://ma-yi.k.vu/mayi/697456c165396.php?id=Kplus
+https://smt.tzh911.de5.net/Kplus/playlist.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -2771,6 +2797,32 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/daaitv/manifest.mpd
 
 
 
+
+
+
+
+#EXTINF:-1 group-title="SHAREEXT@ MOVIES" tvg-logo="https://i.postimg.cc/XYmBxJWw/ezgif-7c1c41d1246e2efc.png",VIDEOLAND JAPAN
+http://107.175.220.4:11799/videolandjapan/playlist.m3u8
+#EXTINF:-1 group-title="SHAREEXT@ MOVIES" tvg-logo="https://i.postimg.cc/K8FbV5Yz/ezgif-3ef35b7e3172cb5f.png",VIDEOLAND MAX
+http://107.175.220.4:11799/videolandmax/playlist.m3u8
+#EXTINF:-1 group-title="SHAREEXT@ MOVIES" tvg-logo="https://i.postimg.cc/kg6YmQbh/ezgif-32bea70549daf0d3.png",VIDEOLAND ENTERTAINMENT
+http://107.175.220.4:11799/videolandyule/playlist.m3u8
+#EXTINF:-1 group-title="SHAREEXT@ MOVIES" tvg-logo="https://i.postimg.cc/BbbJdTcT/ezgif-7cac7ca005932a40.png",VIDEOLAND DRAMA
+http://107.175.220.4:11799/videolandzonghe/playlist.m3u8
+#EXTINF:-1 group-title="SHAREEXT@ MOVIES" group-title="SHAREEXT@ MOVIES" tvg-logo="https://i.postimg.cc/XYGpZb5G/ezgif-73bb39d3d9d1b922.png",VIDEOLAND MOVIE
+http://107.175.220.4:11799/videolandmovie/playlist.m3u8
+#EXTINF:-1 group-title="SHAREEXT@ MOVIES" tvg-logo="https://i.postimg.cc/kg6YmQbh/ezgif-32bea70549daf0d3.png",VIDEOLAND WONDERFUL
+http://107.175.220.4:11799/videolandtv/playlist.m3u8
+
+#EXTINF:-1 group-title="SHAREEXT@ MOVIES" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tdm-ou-mun-mo.png",TDM AOMEN
+http://cdn6.veryfast.filegear-sg.me/live/asam/stream.m3u8
+#EXTINF:-1 group-title="SHAREEXT@ MOVIES" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tdm-macau-satellite-mo.png",TDM MACAU SATELLITE
+http://cdn6.veryfast.filegear-sg.me/live/as/stream.m3u8
+#EXTINF:-1 group-title="SHAREEXT@ MOVIES" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tdm-variety-mo.png",TDM VARIETY
+http://cdn6.veryfast.filegear-sg.me/live/amzy/stream.m3u8
+#EXTINF:-1 group-title="SHAREEXT@ MOVIES" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/macau_lotus_tv_mo.png",LOTUS MACAU
+http://cdn6.veryfast.filegear-sg.me/live/amlh/stream.m3u8
+
 #EXTINF:-1 group-title="SHAREEXT@ MOVIES" tvg-logo="https://i.postimg.cc/8cpzMwGv/ezgif-496f658d6a8d21.png",LTV MOVIES
 http://v2h.veryfast.filegear-sg.me/live/lhyp/stream.m3u8
 #EXTINF:-1 group-title="SHAREEXT@ MOVIES" tvg-logo="https://i.postimg.cc/5N9XC99r/ezgif-42aafcb5e02f98.png",LTV DRAMA
@@ -2802,34 +2854,37 @@ http://vipkentken.top:8080/live/VIP01697172669118799/80fba95604f6/34920.ts
 http://vipkentken.top:8080/live/VIP01697172669118799/80fba95604f6/34824.ts 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ MOVIES",HBO HD (twn)
 http://vipkentken.top:8080/live/VIP01697172669118799/80fba95604f6/34918.ts
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7Y5LPGd/HBOshare-Ext-Group.jpg" group-title="SHAREEXT@ MOVIES",HBO HD (mly)
-http://ma-yi.k.vu/mayi/697456c165396.php?id=Hbo
+https://smt.tzh911.de5.net/Hbo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7Y5LPGd/HBOshare-Ext-Group.jpg" group-title="SHAREEXT@ MOVIES",HBO Hits (mly)
-http://ma-yi.k.vu/mayi/697456c165396.php?id=Hbohitshd 
+https://smt.tzh911.de5.net/Hbohitshd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7Y5LPGd/HBOshare-Ext-Group.jpg" group-title="SHAREEXT@ MOVIES",HBO Signature (mly)
-http://ma-yi.k.vu/mayi/697456c165396.php?id=Hbosignature
+https://smt.tzh911.de5.net/Hbosignature/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7Y5LPGd/HBOshare-Ext-Group.jpg" group-title="SHAREEXT@ MOVIES",Rock Actions (mly)
-http://ma-yi.k.vu/mayi/697456c165396.php?id=Rockaction 
+https://smt.tzh911.de5.net/Rockaction/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7Y5LPGd/HBOshare-Ext-Group.jpg" group-title="SHAREEXT@ MOVIES",Rock Entertainment (mly)
-http://ma-yi.k.vu/mayi/697456c165396.php?id=Rockentertain
+https://smt.tzh911.de5.net/Rockentertain/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7Y5LPGd/HBOshare-Ext-Group.jpg" group-title="SHAREEXT@ MOVIES",CINEMAX (twn)
+https://smt.tzh911.de5.net/Cinemax/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7Y5LPGd/HBOshare-Ext-Group.jpg" group-title="SHAREEXT@ MOVIES",CINEMAX (mly)
 http://vipkentken.top:8080/live/VIP01697172669118799/80fba95604f6/34928.ts 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7Y5LPGd/HBOshare-Ext-Group.jpg" group-title="SHAREEXT@ MOVIES",Celestial Movies HD (mly)
-http://ma-yi.k.vu/mayi/697456c165396.php?id=Celestialindo 
+https://smt.tzh911.de5.net/Celestialindo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7Y5LPGd/HBOshare-Ext-Group.jpg" group-title="SHAREEXT@ MOVIES",Celestial Classic (mly)
-http://ma-yi.k.vu/mayi/697456c165396.php?id=Celestial2 
+https://smt.tzh911.de5.net/Celestial2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7Y5LPGd/HBOshare-Ext-Group.jpg" group-title="SHAREEXT@ MOVIES",Axn HD (mly)
-http://ma-yi.k.vu/mayi/697456c165396.php?id=Axn 
+https://smt.tzh911.de5.net/Axn/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7Y5LPGd/HBOshare-Ext-Group.jpg" group-title="SHAREEXT@ MOVIES",Thrill (mly)
-http://ma-yi.k.vu/mayi/697456c165396.php?id=Thrill
+https://smt.tzh911.de5.net/Thrill/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7Y5LPGd/HBOshare-Ext-Group.jpg" group-title="SHAREEXT@ MOVIES",tvN (mly) 
-http://ma-yi.k.vu/mayi/697456c165396.php?id=Tvnmovie 
+https://smt.tzh911.de5.net/Tvnmovie/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7Y5LPGd/HBOshare-Ext-Group.jpg" group-title="SHAREEXT@ MOVIES",One (mly)
-http://ma-yi.k.vu/mayi/697456c165396.php?id=One 
+https://smt.tzh911.de5.net/One/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7Y5LPGd/HBOshare-Ext-Group.jpg" group-title="SHAREEXT@ MOVIES",Hits (mly)
-http://ma-yi.k.vu/mayi/697456c165396.php?id=Hits
+https://smt.tzh911.de5.net/Hits/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7Y5LPGd/HBOshare-Ext-Group.jpg" group-title="SHAREEXT@ MOVIES",Hits Movie (mly)
-http://ma-yi.k.vu/mayi/697456c165396.php?id=Hitsmovie
+https://smt.tzh911.de5.net/Hitsmovie/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7Y5LPGd/HBOshare-Ext-Group.jpg" group-title="SHAREEXT@ MOVIES",缇庝簹鐢靛奖(MeiyaMovie_twn)
 http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=meiyamovie_twn
@@ -3712,7 +3767,7 @@ http://iptv.kilas7.com:80/kaukia/asdfrewq/25
 #EXTINF:-1 tvg-id="" tvg-name="TV 3 MALAYSIA" tvg-logo="https://tv.cic.net.id/uploads/TV3.png" group-title="SHAREEXT@Television/MY/ASTRO",TV 3 (smt)
 http://php.jdshipin.com/smt.php?id=TV3
 #EXTINF:-1 tvg-id="" tvg-name="TV 3 MALAYSIA" tvg-logo="https://tv.cic.net.id/uploads/TV3.png" group-title="SHAREEXT@Television/MY/ASTRO",TV 3 (php)
-http://ma-yi.k.vu/mayi/697456c165396.php?id=tv3
+https://smt.tzh911.de5.net/TV3/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV 7 MALAYSIA" tvg-logo="https://tv.cic.net.id/uploads/TV7_MY.png" group-title="SHAREEXT@Television/MY/ASTRO",TV 7 (K7)
 http://iptv.kilas7.com:80/kaukia/asdfrewq/27
 #EXTINF:-1 tvg-id="" tvg-name="TV 8 MALAYSIA" tvg-logo="https://tv.cic.net.id/uploads/TV8.png" group-title="SHAREEXT@Television/MY/ASTRO",TV 8 (K7)
